@@ -37,7 +37,7 @@ export const reviewPackages: IReviewPackage[] = [
             '250x Review Flyers (A5 formaat)',
             '10x NFC Review Cards (Personeel)',
             'Social Media Review Templates (Canva)',
-            'Maandelijkse Review Rapportage',
+            'Review Rapportages',
             'Prioriteit Support & Setup',
             'Gratis Design Consult'
         ],
