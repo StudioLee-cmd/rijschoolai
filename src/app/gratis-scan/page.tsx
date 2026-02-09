@@ -55,7 +55,7 @@ const ScanForm = ({ onStartScan }: { onStartScan: (data: any) => void }) => {
     return (
         <form onSubmit={handleSubmit} className="space-y-6">
             <div>
-                <label className="block text-sm font-medium text-gray-700 mb-2">Naam <span className="text-red-500">*</span></label>
+                <label className="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-2">Naam <span className="text-red-500">*</span></label>
                 <div className="relative">
                     <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
                         <BsPerson className="text-gray-400" />
@@ -66,13 +66,13 @@ const ScanForm = ({ onStartScan }: { onStartScan: (data: any) => void }) => {
                         placeholder="Hoe wil je genoemd worden?"
                         value={name}
                         onChange={(e) => setName(e.target.value)}
-                        className="block w-full pl-10 pr-3 py-3 border border-gray-300 rounded-xl focus:ring-blue-500 focus:border-blue-500 transition-colors"
+                        className="block w-full pl-10 pr-3 py-3 border border-gray-300 dark:border-gray-700 bg-white dark:bg-gray-800 text-gray-900 dark:text-white rounded-xl focus:ring-blue-500 focus:border-blue-500 transition-colors"
                     />
                 </div>
             </div>
 
             <div>
-                <label className="block text-sm font-medium text-gray-700 mb-2">Website URL <span className="text-red-500">*</span></label>
+                <label className="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-2">Website URL <span className="text-red-500">*</span></label>
                 <div className="relative">
                     <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
                         <BsGlobe className="text-gray-400" />
@@ -83,16 +83,16 @@ const ScanForm = ({ onStartScan }: { onStartScan: (data: any) => void }) => {
                         placeholder="https://jouwwebsite.nl"
                         value={website}
                         onChange={(e) => setWebsite(e.target.value)}
-                        className="block w-full pl-10 pr-3 py-3 border border-gray-300 rounded-xl focus:ring-blue-500 focus:border-blue-500 transition-colors"
+                        className="block w-full pl-10 pr-3 py-3 border border-gray-300 dark:border-gray-700 bg-white dark:bg-gray-800 text-gray-900 dark:text-white rounded-xl focus:ring-blue-500 focus:border-blue-500 transition-colors"
                     />
                 </div>
-                <p className="text-xs text-gray-500 mt-1">
+                <p className="text-xs text-gray-500 dark:text-gray-400 mt-1">
                     *Controleer of dit de juiste website is voor de analyse.
                 </p>
             </div>
 
             <div>
-                <label className="block text-sm font-medium text-gray-700 mb-2">E-mail <span className="text-red-500">*</span></label>
+                <label className="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-2">E-mail <span className="text-red-500">*</span></label>
                 <div className="relative">
                     <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
                         <BsEnvelope className="text-gray-400" />
@@ -103,13 +103,13 @@ const ScanForm = ({ onStartScan }: { onStartScan: (data: any) => void }) => {
                         placeholder="jouw@email.nl"
                         value={email}
                         onChange={(e) => setEmail(e.target.value)}
-                        className="block w-full pl-10 pr-3 py-3 border border-gray-300 rounded-xl focus:ring-blue-500 focus:border-blue-500 transition-colors"
+                        className="block w-full pl-10 pr-3 py-3 border border-gray-300 dark:border-gray-700 bg-white dark:bg-gray-800 text-gray-900 dark:text-white rounded-xl focus:ring-blue-500 focus:border-blue-500 transition-colors"
                     />
                 </div>
             </div>
 
             <div>
-                <label className="block text-sm font-medium text-gray-700 mb-2">
+                <label className="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-2">
                     Waar loop je nu tegenaan?
                 </label>
                 <textarea
@@ -117,12 +117,12 @@ const ScanForm = ({ onStartScan }: { onStartScan: (data: any) => void }) => {
                     placeholder="Ik heb te weinig tijd voor..."
                     value={struggles}
                     onChange={(e) => setStruggles(e.target.value)}
-                    className="block w-full p-3 border border-gray-300 rounded-xl focus:ring-blue-500 focus:border-blue-500 transition-colors"
+                    className="block w-full p-3 border border-gray-300 dark:border-gray-700 bg-white dark:bg-gray-800 text-gray-900 dark:text-white rounded-xl focus:ring-blue-500 focus:border-blue-500 transition-colors"
                 />
                 <button
                     type="button"
                     onClick={handleSurpriseMe}
-                    className="text-sm text-blue-600 hover:text-blue-800 mt-2 font-medium flex items-center gap-1"
+                    className="text-sm text-blue-600 dark:text-[var(--secondary)] hover:text-blue-800 dark:hover:text-orange-400 mt-2 font-medium flex items-center gap-1"
                 >
                     ✨ Ik weet het niet, verras mij maar
                 </button>
@@ -136,7 +136,7 @@ const ScanForm = ({ onStartScan }: { onStartScan: (data: any) => void }) => {
 
             <button
                 type="submit"
-                className="w-full bg-blue-600 text-white font-bold py-4 px-6 rounded-xl shadow-lg hover:bg-blue-500 hover:shadow-xl hover:scale-[1.02] transition-all duration-200 flex items-center justify-center gap-2"
+                className="w-full bg-blue-600 dark:bg-[var(--secondary)] text-white font-bold py-4 px-6 rounded-xl shadow-lg hover:bg-blue-500 dark:hover:bg-orange-600 hover:shadow-xl hover:scale-[1.02] transition-all duration-200 flex items-center justify-center gap-2"
             >
                 🚀 START SCAN & STUUR RAPPORT
             </button>
@@ -155,21 +155,21 @@ export default function GratisScanPage() {
     };
 
     return (
-        <main className="min-h-screen bg-gray-50">
+        <main className="min-h-screen bg-gray-50 dark:bg-[#171717] transition-colors duration-500">
             <Header />
 
             <section className="pt-32 pb-20 px-4 sm:px-6 lg:px-8">
                 <div className="max-w-xl mx-auto">
                     <div className="text-center mb-10">
-                        <h1 className="text-4xl font-extrabold text-gray-900 mb-4">
+                        <h1 className="text-4xl font-extrabold text-gray-900 dark:text-white mb-4">
                             Gratis AI & SEO Scan
                         </h1>
-                        <p className="text-lg text-gray-600">
+                        <p className="text-lg text-gray-600 dark:text-gray-300">
                             We brengen in kaart hoe je scoort ten opzichte van concurrenten, waar je kansen laat liggen en hoe ons systeem je direct vooruit helpt.
                         </p>
                     </div>
 
-                    <div className="bg-white rounded-3xl shadow-xl p-8 border border-gray-100">
+                    <div className="bg-white dark:bg-gray-900 rounded-3xl shadow-xl p-8 border border-gray-100 dark:border-gray-800">
                         <Suspense fallback={<div className="text-center py-10">Laden...</div>}>
                             <ScanForm onStartScan={startScan} />
                         </Suspense>
@@ -190,7 +190,7 @@ export default function GratisScanPage() {
                             initial={{ scale: 0.9, opacity: 0 }}
                             animate={{ scale: 1, opacity: 1 }}
                             exit={{ scale: 0.9, opacity: 0 }}
-                            className="bg-white rounded-2xl w-full max-w-4xl overflow-hidden shadow-2xl relative"
+                            className="bg-white dark:bg-gray-900 rounded-2xl w-full max-w-4xl overflow-hidden shadow-2xl relative"
                         >
                             {/* Header */}
                             <div className="bg-blue-600 text-white p-6 flex justify-between items-center">
@@ -219,13 +219,13 @@ export default function GratisScanPage() {
                                 </div>
                             </div>
 
-                            <div className="p-6 bg-gray-50 flex justify-between items-center">
-                                <p className="text-gray-600 text-sm italic">
+                            <div className="p-6 bg-gray-50 dark:bg-gray-800 flex justify-between items-center">
+                                <p className="text-gray-600 dark:text-gray-400 text-sm italic">
                                     "Terwijl de AI je site analyseert: Hoe dit systeem werkt."
                                 </p>
                                 <button
                                     onClick={() => setIsModalOpen(false)}
-                                    className="text-gray-400 hover:text-gray-600 text-sm underline"
+                                    className="text-gray-400 hover:text-gray-600 dark:text-gray-500 dark:hover:text-gray-300 text-sm underline"
                                 >
                                     Sluiten (Dev Only)
                                 </button>
