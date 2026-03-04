@@ -11,7 +11,7 @@ export const footerDetails: {
     address: string;
     legalName: string;
 } = {
-    subheading: "Focus op het dak, wij op de rest. Wij regelen je telefoontjes, planning en marketing, zodat jij kunt doen waar je goed in bent.",
+    subheading: "Focus op de leerlingen, wij op de rest. Wij regelen je telefoontjes, planning en nieuwe aanmeldingen, zodat jij kunt doen waar je goed in bent: lesgeven.",
     quickLinks: [
         {
             text: "Functies",
@@ -34,7 +34,7 @@ export const footerDetails: {
             url: "/gratis-scan"
         }
     ],
-    email: 'Info@dakdekkerai.nl',
+    email: 'tim@rijschoolai.nl',
     telephone: '+31612345678',
     socials: {
         instagram: 'https://www.instagram.com',

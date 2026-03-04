@@ -2,47 +2,47 @@ import { IFAQ } from "@/types";
 
 export const faqs: IFAQ[] = [
     {
-        question: "Hoe zit het met de veiligheid van mijn bedrijfsdata?",
-        answer: "Veiligheid is onze topprioriteit. Wij gebruiken hoogwaardige encryptie en voldoen aan strikte Europese AVG/GDPR richtlijnen. Jouw bedrijfsdata en klantgegevens blijven van jou en worden nooit gebruikt om publieke AI-modellen te trainen zonder jouw expliciete toestemming.",
+        question: "Hoe zit het met de veiligheid van mijn leerlinggegevens?",
+        answer: "Veiligheid is onze topprioriteit. Wij gebruiken hoogwaardige encryptie en voldoen aan strikte Europese AVG/GDPR richtlijnen. Jouw leerlinggegevens blijven van jou en worden nooit gedeeld.",
     },
     {
-        question: "Wat levert het mij concreet op (ROI)?",
-        answer: "Gemiddeld besparen onze klanten 10+ uur per week aan administratie en telefoontjes. Daarnaast mis je geen oproepen meer, wat direct leidt tot meer omzet. Eén geredde lekkageklus per maand dekt vaak de kosten al, nog los van de professionele uitstraling.",
+        question: "Wat levert het mij concreet op?",
+        answer: "Gemiddeld besparen rijscholen 10+ uur per week aan administratie en telefoontjes. Daarnaast mis je geen enkele nieuwe leerling meer omdat de AI altijd opneemt, ook als jij aan het lessen bent. Eén extra leerling per maand dekt de kosten al.",
     },
     {
-        question: "Heb ik technische kennis nodig om dit te beheren?",
-        answer: "Nee, absoluut niet. Ons dashboard is ontworpen voor gebruiksgemak: als je WhatsApp kunt gebruiken, kun je Dakdekker AI gebruiken. Voor complexere inrichting bieden we bovendien onze 'Managed Service' aan.",
+        question: "Heb ik technische kennis nodig?",
+        answer: "Nee, absoluut niet. Als je auto kunt rijden, kun je dit systeem gebruiken. Het is simpeler dan de meeste theorie-apps. Wij richten alles voor je in.",
     },
     {
-        question: "Kan ik de AI koppelen aan mijn eigen software?",
-        answer: "Ja, wij integreren naadloos met systemen zoals Google Calendar, Outlook, Syntess, Exact en vele anderen. Via ons open platform kunnen we vrijwel elke koppeling realiseren om jouw workflow te automatiseren.",
+        question: "Werkt dit samen met mijn huidige planningssoftware?",
+        answer: "Ja, wij koppelen met systemen zoals PlanGo, Dribe, Rijschoolsoftware en anderen. Zo worden nieuwe aanmeldingen direct goed gezet zonder dat jij iets hoeft over te typen.",
     },
     {
         question: "Wat als de AI het antwoord niet weet?",
-        answer: "De AI is getraind om eerlijk te zijn. Als hij het antwoord niet weet of de vraag te complex is, schakelt hij het gesprek netjes door naar jou, of neemt hij een boodschap aan zodat je zelf kunt terugbellen. Je raakt dus nooit een lead kwijt.",
+        answer: "De AI is eerlijk. Als hij een specifieke vraag over een examen of prijs niet weet, schakelt hij door naar jou of maakt een terugbelverzoek. Zo wordt je (potentiële) leerling altijd professioneel te woord gestaan.",
     },
     {
-        question: "Is dit geschikt voor ZZP'ers of alleen grote bedrijven?",
-        answer: "Ons systeem is schaalbaar. Voor ZZP'ers is het ideaal om bereikbaar te zijn terwijl je op het dak zit. Voor grotere bedrijven biedt het krachtige dispatch- en routingmogelijkheden om het kantoorpersoneel te ontlasten.",
+        question: "Is dit geschikt voor ZZP-instructeurs?",
+        answer: "Juist voor ZZP'ers! Jij moet lesgeven én de telefoon aannemen. Met RijschoolAI heb je een volledige binnendienst voor een fractie van de prijs, zodat jij je kunt focussen op de weg.",
     },
     {
-        question: "Kan ik 's avonds en in het weekend andere instellingen gebruiken?",
-        answer: "Zeker. Je kunt specifieke 'flows' instellen voor buiten openingstijden. Bijvoorbeeld: 'Alleen doorverbinden bij stormschade spoed, anders een afspraak inplannen voor maandagochtend'. Zo heb je ook écht weekend.",
+        question: "Kan ik het in het weekend uitzetten?",
+        answer: "Zeker. Je bepaalt zelf je openingstijden. Bij een spoedgeval (bijv. ziekmelding voor examen) kun je instellen dat het wel doorkomt, maar reguliere lessen plannen we voor de maandag.",
     },
     {
-        question: "Is het testen echt gratis?",
-        answer: "Ja, de software-toegang is 14 dagen 100% gratis. Je betaalt alleen voor je daadwerkelijke verbruik (zoals belminuten, AI-generaties en SMS'jes), omdat wij deze kosten ook direct moeten afdragen. Je zit nergens aan vast.",
+        question: "Zit ik ergens aan vast?",
+        answer: "Nee, je kunt maandelijks opzeggen. Wij geloven in onze kracht: als het voor jou werkt, blijf je vanzelf klant. Geen wurgcontracten zoals bij sommige franchise-formules.",
     },
     {
-        question: "Is de strategie-call echt gratis?",
-        answer: "Honderd procent. Geen addertjes. Wij denken graag met je mee hoe je dit systeem het beste kunt inzetten voor jouw bedrijf. Of je daarna klant wordt of niet, je krijgt van ons altijd eerlijk advies waar je direct mee aan de slag kunt.",
+        question: "Is de strategie-call echt vrijblijvend?",
+        answer: "100%. We kijken samen of het bij je past. Zo niet, even goede vrienden. We geven je eerlijk advies waar je rijschool direct wat aan heeft.",
     },
     {
-        question: "Waarom is de managed service niet geautomatiseerd?",
-        answer: "Omdat de huidige technologie nog niet betrouwbaar genoeg is om dit volledig te automatiseren. Hoewel het technisch mogelijk is, kan AI foutjes maken. Juist de menselijke touch van een expert zorgt voor een betere merkverbinding en een positief resultaat, in plaats van dat het spammerig overkomt.",
+        question: "Waarom is de managed service handig?",
+        answer: "Omdat jij liever lesgeeft dan software instelt. Wij beheren de techniek, zorgen dat je reviews binnenstromen en optimaliseren je vindbaarheid. Jij de lessen, wij de laptop.",
     },
     {
-        question: "Hoe snel is het inzetbaar?",
-        answer: "De basisinrichting staat binnen 5 minuten. Wil je een uitgebreide kennisbank en complexe koppelingen? Dan ben je met onze hulp vaak binnen één werkdag volledig operationeel.",
+        question: "Hoe snel kan ik starten?",
+        answer: "Binnen 24 uur kunnen we live zijn met de basis. Je krijgt een intake, wij richten het in, en je kunt je telefoon doorschakelen. Zo simpel is het.",
     }
 ];
