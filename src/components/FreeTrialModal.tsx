@@ -2,6 +2,7 @@
 
 import React, { useState, useEffect } from 'react';
 import { useRouter } from 'next/navigation';
+import { siteDetails } from '@/data/siteDetails';
 import { FiX, FiCheckCircle } from 'react-icons/fi';
 
 interface FreeTrialModalProps {
