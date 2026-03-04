@@ -49,4 +49,4 @@ export const comparisonData: IComparisonItem[] = [
 
 // Comparison values
 export const totalTraditionalCost = 3000;
-export const rijschoolAICost = 297;
+export const kapperAICost = 297;
