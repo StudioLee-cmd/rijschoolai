@@ -7,6 +7,8 @@ image: "/images/blog/wat-is-chatgpt-hoe-gebruik-je-het-als-rijschool.png"
 tags: ["Tools", "ChatGPT", "Rijscholen"]
 ---
 
+
+
 ChatGPT is een populaire AI-tool die miljoenen mensen dagelijks gebruiken. Het kan teksten schrijven, vragen beantwoorden en zelfs afbeeldingen genereren. Voor rijscholen biedt het interessante mogelijkheden â€” maar ook duidelijke beperkingen. In dit artikel leggen we uit wat ChatGPT kan, waar het stopt, en waarom een gespecialiseerd platform als RijschoolAI meer oplevert.
 
 ## Wat is ChatGPT?
@@ -79,3 +81,4 @@ Met onze managed service hoef je zelf niets te doen. We houden alles draaiend â€
 ChatGPT is een krachtig hulpmiddel dat elke rijschool gratis kan uitproberen. Maar het vervangt geen automatisering. Voor een compleet systeem dat je aanmeldingen opvangt, leerlingen herinnert, reviews verzamelt en je vindbaarheid verbetert, heb je een gespecialiseerd platform nodig.
 
 Vraag een [gratis scan](/gratis-scan) aan of [plan een adviesgesprek](https://studiolee.nl) om te ontdekken wat er mogelijk is.
+
