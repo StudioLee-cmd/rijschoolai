@@ -68,4 +68,4 @@ Als rijschoolhouder of rijinstructeur draai je lange dagen achter het stuur. Tus
 - **Lesplanning?** Plandriving regelt lessen en leerlingbeheer professioneel.
 - **Compleet systeem met AI?** [RijschoolAI](/) combineert planning, reviews, chatbot, Voice AI en vindbaarheid in één.
 
-Benieuwd wat RijschoolAI voor jouw rijschool kan betekenen? [Neem contact op](/contact).
+Benieuwd wat RijschoolAI voor jouw rijschool kan betekenen? [Plan een gratis gesprek](https://calendly.com/tim-studiolee).
