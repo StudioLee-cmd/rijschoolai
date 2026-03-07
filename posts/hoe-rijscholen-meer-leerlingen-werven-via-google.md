@@ -101,7 +101,7 @@ Jij geeft les. Wij zorgen dat leerlingen bij jou terechtkomen:
 - **SEO-pagina's** per doelgroep en dienst
 - **Maandrapportage** over aanmeldingen en groei
 
-**Plan een gratis gesprek via rijschoolai.nl.**
+**Plan een gratis gesprek via [rijschoolai.nl](https://www.rijschoolai.nl).**
 
 ---
 
