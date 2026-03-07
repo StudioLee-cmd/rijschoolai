@@ -3,7 +3,7 @@ title: "Het Einde van \"Appen tijdens de Les\": Veiligheid & Professionaliteit"
 excerpt: "Mis nooit meer een nieuwe leerling omdat je aan het lessen bent. Onze Voice AI neemt op, plant proeflessen en beantwoordt vragen. Veilig en winstgevend."
 date: "2026-01-02"
 authorSlug: "tim-van-der-lee"
-image: "/images/benefits/voice-ai.png"
+image: "/images/blog/ai-telefoniste-voor-rijscholen.png"
 tags: ["Voice AI", "Veiligheid", "Innovatie"]
 ---
 
