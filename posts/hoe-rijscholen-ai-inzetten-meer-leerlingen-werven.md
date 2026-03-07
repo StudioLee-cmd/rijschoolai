@@ -34,4 +34,4 @@ Rijscholen die dit inzetten rapporteren gemiddeld 40% meer nieuwe inschrijvingen
 
 ## Conclusie
 
-Rijscholen die AI inzetten, reageren sneller, plannen beter en groeien gestaag via organische reviews. Meer weten? Ga naar [rijschoolai.nl](https://rijschoolai.nl).
+Rijscholen die AI inzetten, reageren sneller, plannen beter en groeien gestaag via organische reviews. Meer weten? Ga naar [rijschoolai.nl](https://www.rijschoolai.nl).
