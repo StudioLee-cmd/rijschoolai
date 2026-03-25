@@ -42,7 +42,7 @@ Jongeren leven op TikTok en Instagram. Rijscholen die hier actief zijn, bereiken
 - **Succesverhalen** — een leerling die geslaagd is (met toestemming)
 - **Behind the scenes** — een dag als rij-instructeur
 
-Dit hoeft niet professioneel te zijn — authenticiteit werkt beter dan perfectie. Bekijk ook onze tips voor [social media voor rijscholen](/blog/social-media-rijscholen-leerlingen-werven).
+Dit hoeft niet professioneel te zijn — authenticiteit werkt beter dan perfectie. Bekijk ook onze tips voor [social media voor rijscholen](/blog/social-media-rijscholen-leerlingen).
 
 ### 3. Doorverwijzingsprogramma
 
@@ -52,7 +52,7 @@ Je beste ambassadeurs zijn geslaagde leerlingen. Zij kennen tientallen leeftijds
 - **Korting voor de nieuwe leerling** — een gratis proefles of korting op het eerste pakket
 - **Maak het makkelijk** — een persoonlijke link of code die de leerling kan delen via WhatsApp
 
-Dit is [digitale mond-tot-mondreclame](/blog/mond-tot-mondreclame-rijschool-geslaagd) in zijn meest effectieve vorm.
+Dit is [digitale mond-tot-mondreclame](/blog/mond-tot-mondreclame-rijschool-stimuleren) in zijn meest effectieve vorm.
 
 ### 4. Lokale partnerships
 
@@ -64,7 +64,7 @@ Werk samen met bedrijven die dezelfde doelgroep hebben maar geen concurrent zijn
 
 ### 5. Google Reviews als leadmagneet
 
-Dit is geen nieuw kanaal, maar een versterker van alle andere kanalen. Wanneer een leerling je naam hoort — via een vriend, via school, via social media — is het eerste wat ze doen: je googelen. En dan bepalen je [reviews of ze inschrijven](/blog/meer-google-reviews-rijinstructeur).
+Dit is geen nieuw kanaal, maar een versterker van alle andere kanalen. Wanneer een leerling je naam hoort — via een vriend, via school, via social media — is het eerste wat ze doen: je googelen. En dan bepalen je [reviews of ze inschrijven](/blog/meer-google-reviews-voor-je-rijschool).
 
 Een rijschool met 4,9 sterren en 120 reviews versus een concurrent met 4,3 sterren en 30 reviews — de keuze is snel gemaakt. Elk ander leadkanaal wordt versterkt door sterke reviews.
 
@@ -79,7 +79,7 @@ De krachtigste strategie combineert online bereik met offline vertrouwen:
 | Website met blog | Doorverwijzingsprogramma |
 | Email marketing | Schoolevenementen |
 
-Elk kanaal versterkt het andere. Een leerling hoort je naam op school, zoekt je op Instagram, leest je reviews, en schrijft zich in via je [website](/blog/rijschoolwebsite-inschrijvingsmachine).
+Elk kanaal versterkt het andere. Een leerling hoort je naam op school, zoekt je op Instagram, leest je reviews, en schrijft zich in via je [website](/blog/rijschoolwebsite-conversie-inschrijving).
 
 ## De managed-service aanpak
 
@@ -93,4 +93,4 @@ De Groei-of-Geld-Terug Garantie maakt het risicovloos: geen groei in leerlingen?
 
 Google is een uitstekend startpunt, maar niet het eindpunt. Rijscholen die investeren in relaties met scholen, actief zijn op social media, en een doorverwijzingsprogramma opzetten, bouwen een robuuste leerlingenstroom die niet afhankelijk is van één kanaal. Begin met het kanaal dat het best past bij jouw situatie en bouw van daaruit verder.
 
-Lees ook hoe je [theorie-examen content gebruikt als marketing](/blog/theorie-examen-tips-rijschoolblog) en hoe je [lesuitval voorkomt](/blog/lesuitval-voorkomen-rijschool).
+Lees ook hoe je [theorie-examen content gebruikt als marketing](/blog/theorie-examen-tips-rijschoolblog) en hoe je [lesuitval voorkomt](/blog/lesuitval-rijschool-voorkomen).

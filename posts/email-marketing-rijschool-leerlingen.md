@@ -23,7 +23,7 @@ Het moment van slagen is emotioneel en positief. Dat is het perfecte moment om d
 
 **Dag 1**: stuur een felicitatiemail. Persoonlijk, warm en enthousiast. Voeg een foto toe van het slagingsmoment als je die hebt.
 
-**Week 1**: vraag om een [Google review](/blog/meer-google-reviews-als-rijinstructeur). "Wil je andere leerlingen helpen de juiste rijschool te kiezen? Een review helpt enorm." Stuur een directe link.
+**Week 1**: vraag om een [Google review](/blog/meer-google-reviews-voor-je-rijschool). "Wil je andere leerlingen helpen de juiste rijschool te kiezen? Een review helpt enorm." Stuur een directe link.
 
 **Maand 1**: stuur rijderstips voor beginnende bestuurders. Parkeren in de stad, snelweg rijden, omgaan met gladheid. Nuttig en niet-commercieel.
 
@@ -43,9 +43,9 @@ Maak het makkelijk om je aan te bevelen:
 
 - **Deel-button in elke mail**: een link die leerlingen kunnen doorsturen naar vrienden
 - **Kortingsactie**: "Verwijs een vriend en ontvang een les cadeau" of een korting op de theorie-app
-- **[Social media](/blog/social-media-voor-rijscholen) integreren**: verwijs naar je Instagram met slagingsfoto's. Leerlingen die zichzelf terugzien, delen het
+- **[Social media](/blog/social-media-rijscholen-leerlingen) integreren**: verwijs naar je Instagram met slagingsfoto's. Leerlingen die zichzelf terugzien, delen het
 
-Het effect van [mond-tot-mondreclame](/blog/mond-tot-mondreclame-rijschool) is bij rijscholen enorm. Jongeren vragen altijd aan vrienden waar ze rijles hebben genomen. Als jij de naam bent die ze noemen, heb je een gratis marketingkanaal.
+Het effect van [mond-tot-mondreclame](/blog/mond-tot-mondreclame-rijschool-stimuleren) is bij rijscholen enorm. Jongeren vragen altijd aan vrienden waar ze rijles hebben genomen. Als jij de naam bent die ze noemen, heb je een gratis marketingkanaal.
 
 ## Praktische tips voor de uitvoering
 
@@ -66,7 +66,7 @@ Gebruik Mailchimp (gratis tot 500 contacten) of gewoon Gmail als je minder dan 5
 - Eerste auto kopen: waar let je op?
 - Parkeren in de stad: tips van je instructeur
 - Rijden in het donker: waar moet je op letten?
-- Je [slagingspercentage](/blog/slagingspercentage-verhogen-rijschool) en wat het zegt over je kwaliteit
+- Je [slagingspercentage](/blog/slagingspercentage-rijschool-verhogen) en wat het zegt over je kwaliteit
 - Veranderde verkeersregels: wat je moet weten
 
 Elke mail moet waarde bieden. Geen verkooppraatje, maar content die je leerlingen echt helpt. De doorverwijzing komt vanzelf.

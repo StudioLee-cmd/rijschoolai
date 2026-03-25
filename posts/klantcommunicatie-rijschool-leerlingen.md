@@ -13,17 +13,17 @@ tags: ["klantcommunicatie", "rijschool", "leerlingen"]
 
 Autorijden leren is spannend, stressvol en soms frustrerend. Leerlingen die het gevoel hebben dat ze goed worden begeleid — niet alleen in de auto maar ook daarbuiten — houden langer vol en slagen vaker.
 
-De rijscholen die het beste presteren op [slagingspercentage](/blog/slagingspercentage-rijschool) en klantbehoud, zijn niet per se de rijscholen met de beste instructeurs. Het zijn de rijscholen die het beste communiceren.
+De rijscholen die het beste presteren op [slagingspercentage](/blog/slagingspercentage-rijschool-verhogen) en klantbehoud, zijn niet per se de rijscholen met de beste instructeurs. Het zijn de rijscholen die het beste communiceren.
 
-Communicatie gaat verder dan rijlessen. Het gaat over verwachtingen scheppen, voortgang bijhouden, tegenslagen opvangen en de leerling het gevoel geven dat ze er niet alleen voor staan. Dat is wat loyaliteit bouwt — en wat leidt tot [mond-tot-mondreclame](/blog/mond-tot-mond-rijschool).
+Communicatie gaat verder dan rijlessen. Het gaat over verwachtingen scheppen, voortgang bijhouden, tegenslagen opvangen en de leerling het gevoel geven dat ze er niet alleen voor staan. Dat is wat loyaliteit bouwt — en wat leidt tot [mond-tot-mondreclame](/blog/mond-tot-mondreclame-rijschool-stimuleren).
 
 ## Het eerste contact: verwachtingen scheppen
 
 Het eerste gesprek met een potentiele leerling bepaalt de toon voor het hele traject. Maak het professioneel maar persoonlijk.
 
-**Reageer snel op aanvragen**. Of het nu via je [website](/blog/rijschoolwebsite-inschrijvingsmachine), WhatsApp of telefoon is — reageer binnen een paar uur. Een leerling die zich aanmeldt bij drie rijscholen, kiest degene die het snelst en het duidelijkst reageert.
+**Reageer snel op aanvragen**. Of het nu via je [website](/blog/rijschoolwebsite-conversie-inschrijving), WhatsApp of telefoon is — reageer binnen een paar uur. Een leerling die zich aanmeldt bij drie rijscholen, kiest degene die het snelst en het duidelijkst reageert.
 
-**Leg het traject uit**. Hoeveel lessen zijn er gemiddeld nodig? Hoe ziet een les eruit? Wat kost het totaal? Wanneer kan het [theorie-examen](/blog/theorie-examen-rijschool)? Leerlingen (en hun ouders) willen een helder beeld voordat ze beginnen.
+**Leg het traject uit**. Hoeveel lessen zijn er gemiddeld nodig? Hoe ziet een les eruit? Wat kost het totaal? Wanneer kan het [theorie-examen](/blog/theorie-examen-tips-rijschoolblog)? Leerlingen (en hun ouders) willen een helder beeld voordat ze beginnen.
 
 **Geef een inschatting, geen belofte**. Zeg niet "je hebt het in 30 lessen" als je dat niet kunt garanderen. Wees eerlijk: "De meeste leerlingen hebben tussen de 35 en 45 lessen nodig. Na vijf lessen kan ik je een betere inschatting geven." Dat bouwt vertrouwen.
 
@@ -56,7 +56,7 @@ Je hoeft niet alles handmatig te doen. Er zijn tools die je communicatie profess
 - **Afspraakbevestigingen**: automatisch een sms of WhatsApp sturen 24 uur voor de les. Vermindert no-shows
 - **Voortgangsapp**: sommige rijschool-apps bieden een leerlingportaal waar de voortgang zichtbaar is. Dit bespaart je handmatige updates
 - **[Email marketing](/blog/email-marketing-rijschool-leerlingen)**: stuur maandelijks een tip voor het theorie-examen of een motiverend bericht naar leerlingen die even niet lessen
-- **[Google reviews](/blog/meer-google-reviews-als-rijinstructeur)**: stuur na het behalen van het rijbewijs automatisch een review-verzoek. Het moment van euforie levert de beste reviews op
+- **[Google reviews](/blog/meer-google-reviews-voor-je-rijschool)**: stuur na het behalen van het rijbewijs automatisch een review-verzoek. Het moment van euforie levert de beste reviews op
 
 ## Aan de slag
 

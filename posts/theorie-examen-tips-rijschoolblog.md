@@ -33,7 +33,7 @@ Naast feitelijke informatie kun je praktische studietips delen:
 - **Gevaarherkenning**: tips voor het lastigste onderdeel — foto's snel scannen
 - **Stressbeheer**: omgaan met examenstress, ademhalingsoefeningen
 
-Dit type content wordt veel gedeeld op social media. Een post "5 tips voor je theorie-examen" op [Instagram of TikTok](/blog/social-media-rijscholen-instagram-tiktok) kan honderden potentiële leerlingen bereiken.
+Dit type content wordt veel gedeeld op social media. Een post "5 tips voor je theorie-examen" op [Instagram of TikTok](/blog/social-media-rijscholen-leerlingen) kan honderden potentiële leerlingen bereiken.
 
 ## Content plannen rond examenperiodes
 
@@ -51,7 +51,7 @@ Het doel van theorie-content is niet alleen informeren — het is werving. Zorg 
 
 - **CTA in het artikel**: "Wil je goed voorbereid naar je theorie? Bij [rijschoolnaam] helpen we je van theorie tot rijbewijs"
 - **Link naar pakketten**: verwijs naar je [lespakketten en prijzen](/blog/rijlesprijzen-website-transparantie)
-- **Succesverhalen**: toon reviews van leerlingen die geslaagd zijn — lees hoe je [slagingspercentage](/blog/slagingspercentage-rijschool-cijfers) als marketingtool inzet
+- **Succesverhalen**: toon reviews van leerlingen die geslaagd zijn — lees hoe je [slagingspercentage](/blog/slagingspercentage-rijschool-verhogen) als marketingtool inzet
 
 De conversie van theorie-lezer naar leerling is niet direct — maar het is een waardevolle top-of-funnel strategie die maandenlang verkeer genereert.
 

@@ -35,13 +35,13 @@ Je auto's zijn rijdende billboards. Zorg dat ze opvallen:
 
 Al je online kanalen moeten dezelfde uitstraling hebben:
 
-- [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-rijschool-bovenaan-lokaal) met professionele foto's
-- [Social media](/blog/social-media-rijscholen-meer-leerlingen) met herkenbare branding
-- [Website](/blog/rijschoolwebsite-inschrijvingsmachine) die vertrouwen uitstraalt
+- [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-rijschool) met professionele foto's
+- [Social media](/blog/social-media-rijscholen-leerlingen) met herkenbare branding
+- [Website](/blog/rijschoolwebsite-conversie-inschrijving) die vertrouwen uitstraalt
 
 ### Hoog slagingspercentage communiceren
 
-Je [slagingspercentage](/blog/slagingspercentage-rijschool-cijfers-overtuigen) is je sterkste verkoopargument. Communiceer het overal:
+Je [slagingspercentage](/blog/slagingspercentage-rijschool-verhogen) is je sterkste verkoopargument. Communiceer het overal:
 
 - Op je website
 - In je Google-profiel
@@ -55,7 +55,7 @@ Je [slagingspercentage](/blog/slagingspercentage-rijschool-cijfers-overtuigen) i
 | Google Bedrijfsprofiel | Reviews, foto's, beschrijving |
 | Instagram/TikTok | Geslaagde leerlingen, rijlestips |
 | Website | Portfolio, slagingspercentage, USP's |
-| [Email marketing](/blog/email-marketing-rijscholen-leerlingen) | Nieuwsbrief met tips en successen |
+| [Email marketing](/blog/email-marketing-rijschool-leerlingen) | Nieuwsbrief met tips en successen |
 
 ## Van leerling naar ambassadeur
 
@@ -63,8 +63,8 @@ De krachtigste branding komt van je leerlingen zelf:
 
 - **Geslaagd-foto's** — maak een herkenbare foto bij elk geslaagd examen
 - **Deel op social media** — leerlingen taggen je rijschool
-- **[Mond-tot-mondreclame](/blog/mond-tot-mondreclame-rijschool-geslaagd-examen)** — geslaagde leerlingen vertellen het door
-- **Reviews** — vraag om een [Google review](/blog/meer-google-reviews-rijinstructeur-automatisch) na het behalen van het rijbewijs
+- **[Mond-tot-mondreclame](/blog/mond-tot-mondreclame-rijschool-stimuleren)** — geslaagde leerlingen vertellen het door
+- **Reviews** — vraag om een [Google review](/blog/meer-google-reviews-voor-je-rijschool) na het behalen van het rijbewijs
 
 ## Branding-fouten die rijscholen maken
 
@@ -85,7 +85,7 @@ Start deze week:
 
 ## Laat je branding professioneel begeleiden
 
-Bij StudioLee bouwen we merken voor rijscholen. Van [klantcommunicatie](/blog/klantcommunicatie-rijschool-leerlingen-informeren) tot content die leerlingen aantrekt. Met slechts **15 minuten per maand** aan jouw kant.
+Bij StudioLee bouwen we merken voor rijscholen. Van [klantcommunicatie](/blog/klantcommunicatie-rijschool-leerlingen) tot content die leerlingen aantrekt. Met slechts **15 minuten per maand** aan jouw kant.
 
 De **Groei-of-Geld-Terug Garantie** maakt het risicovloos.
 

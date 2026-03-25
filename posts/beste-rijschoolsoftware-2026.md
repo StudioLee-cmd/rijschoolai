@@ -43,7 +43,7 @@ Als rijschoolhouder of rijinstructeur draai je lange dagen achter het stuur. Tus
 
 [RijschoolAI](/) is een compleet AI-systeem voor rijscholen: lesplanning, facturatie, automatische reviews via WhatsApp, AI-chatbot, Voice AI-telefonist en optimalisatie voor Google én AI-zoekmachines.
 
-**Sterkste punt:** Alles in één met AI: lesplanning, leerlingbeheer, facturatie, review-automatisering, AI-chatbot die aanmeldingen opvangt, Voice AI die de telefoon opneemt, en [betere vindbaarheid op Google](/blog/hoe-rijscholen-meer-leerlingen-krijgen-via-google). Custom booking app zonder commissie.
+**Sterkste punt:** Alles in één met AI: lesplanning, leerlingbeheer, facturatie, review-automatisering, AI-chatbot die aanmeldingen opvangt, Voice AI die de telefoon opneemt, en [betere vindbaarheid op Google](/blog/hoe-rijscholen-meer-leerlingen-werven-via-google). Custom booking app zonder commissie.
 
 **Nadeel:** Geen theorie-oefenplatform — daarvoor blijven leerlingen iTheorie of vergelijkbare apps gebruiken.
 

@@ -42,7 +42,7 @@ Niets overtuigt zo goed als reviews van leerlingen die hun rijbewijs hebben geha
 - **Succesfoto's**: foto's van leerlingen met hun rijbewijs (met toestemming)
 - **Slagingspercentage**: als dat bovengemiddeld is, vermeld het prominent
 
-Lees hoe je systematisch [meer Google reviews krijgt als rijschool](/blog/meer-google-reviews-rijinstructeur). Elke review is een stukje social proof dat de volgende leerling overtuigt.
+Lees hoe je systematisch [meer Google reviews krijgt als rijschool](/blog/meer-google-reviews-voor-je-rijschool). Elke review is een stukje social proof dat de volgende leerling overtuigt.
 
 ## Mobiel en snelheid
 
@@ -52,7 +52,7 @@ Jouw doelgroep — 17-25 jarigen — leeft op hun telefoon. Je website moet op m
 - **Click-to-call**: één tik om te bellen
 - **Inschrijfformulier**: grote knoppen, weinig typen, autocomplete aan
 
-Test je website op de nieuwste iPhones en populaire Android-telefoons. Wat er op jouw laptop goed uitziet, kan op een iPhone SE onbruikbaar zijn. Versterk je mobiele aanwezigheid met [social media](/blog/social-media-rijscholen-instagram-tiktok) — daar zit je doelgroep.
+Test je website op de nieuwste iPhones en populaire Android-telefoons. Wat er op jouw laptop goed uitziet, kan op een iPhone SE onbruikbaar zijn. Versterk je mobiele aanwezigheid met [social media](/blog/social-media-rijscholen-leerlingen) — daar zit je doelgroep.
 
 ## Conclusie
 
