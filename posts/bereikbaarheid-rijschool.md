@@ -7,8 +7,6 @@ image: "/images/blog/bereikbaarheid-rijschool.png"
 tags: ["bereikbaarheid", "rijschool", "klantenservice"]
 ---
 
-# Bereikbaarheid als rijschool: altijd beschikbaar voor potentiele leerlingen
-
 Een leerling die besluit om te gaan rijden, belt of appt de eerste drie rijscholen die ze vinden. De rijschool die het snelst reageert, wint de leerling. Bereikbaarheid is geen bijzaak — het is je eerste kans om indruk te maken.
 
 ## Waarom snelheid telt

@@ -15,7 +15,7 @@ Autorijden leren is spannend, stressvol en soms frustrerend. Leerlingen die het 
 
 De rijscholen die het beste presteren op [slagingspercentage](/blog/slagingspercentage-rijschool-verhogen) en klantbehoud, zijn niet per se de rijscholen met de beste instructeurs. Het zijn de rijscholen die het beste communiceren.
 
-Communicatie gaat verder dan rijlessen. Het gaat over verwachtingen scheppen, voortgang bijhouden, tegenslagen opvangen en de leerling het gevoel geven dat ze er niet alleen voor staan. Dat is wat loyaliteit bouwt — en wat leidt tot [mond-tot-mondreclame](/blog/mond-tot-mondreclame-rijschool-stimuleren).
+Communicatie gaat verder dan rijlessen. Het gaat over verwachtingen scheppen, voortgang bijhouden, tegenslagen opvangen en de leerling het gevoel geven dat ze er niet alleen voor staan. Dat is wat loyaliteit bouwt — en wat leidt tot [mond-tot-mondreclame](/blog/mond-tot-mondreclame-rijschool-stimuleren-stimuleren).
 
 ## Het eerste contact: verwachtingen scheppen
 

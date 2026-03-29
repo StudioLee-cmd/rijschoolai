@@ -7,8 +7,6 @@ image: "/images/blog/branding-rijschool.png"
 tags: ["branding", "rijschool", "merkopbouw"]
 ---
 
-# Branding als rijschool: zo word je de bekendste rijschool in je regio
-
 Er zijn honderden rijscholen in Nederland. De meeste concurreren op prijs — wie biedt het goedkoopste lespakket? Maar de rijscholen die het best draaien, concurreren op merk. Ze zijn herkenbaar, betrouwbaar en de eerste keuze wanneer iemand wil leren rijden.
 
 ## Waarom branding werkt voor rijscholen
@@ -63,7 +61,7 @@ De krachtigste branding komt van je leerlingen zelf:
 
 - **Geslaagd-foto's** — maak een herkenbare foto bij elk geslaagd examen
 - **Deel op social media** — leerlingen taggen je rijschool
-- **[Mond-tot-mondreclame](/blog/mond-tot-mondreclame-rijschool-stimuleren)** — geslaagde leerlingen vertellen het door
+- **[Mond-tot-mondreclame](/blog/mond-tot-mondreclame-rijschool-stimuleren-stimuleren)** — geslaagde leerlingen vertellen het door
 - **Reviews** — vraag om een [Google review](/blog/meer-google-reviews-voor-je-rijschool) na het behalen van het rijbewijs
 
 ## Branding-fouten die rijscholen maken

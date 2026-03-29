@@ -7,8 +7,6 @@ image: "/images/blog/samenwerken-als-rijschool-partners.png"
 tags: ["samenwerkingen", "rijschool", "groei"]
 ---
 
-# Samenwerken als rijschool: partners die leerlingen opleveren
-
 Het merendeel van je leerlingen komt via mond-tot-mondreclame en online zoeken. Maar er is een derde kanaal dat de meeste rijscholen onbenut laten: strategische samenwerkingen met bedrijven die dezelfde doelgroep bedienen.
 
 ## Waarom partnerschappen voor rijscholen werken
@@ -18,7 +16,7 @@ Elke nieuwe bestuurder heeft naast rijlessen ook een auto nodig, een verzekering
 Voordelen:
 - Structurele doorverwijzingen van scholen en garages
 - Lagere acquisitiekosten per leerling
-- Sterkere [reputatie](/blog/mond-tot-mondreclame-rijschool) in de regio
+- Sterkere [reputatie](/blog/mond-tot-mondreclame-rijschool-stimuleren) in de regio
 - Hogere conversie door bundeling van diensten
 
 ## De beste partners voor rijscholen
@@ -53,7 +51,7 @@ Organiseer samen met je partners een "Rijbewijs-infodag" — een event waar scho
 
 ## Online zichtbaarheid
 
-Vermeld je samenwerkingspartners op je [website](/blog/rijschool-website-conversie). Deel [succesverhalen](/blog/mond-tot-mondreclame-rijschool) van leerlingen die via partners bij je terechtkwamen. Link naar elkaars websites — dit versterkt je [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-rijschool) en je lokale vindbaarheid.
+Vermeld je samenwerkingspartners op je [website](/blog/rijschoolwebsite-conversie-inschrijving). Deel [succesverhalen](/blog/mond-tot-mondreclame-rijschool-stimuleren) van leerlingen die via partners bij je terechtkwamen. Link naar elkaars websites — dit versterkt je [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-rijschool) en je lokale vindbaarheid.
 
 ## Resultaten meten
 

@@ -45,7 +45,7 @@ Maak het makkelijk om je aan te bevelen:
 - **Kortingsactie**: "Verwijs een vriend en ontvang een les cadeau" of een korting op de theorie-app
 - **[Social media](/blog/social-media-rijscholen-leerlingen) integreren**: verwijs naar je Instagram met slagingsfoto's. Leerlingen die zichzelf terugzien, delen het
 
-Het effect van [mond-tot-mondreclame](/blog/mond-tot-mondreclame-rijschool-stimuleren) is bij rijscholen enorm. Jongeren vragen altijd aan vrienden waar ze rijles hebben genomen. Als jij de naam bent die ze noemen, heb je een gratis marketingkanaal.
+Het effect van [mond-tot-mondreclame](/blog/mond-tot-mondreclame-rijschool-stimuleren-stimuleren) is bij rijscholen enorm. Jongeren vragen altijd aan vrienden waar ze rijles hebben genomen. Als jij de naam bent die ze noemen, heb je een gratis marketingkanaal.
 
 ## Praktische tips voor de uitvoering
 

@@ -52,7 +52,7 @@ Je beste ambassadeurs zijn geslaagde leerlingen. Zij kennen tientallen leeftijds
 - **Korting voor de nieuwe leerling** — een gratis proefles of korting op het eerste pakket
 - **Maak het makkelijk** — een persoonlijke link of code die de leerling kan delen via WhatsApp
 
-Dit is [digitale mond-tot-mondreclame](/blog/mond-tot-mondreclame-rijschool-stimuleren) in zijn meest effectieve vorm.
+Dit is [digitale mond-tot-mondreclame](/blog/mond-tot-mondreclame-rijschool-stimuleren-stimuleren) in zijn meest effectieve vorm.
 
 ### 4. Lokale partnerships
 

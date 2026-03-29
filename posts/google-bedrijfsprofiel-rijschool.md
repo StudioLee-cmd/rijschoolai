@@ -39,7 +39,7 @@ Upload foto's van je lesauto (schoon, modern), je lesmateriaal en eventueel je l
 
 Voeg foto's toe van geslaagde leerlingen (met toestemming) met hun rijbewijs. Dit creëert social proof en maakt je profiel persoonlijk. Een collage van blije gezichten is de sterkste reclame.
 
-Het werkt ook goed om op social media en via [mond-tot-mondreclame](/blog/mond-tot-mondreclame-rijschool-stimuleren) geslaagde leerlingen te vieren — en ze van daaruit naar je Google-profiel te sturen.
+Het werkt ook goed om op social media en via [mond-tot-mondreclame](/blog/mond-tot-mondreclame-rijschool-stimuleren-stimuleren) geslaagde leerlingen te vieren — en ze van daaruit naar je Google-profiel te sturen.
 
 ## Tips voor lokale zoekresultaten
 

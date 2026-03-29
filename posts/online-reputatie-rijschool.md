@@ -7,8 +7,6 @@ image: "/images/blog/online-reputatie-rijschool.png"
 tags: ["online reputatie", "rijschool", "reviews"]
 ---
 
-# Online reputatie als rijschool: reviews die nieuwe leerlingen overtuigen
-
 Een rijschool kiezen is een grote beslissing voor leerlingen. Ze investeren honderden of duizenden euro's, besteden tientallen uren in de auto, en hun slagingskans hangt af van de kwaliteit van de instructie. Geen wonder dat ze uitgebreid online onderzoek doen voordat ze kiezen.
 
 Je online reputatie — met name je reviews — bepaalt of ze bij jou inschrijven of bij de concurrent. In dit artikel leer je hoe je daar grip op krijgt.
@@ -66,7 +64,7 @@ Potentiele leerlingen lezen je reactie. Een kalme, professionele reactie zegt me
 
 ### Meerder kanalen monitoren
 
-Monitor niet alleen Google. Controleer ook social media-comments en berichten in lokale Facebook-groepen. [Mond-tot-mondreclame](/blog/mond-tot-mondreclame-rijschool-stimuleren) vindt steeds vaker online plaats.
+Monitor niet alleen Google. Controleer ook social media-comments en berichten in lokale Facebook-groepen. [Mond-tot-mondreclame](/blog/mond-tot-mondreclame-rijschool-stimuleren-stimuleren) vindt steeds vaker online plaats.
 
 ## Je reputatie proactief beschermen
 

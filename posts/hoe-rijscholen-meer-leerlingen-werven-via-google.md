@@ -7,8 +7,6 @@ image: "/images/blog/hoe-rijscholen-meer-leerlingen-werven-via-google.png"
 tags: ["Vindbaarheid", "Google", "Rijschool", "Leerlingen"]
 ---
 
-
-
 ## Rijlessen beginnen online — zo ziet de zoektocht eruit
 
 Een jongere van 16 wil rijles nemen. Of iemand van 35 heeft zijn rijbewijs nodig voor een nieuwe baan. Ze openen Google, zoeken "rijschool [stad]", bekijken reviews en slagingspercentages, en melden zich aan. Dat hele proces duurt soms maar een paar minuten.

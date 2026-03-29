@@ -3,7 +3,7 @@ title: "Mond-tot-mondreclame voor je rijschool: van geslaagd examen naar nieuwe 
 excerpt: "Het moment dat een leerling slaagt is je krachtigste marketingmoment. Zo zet je het systematisch in voor meer aanmeldingen."
 date: "2026-03-11"
 authorSlug: "tim-van-der-lee"
-image: "/images/blog/mond-tot-mondreclame-rijschool-stimuleren.png"
+image: "/images/blog/mond-tot-mondreclame-rijschool-stimuleren-stimuleren.png"
 tags: ["Rijschool", "Mond-tot-mond", "Marketing"]
 ---
 
