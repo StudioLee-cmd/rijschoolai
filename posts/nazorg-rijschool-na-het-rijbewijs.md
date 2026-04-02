@@ -5,6 +5,7 @@ date: "2026-03-29"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/nazorg-rijschool-na-het-rijbewijs.jpg"
 tags: ["Nazorg", "Klantrelatie", "Groei"]
+cluster: "nazorg"
 ---
 
 ## Waarom nazorg belangrijk is voor rijscholen

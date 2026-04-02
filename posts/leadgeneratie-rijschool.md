@@ -5,6 +5,7 @@ date: "2026-03-24"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leadgeneratie-rijschool.png"
 tags: ["Leadgeneratie", "Leerlingen", "Groei"]
+cluster: "lead-opvolging"
 ---
 
 De meeste rijscholen vertrouwen op twee kanalen voor nieuwe leerlingen: Google en mond-tot-mondreclame. Beiden werken — maar als je alleen daarop leunt, ben je kwetsbaar. Een algoritmewijziging, een concurrent met meer reviews, of een rustige zomer kunnen je inschrijvingen flink laten dalen.

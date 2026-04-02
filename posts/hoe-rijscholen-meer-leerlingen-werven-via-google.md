@@ -5,6 +5,7 @@ date: "2026-03-03"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoe-rijscholen-meer-leerlingen-werven-via-google.png"
 tags: ["Vindbaarheid", "Google", "Rijschool", "Leerlingen"]
+cluster: "vindbaarheid"
 ---
 
 ## Rijlessen beginnen online — zo ziet de zoektocht eruit

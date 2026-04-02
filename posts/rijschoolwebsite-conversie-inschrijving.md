@@ -5,6 +5,7 @@ date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/rijschoolwebsite-conversie-inschrijving.png"
 tags: ["Website", "Conversie", "Leerlingen"]
+cluster: "website-conversie"
 ---
 
 ## Waarom je website je beste werving is

@@ -7,6 +7,7 @@ image: "/images/blog/email-marketing-rijschool-leerlingen.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
 tags: ["email marketing", "rijschool", "doorverwijzing"]
+cluster: "email-marketing"
 ---
 
 ## Waarom email marketing werkt voor rijscholen

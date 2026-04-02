@@ -5,6 +5,7 @@ date: "2026-03-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/samenwerken-als-rijschool-partners.png"
 tags: ["samenwerkingen", "rijschool", "groei"]
+cluster: "samenwerkingen"
 ---
 
 Het merendeel van je leerlingen komt via mond-tot-mondreclame en online zoeken. Maar er is een derde kanaal dat de meeste rijscholen onbenut laten: strategische samenwerkingen met bedrijven die dezelfde doelgroep bedienen.

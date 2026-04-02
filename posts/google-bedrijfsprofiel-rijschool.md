@@ -5,6 +5,7 @@ date: "2026-03-14"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-bedrijfsprofiel-rijschool.png"
 tags: ["Google", "Vindbaarheid", "Marketing"]
+cluster: "google-bedrijfsprofiel"
 ---
 
 De meeste leerlingen beginnen hun zoektocht naar een rijschool op Google. Ze typen "rijschool bij mij in de buurt" en vergelijken de eerste resultaten op basis van reviews, prijs en uitstraling. Je Google Bedrijfsprofiel bepaalt of je in die shortlist terechtkomt of niet.

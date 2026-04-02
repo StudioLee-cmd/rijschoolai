@@ -5,6 +5,7 @@ date: "2026-03-12"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/slagingspercentage-rijschool-verhogen.png"
 tags: ["Rijschool", "Slagingspercentage", "Marketing"]
+cluster: "slagingspercentage"
 ---
 
 ## Het slagingspercentage: je sterkste marketingtool

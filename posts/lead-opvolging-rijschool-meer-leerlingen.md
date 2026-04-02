@@ -5,6 +5,7 @@ date: "2026-03-31"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/lead-opvolging-rijschool-meer-leerlingen.jpg"
 tags: ["Lead opvolging", "Leerlingen", "Groei"]
+cluster: "lead-opvolging"
 ---
 
 ## Waarom snelheid cruciaal is bij rijschool-aanvragen

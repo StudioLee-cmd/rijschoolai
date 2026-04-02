@@ -5,6 +5,7 @@ date: "2026-03-10"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/lesuitval-rijschool-voorkomen.png"
 tags: ["Rijschool", "Lesuitval", "Planning"]
+cluster: "crm-klantbeheer"
 ---
 
 ## Het lesuitval-probleem van rijscholen

@@ -5,6 +5,7 @@ date: "2025-12-15"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoe-ai-rijscholen-helpt.png"
 tags: ["AI", "Efficiëntie", "Rijschool"]
+cluster: ""
 ---
 
 Het runnen van een rijschool anno 2026 is topsport. Je bent niet alleen instructeur die leerlingen veilig leert rijden, maar je bent ook boekhouder, planner, telefoniste, marketingmanager en psycholoog in één. Veel instructeurs die wij spreken, zitten de hele dag in de auto, maar zijn 's avonds nog uren bezig met randzaken. Appjes van leerlingen, examenplanningen en nieuwe aanmeldingen.

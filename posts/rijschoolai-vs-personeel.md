@@ -5,6 +5,7 @@ date: "2026-01-25"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/rijschoolai-vs-personeel.png"
 tags: ["Kostenbesparing", "Strategie", "Ondernemen"]
+cluster: ""
 ---
 
 Als je rijschool groeit (meer auto's, meer instructeurs), loopt de planning vast. Je hebt iemand nodig voor de telefoon en planning. Een parttime kracht kost al snel €2500 - €3000 per jaar (salaris + lasten).

@@ -5,6 +5,7 @@ date: "2025-12-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/meer-leerlingen-via-google.png"
 tags: ["Marketing", "Reviews", "Groei"]
+cluster: ""
 ---
 
 Als een 17-jarige een rijschool zoekt, wat doet hij dan? Precies: Google Maps. "Rijschool [Stad]". Hij kijkt naar de sterren. Heeft een rijschool 3,4 sterren? "Die zal wel slecht zijn." Heeft hij 4,9 sterren met 200 reviews? "Daar moet ik zijn!" In de rijschoolbranche is je online reputatie allesbepalend.

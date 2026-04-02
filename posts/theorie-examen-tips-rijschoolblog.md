@@ -5,6 +5,7 @@ date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/theorie-examen-tips-rijschoolblog.png"
 tags: ["Theorie", "Content", "SEO"]
+cluster: "theorie examen"
 ---
 
 ## Waarom theorie-content werkt voor SEO

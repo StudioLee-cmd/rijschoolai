@@ -5,6 +5,7 @@ date: "2026-01-15"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/social-media-voor-instructeurs.png"
 tags: ["Social Media", "Branding", "Automatisering"]
+cluster: ""
 ---
 
 Je bent instructeur, geen influencer. Je hebt geen zin om dansjes te doen. Maar leerlingen kijken wel op Instagram. Ze willen zien: Slagen hier mensen? Is de instructeur aardig?

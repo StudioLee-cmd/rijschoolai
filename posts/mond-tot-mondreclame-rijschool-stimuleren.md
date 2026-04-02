@@ -5,6 +5,7 @@ date: "2026-03-11"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/mond-tot-mondreclame-rijschool-stimuleren-stimuleren.png"
 tags: ["Rijschool", "Mond-tot-mond", "Marketing"]
+cluster: "mond-tot-mondreclame"
 ---
 
 ## Het slaagmoment: je beste marketingtool

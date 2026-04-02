@@ -5,6 +5,7 @@ date: "2026-03-13"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/rijlesprijzen-website-transparantie.png"
 tags: ["Prijzen", "Website", "Leerlingen"]
+cluster: "prijzen-communiceren"
 ---
 
 "Wat kost een rijles?" Het is een van de meest gezochte vragen rondom rijscholen. En toch tonen veel rijscholen hun prijzen niet op hun website. De reden: "Dan vergelijken ze alleen op prijs." Maar door je prijzen te verbergen, verlies je juist de leerlingen die je wilt hebben — en trek je ongewenst telefonisch verkeer aan van mensen die alleen maar even willen weten wat het kost.

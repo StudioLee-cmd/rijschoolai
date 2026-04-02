@@ -5,6 +5,7 @@ date: "2026-04-02"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/chatbot-voor-rijscholen.png"
 tags: ["Chatbot", "Automatisering"]
+cluster: ""
 ---
 
 Rijscholen missen dagelijks potentiële leerlingen omdat ze niet op tijd reageren op vragen. Een chatbot lost dit op: 24 uur per dag antwoorden geven, proeflessen inplannen en informatie verstrekken — zonder dat jij achter je bureau hoeft te zitten.

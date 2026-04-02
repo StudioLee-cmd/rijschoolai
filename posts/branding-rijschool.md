@@ -5,6 +5,7 @@ date: "2026-03-24"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/branding-rijschool.png"
 tags: ["branding", "rijschool", "merkopbouw"]
+cluster: "branding"
 ---
 
 Er zijn honderden rijscholen in Nederland. De meeste concurreren op prijs — wie biedt het goedkoopste lespakket? Maar de rijscholen die het best draaien, concurreren op merk. Ze zijn herkenbaar, betrouwbaar en de eerste keuze wanneer iemand wil leren rijden.

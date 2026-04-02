@@ -5,6 +5,7 @@ date: "2026-04-01"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/zelfrijdende-autos-rijscholen.jpg"
 tags: ["1 April", "No-Shows", "Planning"]
+cluster: "no-shows"
 ---
 
 ## De zelfrijdende auto als rijinstructeur

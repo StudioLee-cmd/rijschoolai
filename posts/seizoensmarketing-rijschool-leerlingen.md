@@ -7,6 +7,7 @@ image: "/images/blog/seizoensmarketing-rijschool-leerlingen.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
 tags: ["seizoenswerk", "rijschool", "leerlingen"]
+cluster: "seizoenswerk"
 ---
 
 ## Waarom seizoenen je leerlingenaanwas bepalen

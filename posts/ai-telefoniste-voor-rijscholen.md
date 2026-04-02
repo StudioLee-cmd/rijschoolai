@@ -5,6 +5,7 @@ date: "2026-01-02"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/ai-telefoniste-voor-rijscholen.png"
 tags: ["Voice AI", "Veiligheid", "Innovatie"]
+cluster: ""
 ---
 
 Het is een doorn in het oog van het CBR en de politie: instructeurs die bellen of appen tijdens de les. Het is onveilig, onprofessioneel en het leidt af. Maar ja, je moet ook je bedrijf runnen. Als je niet opneemt, belt de potentiële klant de volgende rijschool.
