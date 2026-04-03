@@ -76,7 +76,7 @@ Ja, maar communiceer het via de ouders. Zij zijn verantwoordelijk voor de financ
 
 ### Hoeveel lesuitval is normaal bij een rijschool?
 
-Zonder herinneringssysteem: 15 tot 25 procent. Met automatische herinneringen en lespakketten: 3 tot 8 procent.
+Zonder herinneringssysteem: 15 tot 25 procent. Met [automatische herinneringen](/chatbot) en lespakketten: 3 tot 8 procent.
 
 ## Conclusie
 
