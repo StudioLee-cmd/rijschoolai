@@ -34,7 +34,7 @@ Frame het positief: "Ongeacht het resultaat, we zijn trots op je inzet. Zou je w
 Koppel je reviewverzoeken aan je leerlingenadministratie:
 
 - Examen gepland? Zet een trigger klaar.
-- Examen geslaagd? Automatisch reviewverzoek binnen 1 uur.
+- Examen geslaagd? Automatisch [reviewverzoek](/reviews) binnen 1 uur.
 - Examen niet geslaagd? Review uitgesteld tot na het herexamen.
 
 Systemen zoals die van [RijschoolAI](/) automatiseren deze flow. De leerling krijgt het bericht op het perfecte moment — jij bent ondertussen al bezig met de volgende les.
