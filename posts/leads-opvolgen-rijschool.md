@@ -42,6 +42,16 @@ Na 7 dagen: "Laatste plekken deze maand! Boek je proefles voordat het vol zit."
 
 Vraag geslaagde leerlingen om een review en een doorverwijzing. "Ken je iemand die ook wil leren rijden? Verwijs ze door en ontvang €25 korting op een opfriscursus."
 
+
+
+## Automatiseren: zo doe je het zonder extra moeite
+
+Je hoeft dit niet allemaal handmatig te doen. Met de juiste tools draait het op de achtergrond terwijl jij gewoon je werk doet als rijschool.
+
+Een [AI chatbot](/chatbot) vangt automatisch vragen op en plant afspraken in — ook buiten werktijd. Een [AI telefonist](/voice-ai) zorgt ervoor dat je bereikbaar bent zonder zelf de telefoon op te pakken. En met [automatische review-verzoeken](/reviews) bouw je ondertussen je online reputatie op.
+
+Het resultaat? Meer klanten, minder administratie, en een systeem dat draait zonder dat je eraan hoeft te denken. Alles begint met een [gratis scan](/gratis-scan) — we analyseren je huidige situatie en laten zien wat er mogelijk is.
+
 ## Conclusie
 
 Rijschoolleerlingen kiezen snel. De rijschool die het snelst reageert met de juiste informatie, boekt de proefles. Met automatische opvolging en persoonlijk contact haal je meer uit elke aanvraag.
