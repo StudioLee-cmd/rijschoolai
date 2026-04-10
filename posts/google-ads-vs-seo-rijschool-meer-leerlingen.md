@@ -59,4 +59,4 @@ Kies de combinatie als je beide budgetten hebt en de snelste groei wilt. Begin m
 
 Google Ads en SEO zijn geen tegenstanders. Ze versterken elkaar. Ads geeft je directe zichtbaarheid terwijl [SEO](/seo) opbouwt. SEO verlaagt op termijn je advertentiekosten. De rijscholen die het snelst groeien, gebruiken beide strategieen in de juiste verhouding.
 
-Wil je weten welke mix het beste werkt voor jouw rijschool? Vraag een [gratis scan](/gratis-scan) aan en ontvang een persoonlijk groeiplan.
+Bekijk hoe [SEO voor rijscholen](/seo) werkt en combineer het met Ads. Wil je weten welke mix het beste werkt voor jouw rijschool? Vraag een [gratis scan](/gratis-scan) aan en ontvang een persoonlijk groeiplan.
