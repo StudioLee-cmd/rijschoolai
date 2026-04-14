@@ -1,131 +1,50 @@
 ---
-title: "Slagingspercentage verhogen als rijschool: de cijfers die nieuwe leerlingen overtuigen"
-excerpt: "Je slagingspercentage is het sterkste verkoopargument dat je als rijschool hebt. Zo verhoog je het én zet je het in voor marketing."
-date: "2026-03-12"
+title: "Slagingspercentage verhogen: 5 tips voor rijscholen"
+excerpt: "Een hoog slagingspercentage trekt nieuwe leerlingen aan. Ontdek vijf praktische manieren om je slagingspercentage als rijschool te verbeteren."
+date: "2026-04-14"
 authorSlug: "tim-van-der-lee"
-image: "/images/blog/slagingspercentage-rijschool-verhogen.png"
-tags: ["Rijschool", "Slagingspercentage", "Marketing"]
-cluster: "slagingspercentage"
+image: "/images/blog/slagingspercentage-rijschool-verhogen.jpg"
+tags: ["Slagingspercentage", "Rijschool Tips", "Kwaliteit"]
 ---
 
-## Het slagingspercentage: je sterkste marketingtool
+## Waarom je slagingspercentage alles zegt over je rijschool
 
-Wat is het eerste dat een potentiele leerling googelt over een rijschool? Het slagingspercentage. Het landelijk gemiddelde voor het eerste-keer-slagen bij het CBR ligt rond de 52%. Dat betekent dat bijna de helft zakt bij de eerste poging.
+Leerlingen kiezen een rijschool op basis van twee dingen: prijs en slagingspercentage. De prijs kun je moeilijk verlagen zonder je marge te raken. Het slagingspercentage kun je wel verbeteren, en dat levert direct meer inschrijvingen op.
 
-Als jouw slagingspercentage boven dat gemiddelde ligt, heb je een enorm verkoopargument. En als het eronder ligt, heb je een probleem dat je eerst moet oplossen.
+Het CBR publiceert slagingspercentages per rijschool. Elke potentiele leerling kan opzoeken hoe jouw school scoort. Een verschil van 10 procentpunten ten opzichte van de concurrent is voor veel leerlingen genoeg om voor jou te kiezen, ook als je iets duurder bent.
 
-## Hoe je je slagingspercentage meet
+Laat je slagingscijfers zien op je [website](/gratis-website). Transparantie over resultaten bouwt vertrouwen op voordat een leerling zich inschrijft.
 
-### CBR-cijfers opvragen
+## 1. Investeer in een gestructureerd lesprogramma
 
-Het CBR publiceert slagingspercentages per rijschool. Vraag je eigen cijfers op en analyseer:
-- Slagingspercentage eerste keer (praktijkexamen)
-- Slagingspercentage totaal (inclusief herkansingen)
-- Vergelijking met het landelijk gemiddelde
-- Trend over de afgelopen 2-3 jaar
+De meeste rijscholen werken met een vast aantal lessen, maar zonder duidelijke opbouw. Les 1 tot en met 30 voelen voor de leerling als een aaneenschakeling van rondjes door de wijk. Structureer je lessen in fases: basishandelingen, verkeersdeelname, bijzondere verrichtingen en examenvoorbereiding.
 
-### Interne analyse
+Leerlingen die weten waar ze staan in het traject, zijn gemotiveerder en presteren beter op het examen.
 
-Kijk dieper dan het percentage:
-- Bij welk examenonderdeel zakken leerlingen het vaakst?
-- Is er verschil tussen instructeurs?
-- Zakken leerlingen die minder dan [X] lessen hebben gehad vaker?
-- Is er een patroon in het tijdstip of de locatie van het examen?
+## 2. Gebruik tussentijdse toetsen
 
-## 7 strategieen om je slagingspercentage te verhogen
+Een tussentijdse toets (TT) bij het CBR halverwege het traject geeft de leerling en jou een realistisch beeld van de voortgang. Leerlingen die zakken voor de TT, krijgen gerichte feedback. Leerlingen die slagen, krijgen zelfvertrouwen.
 
-### 1. Het juiste aantal lessen
+Veel rijscholen slaan de TT over om kosten te besparen. Dat is een valse besparing: leerlingen die onvoorbereid op examen gaan, zakken vaker en schrijven slechte [reviews](/reviews).
 
-De druk om het rijbewijs snel en goedkoop te halen leidt tot te weinig lessen. Wees eerlijk:
-- Gemiddeld heeft een leerling 35-45 lessen nodig
-- Stuur niet naar het examen als de leerling niet klaar is
-- Een gezakte leerling kost meer (herexamen, extra lessen) dan 5 extra lessen
+## 3. Bereid het examen gericht voor
 
-### 2. Tussentijdse toets (TT) als meetmoment
+De laatste vijf lessen voor het examen moeten anders zijn dan reguliere lessen. Rij de examencircuits, oefen de meest gemaakte fouten en simuleer de examensituatie. Een leerling die het examen al drie keer in de auto heeft geoefend, is minder nerveus op de echte dag.
 
-De tussentijdse toets bij het CBR is het ideale ijkpunt:
-- Plan de TT na 20-25 lessen
-- Bespreek het resultaat eerlijk met de leerling
-- Stel een realistisch plan op voor de resterende lessen
-- Gebruik de TT-feedback om gericht te oefenen
+Nervositeit is de grootste oorzaak van zakken bij leerlingen die technisch goed genoeg rijden. Dat los je niet op met meer lessen, maar met betere voorbereiding.
 
-### 3. Examensimulaties
+![Rijschoolauto op een rustige Nederlandse weg](/images/blog/slagingspercentage-rijschool-verhogen-2.jpg)
 
-Organiseer realistische examensimulaties:
-- Rij de exacte examenroutes
-- Gebruik een beoordelingsformulier identiek aan het CBR
-- Laat een andere instructeur de simulatie doen (objectiever)
-- Bespreek het resultaat in detail
+## 4. Communiceer helder over verwachtingen
 
-### 4. Faalangst aanpakken
+Zet bij de [tarieven](/tarieven) duidelijk wat een leerling kan verwachten: gemiddeld aantal lessen, kosten per les, TT-kosten en examengeld. Een leerling die weet dat 30 lessen gemiddeld is, heeft realistische verwachtingen. Een leerling die denkt na 15 lessen klaar te zijn, raakt gefrustreerd en schrijft een negatieve review.
 
-30% van de leerlingen die zakken, zakt door zenuwen — niet door gebrek aan vaardigheid. Pak dit aan:
-- Bespreek faalangst openlijk
-- Oefen ademhalings- en ontspanningstechnieken
-- Laat de leerling wennen aan examensituaties
-- Overweeg een faalangstcursus voor extreme gevallen
+## 5. Vraag feedback na elk examen
 
-### 5. Theorie-integratie
+Of de leerling nu slaagt of zakt: vraag wat er goed ging en wat beter kan. Leerlingen die gezakt zijn, geven je waardevolle informatie over waar je lesprogramma tekortschiet. Leerlingen die geslaagd zijn, geven je een review die nieuwe leerlingen overtuigt.
 
-Leerlingen die de theorie goed beheersen, slagen vaker voor het praktijkexamen:
-- Bespreek verkeerssituaties tijdens de les
-- Stel vragen over voorrang, borden, snelheidslimieten
-- Laat de leerling verkeerssituaties voorspellen en benoemen
+## Een hoog slagingspercentage is je beste marketing
 
-### 6. Instructeurkwaliteit
+Rijscholen met een bovengemiddeld slagingspercentage hebben minder marketingbudget nodig. Het cijfer spreekt voor zich. Investeer in kwaliteit, en de leerlingen komen vanzelf.
 
-Investeer in je instructeurs:
-- Bijscholing en examentraining
-- Onderlinge evaluatie (meerijden bij collega)
-- Bespreek slagingspercentages per instructeur (niet als straf, maar als leerkans)
-- Specialisaties: sommige instructeurs zijn beter in faalangst, anderen in techniek
-
-### 7. Selectie aan de poort
-
-Niet elke leerling moet naar het examen:
-- Ontwikkel objectieve criteria voor examenvrijgave
-- Gebruik een checklist: alle vaardigheden afgetekend?
-- Durf "nee" te zeggen als de leerling niet klaar is
-- Leg uit waarom: "Ik wil dat je slaagt. Nog 3 lessen en je bent er klaar voor."
-
-## Je slagingspercentage inzetten voor marketing
-
-### Op je website
-
-Prominent op de homepage:
-- "Slagingspercentage: 72% eerste keer (landelijk gemiddeld: 52%)"
-- Of specifieker: "8 van de 10 leerlingen slagen bij ons voor het eerste examen"
-
-### Op social media
-
-Deel slaagcijfers regelmatig:
-- Maandoverzicht: "Juni 2026: 15 leerlingen op examen, 12 geslaagd!"
-- Individuele felicitaties (met toestemming)
-- Vergelijking met landelijk gemiddelde
-
-### In reviews
-
-Moedig geslaagde leerlingen aan om hun slaag-ervaring te delen in hun review: "In een keer geslaagd dankzij [rijschool]!" — dit is het krachtigste testimonial.
-
-### Op Google Bedrijfsprofiel
-
-Vermeld je slagingspercentage in je bedrijfsbeschrijving.
-
-## De financiele impact
-
-| Slagingspercentage | Effect op aanmeldingen |
-|-------------------|----------------------|
-| Onder landelijk gemiddeld | Minder aanmeldingen, meer korting nodig |
-| Op landelijk gemiddeld | Standaard instroom |
-| 10% boven gemiddeld | 20-30% meer aanmeldingen |
-| 20%+ boven gemiddeld | Wachtlijst, premium prijs mogelijk |
-
-## Conclusie
-
-Je slagingspercentage is meer dan een cijfer — het is je reputatie. Door systematisch te werken aan betere leskwaliteit, eerlijke examenvoorbereiding en gerichte faalangstbegeleiding verhoog je het percentage. En door het actief te communiceren, trek je meer leerlingen aan.
-
-Met [RijschoolAI](/) automatiseren we je communicatie met leerlingen en ouders. Onze managed service kost slechts 15 minuten van je tijd per maand. En met onze Groei-of-Geld-Terug Garantie loop je geen enkel risico.
-
-Vraag een [gratis scan](/gratis-scan) aan en ontdek hoe je meer leerlingen werft.
-
-Lees ook onze andere artikelen over [online groei voor rijscholen](/blog).
+Wil je weten hoe jouw rijschool online beter kan presteren? Vraag een [gratis scan](/gratis-scan) aan en ontdek waar je kansen liggen. Inclusief onze Groei-of-Geld-Terug Garantie.
