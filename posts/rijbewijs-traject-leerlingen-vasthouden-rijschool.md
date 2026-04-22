@@ -2,11 +2,11 @@
 title: "Rijbewijs-traject: zo houd je leerlingen bij de les"
 excerpt: "Leerlingen vasthouden als rijschool: waar in het traject ze afhaken, welke checkpoints je moet bewaken, en hoe je het hele traject van intake tot rijbewijs stroomlijnt."
 date: "2026-04-21"
+cluster: "rijbewijs-traject"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/rijbewijs-traject-leerlingen-vasthouden-rijschool.jpg"
 tags: ["Rijschool", "Leerlingenbehoud", "Klantreis", "Ondernemerschap"]
 ---
-
 De meeste rijscholen kijken naar groei vanuit één kant: meer nieuwe leerlingen binnenhalen. Dat is begrijpelijk maar economisch onjuist. Het duurste wat je doet is niet een lege stoel in je auto — het is een leerling die halverwege het traject uitvalt, waar je al zes tot acht weken in geïnvesteerd hebt. Een leerling die op de derde les afhaakt kost je in potentie €1.200 tot €1.800 aan gemiste omzet, plus de tijd die je aan lesplanning, begeleiding en administratie hebt besteed.
 
 Deze gids behandelt waar in het rijbewijs-traject leerlingen uitvallen, welke checkpoints je moet bewaken, en hoe je de uitval structureel verlaagt. Het resultaat voor rijscholen die dit systematisch aanpakken: uitvalpercentages dalen van 20-35% naar 8-15%, en omzet per leerling stijgt 15-25% omdat meer mensen het traject tot aan de examens doorlopen.

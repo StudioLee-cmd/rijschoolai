@@ -2,11 +2,11 @@
 title: "Concurrentieanalyse voor rijscholen: weet wat de rest doet (en doe het beter)"
 excerpt: "Je concurrent heeft meer reviews, een betere website en lagere prijzen. Of toch niet? Zo analyseer je de concurrentie als rijschool."
 date: "2026-04-05"
+cluster: "concurrentieanalyse"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/concurrentieanalyse-rijschool.jpg"
 tags: ["Concurrentie", "Rijschool", "Strategie"]
 ---
-
 ## Ken je concurrent beter dan jezelf
 
 In een stad met 30+ rijscholen is het verleidelijk om alleen naar je eigen bedrijf te kijken. Maar je potentiële leerlingen vergelijken je wél — ze openen 3-4 websites, checken Google-reviews en kiezen op basis van prijs, reviews en gevoel.

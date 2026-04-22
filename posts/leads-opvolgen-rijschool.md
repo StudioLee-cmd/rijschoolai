@@ -2,11 +2,11 @@
 title: "Leads opvolgen als rijschool: zo boek je meer proeflessen"
 excerpt: "Veel rijscholen laten leads liggen. Een snelle, persoonlijke opvolging maakt het verschil tussen een volle en lege agenda."
 date: "2026-04-05"
+cluster: "lead-opvolging"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leads-opvolgen-rijschool.jpg"
 tags: ["Leads", "Rijschool", "Verkoop"]
 ---
-
 ## De aanvraag die je nooit beantwoordde
 
 Een 18-jarige stuurt een berichtje via je website: "Hoi, wat kost een rijlespakket?" Je zit in de auto met een leerling en ziet het bericht pas 's avonds. Tegen die tijd heeft zij al geboekt bij de rijschool die binnen 10 minuten reageerde.

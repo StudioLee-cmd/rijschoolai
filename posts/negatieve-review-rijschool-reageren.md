@@ -2,11 +2,11 @@
 title: "Negatieve review als rijschool: zo reageer je professioneel"
 excerpt: "Een ontevreden leerling schrijft een slechte review. Hoe reageer je als rijschool zonder de situatie te verergeren?"
 date: "2026-04-12"
+cluster: "review-automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/negatieve-review-rijschool-reageren.jpg"
 tags: ["Reviews", "Reputatie", "Groei"]
 ---
-
 ## Rijschoolreviews zijn persoonlijk
 
 Bij een rijschool is de relatie tussen instructeur en leerling nauw. Weken of maanden naast elkaar in de auto. Als een leerling zakt en een negatieve review schrijft, voelt dat als een persoonlijke aanval. Maar het is dat niet. Het is een teleurgestelde klant die zijn frustratie uit.

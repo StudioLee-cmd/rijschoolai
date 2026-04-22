@@ -2,11 +2,11 @@
 title: "Belscript voor rijscholen: aanvragen omzetten in inschrijvingen"
 excerpt: "Een aanvraag is binnen, wat zeg je precies tijdens dat eerste telefoontje? Kant-en-klaar belscript voor rijscholen, getest op echte conversies."
 date: "2026-04-16"
+cluster: "lead-opvolging"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/belscript-rijschool-aanvraag-naar-inschrijving.jpg"
 tags: ["Rijschool", "Belscript", "Lead opvolging"]
 ---
-
 ## Waarom dat eerste telefoontje alles bepaalt
 
 Vrijdagmiddag, je staat naast de auto met een leerling die net haar examen heeft gehaald. Ze springt van vreugde, de achterbankouders maken foto's. In je broekzak piept je telefoon: een nieuwe aanvraag voor een proefles. Je belt 's avonds laat terug, vermoeid, je mompelt "eh, hoi, ik zag je aanvraag", de moeder aan de andere kant haakt af na 30 seconden, en je hoort niks meer. Eén verloren leerling, gemiddeld 1.800 tot 2.400 euro aan rijlessen plus examen, weg.

@@ -2,11 +2,11 @@
 title: "SEO voor rijscholen: meer leerlingen via Google"
 excerpt: "Ontdek hoe je als rijschool bovenaan komt in Google en meer leerlingen aantrekt. Praktische SEO-tips specifiek voor de rijschoolbranche."
 date: "2026-04-04"
+cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/seo-rijschool-meer-leerlingen.jpg"
 tags: ["SEO", "Vindbaarheid", "Rijschool"]
 ---
-
 ## Hoe leerlingen een rijschool kiezen in 2026
 
 De zoektocht naar een rijschool begint bijna altijd online. Jongeren (en hun ouders) zoeken op Google naar 'rijschool [stad]', 'goedkope rijlessen [regio]' of 'rijschool hoog slagingspercentage'. Wie bovenaan staat, krijgt de eerste telefoontjes en WhatsApp-berichten.

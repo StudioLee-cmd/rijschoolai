@@ -2,11 +2,11 @@
 title: "Slagingspercentage verhogen als rijschool: 5 bewezen methoden"
 excerpt: "Een hoog slagingspercentage trekt nieuwe leerlingen en bespaart herexamenkosten. Ontdek vijf methoden die je rijschool meetbaar beter laten presteren."
 date: "2026-04-14"
+cluster: "slagingspercentage"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/slagingspercentage-rijschool-verhogen.jpg"
 tags: ["Slagingspercentage", "Rijschool Tips", "Kwaliteit"]
 ---
-
 ## Waarom je slagingspercentage er meer toe doet dan je prijs
 
 Het eerste wat een potentiele leerling googelt voordat hij een rijschool kiest: het slagingspercentage. Niet de prijs, niet de locatie, niet de auto. Het percentage. Want niemand wil twee keer examen doen.

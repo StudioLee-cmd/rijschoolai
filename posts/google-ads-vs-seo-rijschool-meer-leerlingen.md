@@ -2,11 +2,11 @@
 title: "Google Ads vs SEO als rijschool: welke strategie levert meer leerlingen"
 excerpt: "Investeer je in Google Ads of SEO voor je rijschool? Beide strategieen hebben voor- en nadelen. Zo kies je de juiste mix."
 date: "2026-04-09"
+cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-ads-vs-seo-rijschool-meer-leerlingen.jpg"
 tags: ["Vindbaarheid", "Rijschool", "Google"]
 ---
-
 ## De keuze die elke rijschool maakt
 
 Je wilt meer leerlingen. Google is de plek waar ze zoeken: "rijschool [stad]", "rijbewijs halen kosten", "beste rijschool in de buurt." De vraag is: betaal je om bovenaan te staan (Google Ads) of werk je eraan om organisch omhoog te klimmen (SEO)?

@@ -2,11 +2,11 @@
 title: "Rijschool specialisatie: 4 niches vergeleken op omzet"
 excerpt: "Motor, automaat, intensieve cursus of aanhangerrijbewijs, welke rijschool-specialisatie levert per uur en per leerling het meeste op? Cijfers, marges en de randvoorwaarden."
 date: "2026-04-22"
+cluster: "specialisatie"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/rijschool-specialisatie-niche-omzet-vergelijking.jpg"
 tags: ["Rijschool", "Specialisatie", "Bedrijfsvoering", "Groei"]
 ---
-
 Een rijschool die alles doet, B-rijbewijs, automaat, motor, aanhanger, intensief, faalangstbegeleiding, concurreert in elke markt met bedrijven die zich juist op één van die vlakken hebben gespecialiseerd. Dat is geen vergelijking die je op de lange termijn wint. De generalist wint misschien volume maar verliest marge, de specialist wint marge en klantloyaliteit.
 
 De vraag voor rijschooleigenaren is daarom niet "moet ik me specialiseren", maar "in welke specialisatie ligt bij mijn situatie de hoogste ROI". In deze gids staan vier concrete niches vergeleken op vier dimensies die bepalen of een specialisatie werkt: omzet per uur, marge per leerling, klanten-leverantie en operationele complexiteit. Plus een concreet framework om te kiezen.

@@ -2,11 +2,11 @@
 title: "Review strategie als rijschool"
 excerpt: "Geslaagde leerlingen zijn je beste ambassadeurs. Ontdek hoe je als rijschool automatisch meer Google Reviews verzamelt en meer leerlingen werft."
 date: "2026-04-03"
+cluster: "review-automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/review-strategie-rijschool.jpg"
 tags: ["Reviews", "Review strategie", "Rijschool", "Google Reviews"]
 ---
-
 ## Waarom reviews een rijschool maken of breken
 
 Rijlessen zijn een grote investering — €2.000 tot €3.500 voor een compleet traject. Leerlingen (en hun ouders) willen zeker weten dat ze de juiste rijschool kiezen. Reviews van geslaagde leerlingen zijn het sterkste bewijs dat jij de juiste keuze bent.

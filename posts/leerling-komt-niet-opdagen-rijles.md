@@ -2,11 +2,11 @@
 title: "Leerling komt niet opdagen voor rijles: zo ga je ermee om"
 excerpt: "Een leerling verschijnt niet voor de rijles. Wat doe je, hoe voorkom je het, en mag je kosten in rekening brengen? Praktische gids voor rijscholen."
 date: "2026-04-12"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leerling-komt-niet-opdagen-rijles.jpg"
 tags: ["No-shows", "Leerlingen", "Groei"]
 ---
-
 ## Lesuitval raakt je harder dan je denkt
 
 Een rijles duurt gemiddeld anderhalf tot twee uur. Bij een uurtarief van 45 tot 55 euro is dat 90 tot 110 euro per les. Eén no-show per week kost je 360 tot 440 euro per maand. Per jaar: meer dan 4.500 euro.

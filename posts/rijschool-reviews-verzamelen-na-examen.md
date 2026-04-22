@@ -2,11 +2,11 @@
 title: "Reviews verzamelen na het rijexamen: zo doe je het"
 excerpt: "Leerlingen die slagen zijn euforisch. Het perfecte moment om een review te vragen. Zo automatiseer je het als rijschool zonder opdringerig te zijn."
 date: "2026-04-19"
+cluster: "review-automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/rijschool-reviews-verzamelen-na-examen.jpg"
 tags: ["Reviews", "Groei", "Tips"]
 ---
-
 ## Het perfecte moment voor een review
 
 Een leerling die net geslaagd is, is op zijn gelukkigst. Dát is het moment om te vragen: "Zou je een review willen achterlaten?" Niet een week later wanneer de euforie is gezakt, maar diezelfde dag.

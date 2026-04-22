@@ -2,11 +2,11 @@
 title: "Lesuitval voorkomen als rijschool"
 excerpt: "Leerlingen die niet komen opdagen kosten je als rijschool-eigenaar omzet en planningsruimte. Ontdek bewezen methoden om lesuitval te verminderen."
 date: "2026-04-03"
+cluster: "crm-klantbeheer"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/lesuitval-rijschool-voorkomen.jpg"
 tags: ["No-shows", "Rijschool", "Planning", "Lesuitval"]
 ---
-
 ## Wat lesuitval je rijschool kost
 
 Als rijinstructeur is je dag opgebouwd uit lesblokken van 60 tot 90 minuten. Elk blok dat uitvalt is directe omzetverlies — je kunt niet zomaar een andere leerling inplannen op 30 minuten notice. Bij een lesprijs van €45 tot €55 per uur kost een enkele no-show je al snel €50 tot €80.

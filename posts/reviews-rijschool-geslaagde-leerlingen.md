@@ -2,11 +2,11 @@
 title: "Reviews als rijschool: geslaagde leerlingen als ambassadeurs"
 excerpt: "Net geslaagd voor het rijexamen? Dat is het moment voor een Google review. Ontdek hoe je als rijschool moeiteloos reviews verzamelt van blije leerlingen."
 date: "2026-04-11"
+cluster: "review-automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reviews-rijschool-geslaagde-leerlingen.jpg"
 tags: ["Reviews", "Leerlingen", "Groei"]
 ---
-
 ## Het krachtigste reviewmoment in de rijschoolbranche
 
 Er is geen sterker emotioneel moment dan het moment waarop een leerling hoort: "Gefeliciteerd, je bent geslaagd!" Maanden van lessen, oefenen en zenuwen culmineren in dat ene moment van pure blijdschap. Precies dat moment levert de meest enthousiaste, gedetailleerde en overtuigende Google reviews op.

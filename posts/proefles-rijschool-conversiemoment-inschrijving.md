@@ -2,11 +2,11 @@
 title: "Proefles als conversiemoment voor je rijschool: van twijfel naar inschrijving"
 excerpt: "De proefles is het moment waarop een twijfelende leerling beslist. Zo maak je van elke proefles een inschrijving."
 date: "2026-04-10"
+cluster: "lead-opvolging"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/proefles-rijschool-conversiemoment-inschrijving.jpg"
 tags: ["Lead opvolging", "Rijschool", "Proefles"]
 ---
-
 ## De proefles is je verkoopgesprek
 
 De meeste rijscholen zien de proefles als een eerste rijles. De leerling zit achter het stuur, de instructeur geeft aanwijzingen, en na een uur stappen ze uit met een "het was leuk, ik laat het je weten."

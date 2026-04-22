@@ -2,11 +2,11 @@
 title: "No-shows bij rijlessen voorkomen: complete aanpak voor rijscholen"
 excerpt: "Een gemiste rijles is direct verloren omzet. Lees hoe je met slimme bevestigingen en een duidelijk beleid no-shows met 80 procent reduceert."
 date: "2026-04-08"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/rijschool-no-shows-rijlessen-voorkomen.jpg"
 tags: ["No-shows", "Rijschool", "Leerlingen"]
 ---
-
 ## Wat een gemiste rijles je echt kost
 
 Het is woensdagochtend 10:00. Je staat met je lesauto voor het huis van een leerling. Je belt aan. Geen reactie. Belt zijn nummer. Voicemail. Vijftien minuten wachten, dan rijd je terug naar de volgende les. Die ene les van 65 euro is verloren omzet, die uren krijg je niet terug.

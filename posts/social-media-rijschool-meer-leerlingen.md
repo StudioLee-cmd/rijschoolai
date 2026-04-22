@@ -2,11 +2,11 @@
 title: "Social media als rijschool: zo trek je meer leerlingen"
 excerpt: "Leerlingen vinden hun rijschool steeds vaker via Instagram en TikTok. Zo zet je social media in als rijschool om meer inschrijvingen te krijgen."
 date: "2026-04-18"
+cluster: "social-media"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/social-media-rijschool-meer-leerlingen.jpg"
 tags: ["Social Media", "Leerlingen", "Marketing"]
 ---
-
 ## Waar je toekomstige leerlingen zitten
 
 Je toekomstige leerlingen zijn 17 tot 25 jaar oud. Ze zitten op Instagram, TikTok en YouTube. Ze scrollen door Reels, kijken Stories en zoeken op TikTok voordat ze op Google zoeken. Als jouw rijschool daar niet zichtbaar is, besta je niet voor deze doelgroep.

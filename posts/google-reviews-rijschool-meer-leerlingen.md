@@ -2,11 +2,11 @@
 title: "Meer Google reviews als rijschool: zo pak je het aan"
 excerpt: "Leerlingen kiezen een rijschool op basis van reviews. Ontdek hoe je structureel meer positieve beoordelingen verzamelt."
 date: "2026-04-17"
+cluster: "review-automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-reviews-rijschool-meer-leerlingen.jpg"
 tags: ["Reviews", "Google", "Leerlingen"]
 ---
-
 ## Waarom reviews voor rijscholen alles bepalen
 
 De keuze voor een rijschool is voor de meeste leerlingen een grote beslissing. Het kost duizenden euro's en je vertrouwt je veiligheid toe aan een instructeur die je niet kent. Reviews zijn dan het belangrijkste selectiecriterium. Een rijschool met 4,9 sterren en 80 reviews wint het altijd van een school met 3 reviews, ongeacht de prijs of de afstand.

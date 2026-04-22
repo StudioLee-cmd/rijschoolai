@@ -2,11 +2,11 @@
 title: "Reviews van leerlingen verzamelen als rijschool: zo doe je dat"
 excerpt: "Rijscholen met sterke reviews trekken meer aanmeldingen. Leer hoe je automatisch reviews verzamelt op het juiste moment."
 date: "2026-04-06"
+cluster: "review-automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/rijschool-reviews-leerlingen-verzamelen.jpg"
 tags: ["Reviews", "Rijschool", "Leerlingen"]
 ---
-
 ## Het rijbewijs is gehaald, de review niet
 
 Je leerling heeft net het examen gehaald. Vreugde, tranen, knuffels. Het mooiste moment in je vak. En ook het perfecte moment om een review te vragen. Maar je vergeet het, want je hebt al de volgende les.

@@ -2,11 +2,11 @@
 title: "Rijschool leads opvolgen: van aanvraag naar leerling"
 excerpt: "Veel rijscholen verliezen potentiele leerlingen door trage opvolging. Ontdek hoe je aanvragen sneller omzet naar inschrijvingen."
 date: "2026-04-07"
+cluster: "lead-opvolging"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/rijschool-leads-opvolgen-meer-leerlingen.jpg"
 tags: ["Leads", "Rijschool", "Leerlingen"]
 ---
-
 ## De leerling die je nooit hebt gehad
 
 Een 18-jarige wil zijn rijbewijs halen. Hij vergelijkt drie rijscholen online, vult bij alle drie het contactformulier in, en wacht af. De rijschool die het eerst belt met een concreet aanbod (proefles, pakketprijs, startdatum) krijgt de inschrijving.

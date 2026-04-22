@@ -2,11 +2,11 @@
 title: "Gemiste rijlessen: wat no-shows je rijschool kosten"
 excerpt: "Een leerling die niet komt opdagen kost je een lesuur en omzet. Bereken je verlies en ontdek hoe je no-shows vermindert."
 date: "2026-04-17"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-rijschool-gemiste-lessen.jpg"
 tags: ["No-shows", "Rijschool", "Planning"]
 ---
-
 ## Een leeg lesuur is verloren geld
 
 Je staat bij het afgesproken adres, de motor draait. Maar de leerling verschijnt niet. Geen bericht, geen afmelding. Een rijles van 50 tot 70 euro verdampt, plus de brandstofkosten en de tijd die je had kunnen besteden aan een andere leerling.
