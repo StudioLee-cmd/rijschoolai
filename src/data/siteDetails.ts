@@ -3,7 +3,7 @@ export const siteDetails = {
     niche: 'Rijscholen',
     siteUrl: 'https://www.rijschoolai.nl/',
     metadata: {
-        title: 'RijschoolAI - AI Telefoniste & Automatisering voor Rijscholen',
+        title: 'RijschoolAI - AI voor rijscholen',
         description: 'RijschoolAI helpt rijscholen groeien met AI. Van automatische telefoonbeantwoording tot slimme planning & leerlingwerving.',
     },
     language: 'nl-NL',
