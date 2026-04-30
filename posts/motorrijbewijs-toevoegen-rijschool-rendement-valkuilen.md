@@ -1,7 +1,7 @@
 ---
 title: "Motorrijbewijs A1/A2/A toevoegen aan je rijschool: rendement en valkuilen"
 slug: motorrijbewijs-toevoegen-rijschool-rendement-valkuilen
-date: 2026-04-30
+date: 2026-04-29
 excerpt: "Wanneer is motorrijbewijs een rendabele tweede inkomstenbron voor een B-rijschool? Cijfers per categorie A1/A2/A, instructeur-economie en de twee scenario's waarin het niet werkt."
 image: "/images/blog/motorrijbewijs-toevoegen-rijschool-rendement-valkuilen.jpg"
 authorSlug: "tim-van-der-lee"
