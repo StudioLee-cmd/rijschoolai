@@ -1,7 +1,7 @@
 ---
 title: "Slagingspercentage tonen op je rijschool-website: hoe doe je het slim?"
 slug: rijschool-slagingspercentage-tonen-website-marketing
-date: 2026-05-01
+date: "2026-05-01"
 excerpt: "Een goed gepresenteerd slagingspercentage levert 25-40% meer leerlingen op. Maar verkeerd tonen schaadt je merk. Hoe doe je het in 2026?"
 image: "/images/blog/rijschool-slagingspercentage-tonen-website-marketing.jpg"
 authorSlug: "tim-van-der-lee"
