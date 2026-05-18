@@ -2,7 +2,7 @@
 title: "Reviews als rijschool: geslaagde leerlingen als ambassadeurs"
 excerpt: "Net geslaagd voor het rijexamen? Dat is het moment voor een Google review. Ontdek hoe je als rijschool moeiteloos reviews verzamelt van blije leerlingen."
 date: "2026-04-11"
-cluster: "review-automatisering"
+cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reviews-rijschool-geslaagde-leerlingen.jpg"
 tags: ["Reviews", "Leerlingen", "Groei"]

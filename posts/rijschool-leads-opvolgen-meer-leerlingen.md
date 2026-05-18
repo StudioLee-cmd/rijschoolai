@@ -2,7 +2,7 @@
 title: "Rijschool leads opvolgen: van aanvraag naar leerling"
 excerpt: "Veel rijscholen verliezen potentiele leerlingen door trage opvolging. Ontdek hoe je aanvragen sneller omzet naar inschrijvingen."
 date: "2026-04-07"
-cluster: "lead-opvolging"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/rijschool-leads-opvolgen-meer-leerlingen.jpg"
 tags: ["Leads", "Rijschool", "Leerlingen"]

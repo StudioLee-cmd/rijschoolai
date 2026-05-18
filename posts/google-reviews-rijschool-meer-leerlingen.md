@@ -2,7 +2,7 @@
 title: "Meer Google reviews als rijschool: zo pak je het aan"
 excerpt: "Leerlingen kiezen een rijschool op basis van reviews. Ontdek hoe je structureel meer positieve beoordelingen verzamelt."
 date: "2026-04-17"
-cluster: "review-automatisering"
+cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-reviews-rijschool-meer-leerlingen.jpg"
 tags: ["Reviews", "Google", "Leerlingen"]

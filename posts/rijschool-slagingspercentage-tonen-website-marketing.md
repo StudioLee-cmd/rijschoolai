@@ -6,7 +6,7 @@ excerpt: "Een goed gepresenteerd slagingspercentage levert 25-40% meer leerlinge
 image: "/images/blog/rijschool-slagingspercentage-tonen-website-marketing.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Slagingspercentage", "Website", "Marketing", "Vertrouwen", "Conversie"]
-cluster: "lead-opvolging"
+cluster: "website"
 ---
 
 Een rijschool met een 78 procent slagingspercentage die dat NIET op zijn website toont, mist één van de krachtigste vertrouwenssignalen die hij heeft. Maar een rijschool die het slagingspercentage verkeerd presenteert — bijvoorbeeld zonder context of met cherry-picked cijfers — schaadt zijn merk. Het verschil tussen "slagingspercentage werkt" en "slagingspercentage werkt averechts" zit in hoe je het toont, niet in het cijfer zelf.

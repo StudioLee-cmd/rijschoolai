@@ -2,7 +2,7 @@
 title: "Lesuitval voorkomen als rijschool"
 excerpt: "Leerlingen die niet komen opdagen kosten je als rijschool-eigenaar omzet en planningsruimte. Ontdek bewezen methoden om lesuitval te verminderen."
 date: "2026-04-03"
-cluster: "crm-klantbeheer"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/lesuitval-rijschool-voorkomen.jpg"
 tags: ["No-shows", "Rijschool", "Planning", "Lesuitval"]

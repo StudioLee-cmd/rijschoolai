@@ -2,7 +2,7 @@
 title: "Gemiste rijlessen: wat no-shows je rijschool kosten"
 excerpt: "Een leerling die niet komt opdagen kost je een lesuur en omzet. Bereken je verlies en ontdek hoe je no-shows vermindert."
 date: "2026-04-17"
-cluster: "no-shows"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-rijschool-gemiste-lessen.jpg"
 tags: ["No-shows", "Rijschool", "Planning"]

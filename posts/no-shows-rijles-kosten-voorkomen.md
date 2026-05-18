@@ -2,7 +2,7 @@
 title: "No-shows bij rijlessen: wat het je kost en hoe je het voorkomt"
 excerpt: "Een gemiste rijles kost je als rijschool €40 tot €80 aan gederfde omzet. Zo voorkom je no-shows met automatische herinneringen."
 date: "2026-04-15"
-cluster: "no-shows"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-rijles-kosten-voorkomen.jpg"
 tags: ["No-shows", "Kosten", "Planning"]

@@ -2,7 +2,7 @@
 title: "Review strategie als rijschool"
 excerpt: "Geslaagde leerlingen zijn je beste ambassadeurs. Ontdek hoe je als rijschool automatisch meer Google Reviews verzamelt en meer leerlingen werft."
 date: "2026-04-03"
-cluster: "review-automatisering"
+cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/review-strategie-rijschool.jpg"
 tags: ["Reviews", "Review strategie", "Rijschool", "Google Reviews"]

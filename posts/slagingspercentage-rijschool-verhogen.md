@@ -2,7 +2,7 @@
 title: "Slagingspercentage verhogen als rijschool: 5 bewezen methoden"
 excerpt: "Een hoog slagingspercentage trekt nieuwe leerlingen en bespaart herexamenkosten. Ontdek vijf methoden die je rijschool meetbaar beter laten presteren."
 date: "2026-04-14"
-cluster: "slagingspercentage"
+cluster: "website"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/slagingspercentage-rijschool-verhogen.jpg"
 tags: ["Slagingspercentage", "Rijschool Tips", "Kwaliteit"]

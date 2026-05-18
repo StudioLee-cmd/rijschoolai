@@ -7,7 +7,7 @@ image: "/images/blog/klantcommunicatie-rijschool-leerlingen.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
 tags: ["klantcommunicatie", "rijschool", "leerlingen"]
-cluster: "klantcommunicatie"
+cluster: "automatisering"
 ---
 
 ## Waarom communicatie het leerproces versterkt

@@ -4,7 +4,7 @@ excerpt: "Een goed leerlingvolgsysteem geeft een rijschoolhouder grip op voortga
 date: "2026-04-26"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leerlingvolgsysteem-rijschool-intake-rijbewijs.jpg"
-cluster: "crm-klantbeheer"
+cluster: "automatisering"
 tags: ["CRM", "Leerlingvolgsysteem", "Rijschool Operaties"]
 ---
 

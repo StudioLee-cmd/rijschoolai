@@ -2,7 +2,7 @@
 title: "Proefles als conversiemoment voor je rijschool: van twijfel naar inschrijving"
 excerpt: "De proefles is het moment waarop een twijfelende leerling beslist. Zo maak je van elke proefles een inschrijving."
 date: "2026-04-10"
-cluster: "lead-opvolging"
+cluster: "website"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/proefles-rijschool-conversiemoment-inschrijving.jpg"
 tags: ["Lead opvolging", "Rijschool", "Proefles"]

@@ -2,7 +2,7 @@
 title: "Reviews verzamelen na het rijexamen: zo doe je het"
 excerpt: "Leerlingen die slagen zijn euforisch. Het perfecte moment om een review te vragen. Zo automatiseer je het als rijschool zonder opdringerig te zijn."
 date: "2026-04-19"
-cluster: "review-automatisering"
+cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/rijschool-reviews-verzamelen-na-examen.jpg"
 tags: ["Reviews", "Groei", "Tips"]

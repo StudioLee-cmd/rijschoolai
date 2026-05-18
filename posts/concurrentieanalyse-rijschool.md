@@ -2,7 +2,7 @@
 title: "Concurrentieanalyse voor rijscholen: weet wat de rest doet (en doe het beter)"
 excerpt: "Je concurrent heeft meer reviews, een betere website en lagere prijzen. Of toch niet? Zo analyseer je de concurrentie als rijschool."
 date: "2026-04-05"
-cluster: "concurrentieanalyse"
+cluster: "branding"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/concurrentieanalyse-rijschool.jpg"
 tags: ["Concurrentie", "Rijschool", "Strategie"]

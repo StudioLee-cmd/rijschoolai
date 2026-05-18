@@ -6,7 +6,7 @@ excerpt: "Ouders van 17 tot 20-jarige leerlingen beslissen 60 tot 75 procent van
 image: "/images/blog/ouder-communicatie-rijschool-voortgangsupdates.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Klantcommunicatie", "Ouders", "17-jarige", "WhatsApp", "Rijschool"]
-cluster: "klantcommunicatie"
+cluster: "automatisering"
 ---
 
 **In het kort:**

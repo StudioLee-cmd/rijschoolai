@@ -2,7 +2,7 @@
 title: "Rijbewijs-traject: zo houd je leerlingen bij de les"
 excerpt: "Leerlingen vasthouden als rijschool: waar in het traject ze afhaken, welke checkpoints je moet bewaken, en hoe je het hele traject van intake tot rijbewijs stroomlijnt."
 date: "2026-04-21"
-cluster: "rijbewijs-traject"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/rijbewijs-traject-leerlingen-vasthouden-rijschool.jpg"
 tags: ["Rijschool", "Leerlingenbehoud", "Klantreis", "Ondernemerschap"]

@@ -6,7 +6,7 @@ excerpt: "WRM-keurmerk, BO-bewijs en CBR-cijfers zichtbaar maken op je rijschool
 image: "/images/blog/wrm-keurmerk-tonen-rijschool-website-trust-signalen.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Specialisatie", "WRM", "Trust-signalen", "Rijschool"]
-cluster: "specialisatie"
+cluster: "website"
 ---
 
 **In het kort:**

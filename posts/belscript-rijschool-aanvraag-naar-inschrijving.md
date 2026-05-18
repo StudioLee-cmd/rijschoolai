@@ -2,7 +2,7 @@
 title: "Belscript voor rijscholen: aanvragen omzetten in inschrijvingen"
 excerpt: "Een aanvraag is binnen, wat zeg je precies tijdens dat eerste telefoontje? Kant-en-klaar belscript voor rijscholen, getest op echte conversies."
 date: "2026-04-16"
-cluster: "lead-opvolging"
+cluster: "voice-ai"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/belscript-rijschool-aanvraag-naar-inschrijving.jpg"
 tags: ["Rijschool", "Belscript", "Lead opvolging"]

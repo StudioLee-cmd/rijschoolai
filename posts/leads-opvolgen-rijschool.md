@@ -2,7 +2,7 @@
 title: "Leads opvolgen als rijschool: zo boek je meer proeflessen"
 excerpt: "Veel rijscholen laten leads liggen. Een snelle, persoonlijke opvolging maakt het verschil tussen een volle en lege agenda."
 date: "2026-04-05"
-cluster: "lead-opvolging"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leads-opvolgen-rijschool.jpg"
 tags: ["Leads", "Rijschool", "Verkoop"]

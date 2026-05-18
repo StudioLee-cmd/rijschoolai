@@ -5,7 +5,7 @@ date: "2026-04-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/proefles-conversie-rijschool.jpg"
 tags: ["Proefles", "Conversie", "Inschrijving"]
-cluster: "lead-opvolging"
+cluster: "website"
 ---
 
 Een proefles is voor bijna elke Nederlandse rijschool de kern van het inschrijvingsproces. Leerlingen willen eerst een uurtje proefrijden voordat ze een pakket aanschaffen dat 1.400 tot 2.800 euro kost. De proefles is dus het moment waarop jij de lead pakt of verliest. En juist daar valt het meeste werk te winnen: uit onze analyse van 300 Nederlandse rijscholen blijkt dat van elke 10 proefles-aanvragen er gemiddeld slechts 4 tot 5 uiteindelijk op inschrijving uitkomen. De rest verdwijnt ergens tussen "ik wil een proefles" en "ik ben ingeschreven". Dit artikel legt uit waar die lekken zitten, waarom ze bestaan en hoe je elk afzonderlijk dicht.

@@ -2,7 +2,7 @@
 title: "Leerling komt niet opdagen voor rijles: zo ga je ermee om"
 excerpt: "Een leerling verschijnt niet voor de rijles. Wat doe je, hoe voorkom je het, en mag je kosten in rekening brengen? Praktische gids voor rijscholen."
 date: "2026-04-12"
-cluster: "no-shows"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leerling-komt-niet-opdagen-rijles.jpg"
 tags: ["No-shows", "Leerlingen", "Groei"]
