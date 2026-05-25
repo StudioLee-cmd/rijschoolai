@@ -12,6 +12,7 @@ export const menuItems: IMenuItem[] = [
             { text: "Reviews voor Rijscholen", url: "/reviews" },
             { text: "Review Pakket", url: "/review-pakket" },
             { text: "CRM voor Rijscholen", url: "/crm" },
+            { text: "Automatisering voor Rijscholen", url: "/automatisering" },
         ]
     },
     {
