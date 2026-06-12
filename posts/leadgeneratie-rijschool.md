@@ -1,5 +1,6 @@
 ---
 title: "Leadgeneratie als rijschool: meer leerlingen via slimme kanalen"
+seoTitle: "Leadgeneratie als rijschool"
 excerpt: "Google alleen is niet genoeg. Ontdek welke leadkanalen rijscholen over het hoofd zien en hoe je een constante stroom aan nieuwe leerlingen opbouwt."
 date: "2026-03-24"
 authorSlug: "tim-van-der-lee"

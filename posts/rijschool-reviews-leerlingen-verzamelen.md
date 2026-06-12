@@ -1,5 +1,6 @@
 ---
 title: "Reviews van leerlingen verzamelen als rijschool: zo doe je dat"
+seoTitle: "Reviews van leerlingen verzamelen als rijschool"
 excerpt: "Rijscholen met sterke reviews trekken meer aanmeldingen. Leer hoe je automatisch reviews verzamelt op het juiste moment."
 date: "2026-04-06"
 cluster: "reviews"

@@ -1,5 +1,6 @@
 ---
 title: "Online reputatie als rijschool: reviews die nieuwe leerlingen overtuigen"
+seoTitle: "Online reputatie als rijschool"
 excerpt: "Je online reputatie bepaalt of nieuwe leerlingen jouw rijschool kiezen. Leer hoe je reviews verzamelt en je imago beschermt."
 date: "2026-03-26"
 authorSlug: "tim-van-der-lee"

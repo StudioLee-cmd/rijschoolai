@@ -1,5 +1,6 @@
 ---
 title: "Rijbewijs-traject: 7 communicatiemomenten die leerlingen doorduwen tot geslaagd"
+seoTitle: "Rijbewijs-traject: 7 communicatiemomenten"
 excerpt: "Leerlingen haken het vaakst af tussen de 10e en 20e les, niet aan het begin. Deze 7 contactmomenten houden ze bij de les en verhogen je slaagpercentage."
 date: "2026-04-23"
 authorSlug: "tim-van-der-lee"

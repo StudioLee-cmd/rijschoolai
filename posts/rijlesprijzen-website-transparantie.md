@@ -1,5 +1,6 @@
 ---
 title: "Rijlesprijzen op je website: transparantie die leerlingen oplevert"
+seoTitle: "Rijlesprijzen op je website"
 excerpt: "Moet je als rijschool je lesprijzen online zetten? Ontdek waarom prijstransparantie meer leerlingen oplevert dan je denkt."
 date: "2026-03-13"
 authorSlug: "tim-van-der-lee"

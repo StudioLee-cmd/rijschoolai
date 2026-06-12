@@ -1,5 +1,6 @@
 ---
 title: "Social media voor rijscholen: meer leerlingen werven via Instagram en TikTok"
+seoTitle: "Social media voor rijscholen"
 excerpt: "Ontdek hoe rijscholen social media inzetten om meer klanten te bereiken. Praktische tips, de beste platforms en slimme AI-tools voor rijscholen in 2026."
 date: "2026-03-09"
 authorSlug: "tim-van-der-lee"

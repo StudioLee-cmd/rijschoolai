@@ -1,5 +1,6 @@
 ---
 title: "Seizoensmarketing voor rijscholen: het hele jaar door leerlingen werven"
+seoTitle: "Seizoensmarketing voor rijscholen"
 slug: "seizoensmarketing-rijschool-leerlingen"
 date: "2026-03-23"
 excerpt: "De aanwas van rijschoolleerlingen verschilt per seizoen. Ontdek hoe je als rijschool inspeelt op seizoenstrends en je planning het hele jaar door vult."

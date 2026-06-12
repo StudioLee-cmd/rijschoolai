@@ -1,5 +1,6 @@
 ---
 title: "Social Media zonder Dansjes: Gewoon Geslaagde Leerlingen Posten"
+seoTitle: "Social Media zonder Dansjes"
 excerpt: "Geen gedoe met TikTok trends. Gewoon laten zien dat je leerlingen slagen. Met onze AI bouw je een portfolio op Instagram in 5 seconden per week."
 date: "2026-01-15"
 authorSlug: "tim-van-der-lee"

@@ -1,6 +1,7 @@
 ---
 title: "Gezakte leerlingen behouden: zo voorkom je dat ze switchen naar een andere rijschool"
-excerpt: "Tussen 30 en 45% van gezakte rijschoolleerlingen overweegt een andere rijschool te zoeken — vaak in de eerste 72 uur na het slechte nieuws. Dit retention-protocol houdt ze bij jou."
+seoTitle: "Gezakte leerlingen behouden"
+excerpt: "Tussen 30 en 45% van gezakte rijschoolleerlingen overweegt een andere rijschool te zoeken — vaak in de eerste 72 uur na het slechte nieuws."
 date: "2026-04-25"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"

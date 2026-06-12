@@ -1,6 +1,7 @@
 ---
 title: "Theorie-examen tips op je rijschoolblog: content die leerlingen trekt"
-excerpt: "Leer hoe je als rijschool met theorie-examen content meer leerlingen aantrekt via Google en social media."
+seoTitle: "Theorie-examen tips op je rijschoolblog"
+excerpt: "Leer hoe je als rijschool met theorie-examen content meer leerlingen aantrekt via Google en social media. Met concrete contentideeën."
 date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/theorie-examen-tips-rijschoolblog.png"

@@ -1,6 +1,6 @@
 ---
 title: "Meer Google reviews als rijschool: zo pak je het aan"
-excerpt: "Leerlingen kiezen een rijschool op basis van reviews. Ontdek hoe je structureel meer positieve beoordelingen verzamelt."
+excerpt: "Leerlingen kiezen een rijschool op basis van reviews. Ontdek hoe je structureel meer positieve beoordelingen verzamelt. Automatisch."
 date: "2026-04-17"
 cluster: "reviews"
 authorSlug: "tim-van-der-lee"

@@ -1,5 +1,6 @@
 ---
 title: "Het Einde van \"Appen tijdens de Les\": Veiligheid & Professionaliteit"
+seoTitle: "Het Einde van \"Appen tijdens de Les\""
 excerpt: "Mis nooit meer een nieuwe leerling omdat je aan het lessen bent. Onze Voice AI neemt op, plant proeflessen en beantwoordt vragen. Veilig en winstgevend."
 date: "2026-01-02"
 authorSlug: "tim-van-der-lee"

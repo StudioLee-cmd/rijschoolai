@@ -1,5 +1,6 @@
 ---
 title: "Google Ads vs SEO als rijschool: welke strategie levert meer leerlingen"
+seoTitle: "Google Ads vs SEO als rijschool"
 excerpt: "Investeer je in Google Ads of SEO voor je rijschool? Beide strategieen hebben voor- en nadelen. Zo kies je de juiste mix."
 date: "2026-04-09"
 cluster: "vindbaarheid"

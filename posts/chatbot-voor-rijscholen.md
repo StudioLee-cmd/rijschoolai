@@ -1,6 +1,7 @@
 ---
 title: "Chatbot voor rijscholen: 24/7 vragen beantwoorden en proefles boeken"
-excerpt: "Een chatbot op je rijschool website beantwoordt vragen en boekt proeflessen — ook buiten kantooruren. Zo werkt het."
+seoTitle: "Chatbot voor rijscholen"
+excerpt: "Een chatbot op je rijschool website beantwoordt vragen en boekt proeflessen — ook buiten kantooruren. Zo werkt het. Snel ingesteld."
 date: "2026-04-02"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/chatbot-voor-rijscholen.jpg"

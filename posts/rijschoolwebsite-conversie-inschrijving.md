@@ -1,6 +1,7 @@
 ---
 title: "Je rijschoolwebsite laten converteren: van bezoeker tot inschrijving"
-excerpt: "Ontdek hoe je als rijschool je website omzet in een inschrijfmachine die continu nieuwe leerlingen binnenhaalt."
+seoTitle: "Je rijschoolwebsite laten converteren"
+excerpt: "Ontdek hoe je als rijschool je website omzet in een inschrijfmachine die continu nieuwe leerlingen binnenhaalt. Met vijf verbeterpunten."
 date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/rijschoolwebsite-conversie-inschrijving.png"

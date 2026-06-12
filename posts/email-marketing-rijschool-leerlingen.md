@@ -1,5 +1,6 @@
 ---
 title: "Email marketing voor rijscholen: contact houden met (ex-)leerlingen"
+seoTitle: "Email marketing voor rijscholen"
 slug: "email-marketing-rijschool-leerlingen"
 date: "2026-03-21"
 excerpt: "Geslaagde leerlingen zijn je beste ambassadeurs. Met slimme email marketing houd je contact en genereer je doorverwijzingen."

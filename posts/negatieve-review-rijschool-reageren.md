@@ -1,6 +1,6 @@
 ---
 title: "Negatieve review als rijschool: zo reageer je professioneel"
-excerpt: "Een ontevreden leerling schrijft een slechte review. Hoe reageer je als rijschool zonder de situatie te verergeren?"
+excerpt: "Een ontevreden leerling schrijft een slechte review. Hoe reageer je als rijschool zonder de situatie te verergeren? Met voorbeeldreacties."
 date: "2026-04-12"
 cluster: "reviews"
 authorSlug: "tim-van-der-lee"

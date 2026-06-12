@@ -1,6 +1,6 @@
 ---
 title: "Personeel op Kantoor vs. AI: Waarom meer betalen?"
-excerpt: "Waarom zou je €3000 per maand betalen aan kantoorpersoneel als AI het beter kan voor een fractie van de prijs?"
+excerpt: "Waarom zou je €3000 per maand betalen aan kantoorpersoneel als AI het beter kan voor een fractie van de prijs? De eerlijke vergelijking."
 date: "2026-01-25"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/rijschoolai-vs-personeel.png"

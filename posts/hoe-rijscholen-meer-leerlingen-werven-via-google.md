@@ -1,6 +1,6 @@
 ---
 title: "Hoe rijscholen meer leerlingen werven via Google"
-excerpt: "Jongeren en cursisten zoeken hun rijschool online. Wie bovenaan staat met goede reviews en duidelijke informatie, krijgt de aanmelding. Dit is hoe je dat regelt."
+excerpt: "Jongeren en cursisten zoeken hun rijschool online. Wie bovenaan staat met goede reviews en duidelijke informatie, krijgt de aanmelding."
 date: "2026-03-03"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoe-rijscholen-meer-leerlingen-werven-via-google.png"

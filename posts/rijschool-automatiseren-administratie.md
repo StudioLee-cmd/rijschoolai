@@ -1,5 +1,6 @@
 ---
 title: "Rijschooladministratie automatiseren: minder papierwerk, meer rijlessen"
+seoTitle: "Rijschooladministratie automatiseren"
 excerpt: "Rijschoolhouders besteden uren per week aan planning en facturatie. Ontdek hoe automatisering je meer tijd geeft achter het stuur."
 date: "2026-04-06"
 cluster: "automatisering"

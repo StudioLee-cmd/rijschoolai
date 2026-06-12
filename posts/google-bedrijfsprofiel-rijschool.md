@@ -1,6 +1,7 @@
 ---
 title: "Google Bedrijfsprofiel als rijschool: zo vinden leerlingen jouw rijschool"
-excerpt: "Leer hoe je als rijschool je Google Bedrijfsprofiel optimaal inzet om meer leerlingen te werven."
+seoTitle: "Google Bedrijfsprofiel als rijschool"
+excerpt: "Leer hoe je als rijschool je Google Bedrijfsprofiel optimaal inzet om meer leerlingen te werven. Met praktische optimalisatietips en voorbeelden."
 date: "2026-03-14"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-bedrijfsprofiel-rijschool.png"

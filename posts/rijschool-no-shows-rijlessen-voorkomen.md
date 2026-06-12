@@ -1,5 +1,6 @@
 ---
 title: "No-shows bij rijlessen voorkomen: complete aanpak voor rijscholen"
+seoTitle: "No-shows bij rijlessen voorkomen"
 excerpt: "Een gemiste rijles is direct verloren omzet. Lees hoe je met slimme bevestigingen en een duidelijk beleid no-shows met 80 procent reduceert."
 date: "2026-04-08"
 cluster: "automatisering"

@@ -1,6 +1,7 @@
 ---
 title: "Nazorg bij je rijschool: zo blijf je in contact na het rijbewijs"
-excerpt: "Ontdek hoe je als rijschool contact houdt na het rijbewijs en doorverwijzingen stimuleert via nazorg."
+seoTitle: "Nazorg bij je rijschool"
+excerpt: "Ontdek hoe je als rijschool contact houdt na het rijbewijs en doorverwijzingen stimuleert via nazorg. Met concrete contactmomenten en voorbeelden."
 date: "2026-03-29"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/nazorg-rijschool-na-het-rijbewijs.jpg"

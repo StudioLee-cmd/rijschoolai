@@ -1,6 +1,7 @@
 ---
 title: "Branding als rijschool: zo word je de bekendste rijschool in je regio"
-excerpt: "Een sterk merk als rijschool trekt meer leerlingen aan en maakt je minder afhankelijk van prijsconcurrentie."
+seoTitle: "Branding als rijschool"
+excerpt: "Een sterk merk als rijschool trekt meer leerlingen aan en maakt je minder afhankelijk van prijsconcurrentie. Zo bouw je het op."
 date: "2026-03-24"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/branding-rijschool.png"

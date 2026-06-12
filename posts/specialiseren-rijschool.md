@@ -1,5 +1,6 @@
 ---
 title: "Specialiseren als rijschool: niche-aanbod dat meer leerlingen trekt"
+seoTitle: "Specialiseren als rijschool"
 excerpt: "Niet elke rijschool hoeft alles aan te bieden. Ontdek hoe specialisatie je rijschool laat opvallen en betere leerlingen trekt."
 date: "2026-03-27"
 authorSlug: "tim-van-der-lee"

@@ -1,6 +1,6 @@
 ---
 title: "Beste rijschoolsoftware 2026: tools vergeleken"
-excerpt: "Welke software past bij jouw rijschool? Een eerlijke vergelijking van de beste tools voor rijscholen in 2026."
+excerpt: "Welke software past bij jouw rijschool? Een eerlijke vergelijking van de beste tools voor rijscholen in 2026. Met prijzen en praktijkervaringen."
 date: "2026-03-07"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/beste-rijschoolsoftware-2026.png"

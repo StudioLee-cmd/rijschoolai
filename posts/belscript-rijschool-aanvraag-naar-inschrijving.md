@@ -1,5 +1,6 @@
 ---
 title: "Belscript voor rijscholen: aanvragen omzetten in inschrijvingen"
+seoTitle: "Belscript voor rijscholen"
 excerpt: "Een aanvraag is binnen, wat zeg je precies tijdens dat eerste telefoontje? Kant-en-klaar belscript voor rijscholen, getest op echte conversies."
 date: "2026-04-16"
 cluster: "voice-ai"

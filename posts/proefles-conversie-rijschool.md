@@ -1,6 +1,7 @@
 ---
 title: "Proefles-aanvragen converteren: van eerste contact tot inschrijving"
-excerpt: "De meeste rijscholen verliezen 50 tot 70 procent van hun proefles-aanvragen tussen het eerste contact en de daadwerkelijke les. Dit artikel legt drie conversie-lekken uit en hoe je ze dicht."
+seoTitle: "Proefles-aanvragen converteren"
+excerpt: "De meeste rijscholen verliezen 50 tot 70 procent van hun proefles-aanvragen tussen het eerste contact en de daadwerkelijke les."
 date: "2026-04-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/proefles-conversie-rijschool.jpg"

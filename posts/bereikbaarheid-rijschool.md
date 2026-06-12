@@ -1,5 +1,6 @@
 ---
 title: "Bereikbaarheid als rijschool: altijd beschikbaar voor potentiele leerlingen"
+seoTitle: "Bereikbaarheid als rijschool"
 excerpt: "Leerlingen kiezen de rijschool die het snelst reageert. Leer hoe je als rijschool altijd bereikbaar bent — zonder je agenda te laten exploderen."
 date: "2026-03-28"
 authorSlug: "tim-van-der-lee"

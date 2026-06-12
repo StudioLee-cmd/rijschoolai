@@ -1,5 +1,6 @@
 ---
 title: "Klantcommunicatie als rijschool: leerlingen informeren en motiveren"
+seoTitle: "Klantcommunicatie als rijschool"
 slug: "klantcommunicatie-rijschool-leerlingen"
 date: "2026-03-22"
 excerpt: "Goede communicatie maakt het verschil tussen een gemotiveerde leerling en een afhaker. Ontdek hoe je als rijschool leerlingen informeert en betrokken houdt."
