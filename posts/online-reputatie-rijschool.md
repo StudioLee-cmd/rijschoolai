@@ -65,7 +65,7 @@ Potentiele leerlingen lezen je reactie. Een kalme, professionele reactie zegt me
 
 ### Meerder kanalen monitoren
 
-Monitor niet alleen Google. Controleer ook social media-comments en berichten in lokale Facebook-groepen. [Mond-tot-mondreclame](/blog/mond-tot-mondreclame-rijschool-stimuleren-stimuleren) vindt steeds vaker online plaats.
+Monitor niet alleen Google. Controleer ook social media-comments en berichten in lokale Facebook-groepen. [Mond-tot-mondreclame](/blog/mond-tot-mondreclame-rijschool-stimuleren) vindt steeds vaker online plaats.
 
 ## Je reputatie proactief beschermen
 

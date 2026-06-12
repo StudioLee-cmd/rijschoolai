@@ -19,7 +19,7 @@ Specialisatie levert:
 - Minder concurrentie
 - Hogere [prijzen](/blog/rijlesprijzen-website-transparantie) die leerlingen bereid zijn te betalen
 - Betere match met leerlingen (minder uitval)
-- Sterkere reputatie en [mond-tot-mond](/blog/mond-tot-mondreclame-rijschool-stimuleren-stimuleren)
+- Sterkere reputatie en [mond-tot-mond](/blog/mond-tot-mondreclame-rijschool-stimuleren)
 
 ## Kansrijke specialisaties
 

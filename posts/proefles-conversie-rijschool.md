@@ -44,7 +44,7 @@ Wat wél werkt:
 - **Dag 3 na de les:** Korte follow-up als er nog geen ja is. "Nog vragen? Bel me anders even, ik leg het graag persoonlijk uit."
 - **Dag 7 na de les:** Laatste poging met eventuele actie-prikkel ("als je voor het einde van de maand inschrijft, start ik je direct in plaats van over drie weken").
 
-Deze drie WhatsApps kosten weinig tijd en voelen niet opdringerig. Ze tillen je inschrijvings-conversie van 40 procent naar 65 tot 75 procent van geschikte proeflessen. Bekijk onze [aanpak voor lead-opvolging bij rijscholen](/blog/lead-opvolging-rijschool-leerlingen-binnenhalen) voor concrete scripts.
+Deze drie WhatsApps kosten weinig tijd en voelen niet opdringerig. Ze tillen je inschrijvings-conversie van 40 procent naar 65 tot 75 procent van geschikte proeflessen. Bekijk onze aanpak voor lead-opvolging bij rijscholen voor concrete scripts.
 
 ## Wat de drie gesloten lekken samen opleveren
 
