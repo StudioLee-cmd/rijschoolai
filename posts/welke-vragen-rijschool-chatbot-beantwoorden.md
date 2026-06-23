@@ -9,8 +9,6 @@ tags: ["Chatbot", "Leadopvolging", "AI"]
 cluster: "chatbot"
 ---
 
-## Welke vragen moet een rijschool-chatbot beantwoorden?
-
 Elke avond ploppen ze op in je WhatsApp: "Wat kost een rijles bij jullie?", "Geven jullie ook les in een automaat?", "Wanneer kan ik beginnen?". Tien keer per week, vaak dezelfde tien vragen. Een chatbot op je website belooft daar een einde aan te maken. Maar een bot die jouw lesprijzen niet kent en niet weet hoe lang je wachtlijst is, is geen hulp. Dat is een duurdere contactknop.
 
 De waarde van een chatbot zit niet in de tool. Die zit in de vragen die hij goed beantwoordt. Een rijschool-chatbot verdient zijn plek pas als hij de vragen afvangt die een twijfelende leerling tegenhouden om te boeken. Beantwoordt hij die direct en correct, dan zet hij avondbezoekers om in proeflessen terwijl jij lesgeeft. Beantwoordt hij ze half, dan jaagt hij ze juist weg.
