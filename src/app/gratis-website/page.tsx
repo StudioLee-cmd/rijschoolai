@@ -3,14 +3,13 @@ import { siteDetails } from "@/data/siteDetails";
 import GratisWebsiteContent from "./GratisWebsiteContent";
 
 const niche = siteDetails.niche?.toLowerCase() || "bedrijven";
-const nicheSingular = niche.endsWith("s") ? niche.slice(0, -1) : niche;
 
 export const metadata: Metadata = {
   title: `Gratis Website Design voor ${niche} | ${siteDetails.siteName}`,
-  description: `Gratis website design voor ${niche}. Live preview binnen 48 uur, SEO-geoptimaliseerd. Website kopen vanaf €800.`,
+  description: `Kies een design, vul je gegevens in en bekijk direct een gepersonaliseerd voorbeeld van je nieuwe website voor ${niche}. 100% gratis.`,
   openGraph: {
     title: `Gratis Website Design voor ${niche} | ${siteDetails.siteName}`,
-    description: `Gratis website design op maat. Live preview binnen 48 uur. Website kopen vanaf €800 of het complete AI platform vanaf €79/maand.`,
+    description: `Kies uit 3 designs en zie direct je eigen website-voorbeeld. Website kopen vanaf €800 of het complete AI platform vanaf €79/maand.`,
     url: `${siteDetails.siteUrl}gratis-website`,
     type: "website",
     locale: "nl_NL",
