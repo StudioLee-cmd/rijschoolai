@@ -1,11 +1,13 @@
 "use client";
 import React, { useState } from "react";
 import Link from "next/link";
-import { useRouter } from "next/navigation";
 import { motion, AnimatePresence } from "framer-motion";
-import { BsGlobe, BsPerson, BsEnvelope, BsTelephone, BsGeoAlt, BsArrowRight, BsArrowLeft, BsEye } from "react-icons/bs";
+import {
+  BsArrowRight, BsArrowLeft, BsCheck2, BsBoxArrowUpRight, BsStars,
+  BsChatDots, BsTelephone, BsGraphUpArrow, BsWindowDesktop,
+} from "react-icons/bs";
 import { siteDetails } from "@/data/siteDetails";
-import { LOOKS, DIENSTEN, type LookId } from "./lookConfig";
+import { type FunnelLook, type Prospect, previewUrl } from "./funnelLooks";
 
 const niche = siteDetails.niche || "Bedrijven";
 const nicheLower = niche.toLowerCase();
@@ -13,508 +15,381 @@ const nicheSingular = nicheLower.endsWith("s") ? nicheLower.slice(0, -1) : niche
 
 const WEBHOOK_URL = "https://n8n.aireclamestudio.nl/webhook/freewebsite";
 
-// Mini-mockup per look: puur CSS, geen assets, zodat de keuzekaarten altijd renderen.
-function LookMini({ look }: { look: LookId }) {
-  if (look === "premium") {
-    return (
-      <div className="w-full aspect-[4/3] rounded-xl overflow-hidden bg-[#0B0E13] p-4 flex flex-col justify-between relative">
-        <div className="absolute -top-8 -right-8 w-32 h-32 rounded-full bg-[#FFD84D]/20 blur-2xl" />
-        <div className="flex items-center justify-between">
-          <div className="text-[#FFD84D] text-[10px] font-bold tracking-[0.2em] uppercase">Jouw Rijschool</div>
-          <div className="flex gap-1.5">
-            <span className="w-1.5 h-1.5 rounded-full bg-white/30" />
-            <span className="w-1.5 h-1.5 rounded-full bg-white/30" />
-            <span className="w-1.5 h-1.5 rounded-full bg-white/30" />
-          </div>
-        </div>
-        <div>
-          <div className="text-white font-bold text-lg leading-tight mb-2">Haal je rijbewijs<br />met vertrouwen.</div>
-          <div className="inline-block bg-[#FFD84D] text-black text-[10px] font-bold px-3 py-1.5 rounded-full">Plan een proefles</div>
-        </div>
-        <div className="flex gap-2">
-          <div className="h-8 flex-1 rounded-md bg-white/5 border border-white/10" />
-          <div className="h-8 flex-1 rounded-md bg-white/5 border border-white/10" />
-          <div className="h-8 flex-1 rounded-md bg-white/5 border border-white/10" />
-        </div>
-      </div>
-    );
-  }
-  if (look === "warm") {
-    return (
-      <div className="w-full aspect-[4/3] rounded-xl overflow-hidden bg-[#FAF5EC] p-4 flex flex-col justify-between">
-        <div className="flex items-center justify-between">
-          <div className="text-[#2A2419] text-[10px] font-bold" style={{ fontFamily: "Georgia, serif" }}>Jouw Rijschool</div>
-          <div className="flex gap-2 text-[8px] text-[#6B6154]">
-            <span>Lessen</span><span>Tarieven</span><span>Contact</span>
-          </div>
-        </div>
-        <div>
-          <div className="text-[#2A2419] font-bold text-lg leading-tight mb-2" style={{ fontFamily: "Georgia, serif" }}>Rijles die bij<br />jou past.</div>
-          <div className="inline-block bg-[#C0563A] text-white text-[10px] font-bold px-3 py-1.5 rounded-full">Gratis proefles</div>
-        </div>
-        <div className="flex gap-2">
-          <div className="h-8 flex-1 rounded-lg bg-white border border-[#E8DFD0]" />
-          <div className="h-8 flex-1 rounded-lg bg-[#40604C]/10 border border-[#E8DFD0]" />
-          <div className="h-8 flex-1 rounded-lg bg-white border border-[#E8DFD0]" />
-        </div>
-      </div>
-    );
-  }
-  return (
-    <div className="w-full aspect-[4/3] rounded-xl overflow-hidden bg-white border border-black/10 p-4 flex flex-col justify-between">
-      <div className="flex items-center justify-between border-b border-black pb-2">
-        <div className="text-black text-[10px] font-black tracking-tight uppercase">Jouw Rijschool</div>
-        <div className="text-[#E8402A] text-[10px] font-black">MENU</div>
-      </div>
-      <div>
-        <div className="text-black font-black text-xl leading-none uppercase tracking-tight mb-2">Rijbewijs.<br /><span className="text-[#E8402A]">Geregeld.</span></div>
-        <div className="inline-block border-2 border-black text-black text-[10px] font-black px-3 py-1 uppercase">Proefles →</div>
-      </div>
-      <div className="grid grid-cols-3 gap-px bg-black/20">
-        <div className="h-8 bg-white" />
-        <div className="h-8 bg-white" />
-        <div className="h-8 bg-white" />
-      </div>
-    </div>
-  );
-}
+// De prijsladder — SSOT: alpha1/data/platform/prices.json (self/managed/websiteBuyout).
+// Wijzigen doe je dáár; deze regel volgt bij de copy-rollout mee.
+const PRIJS = { start: 79, alles: 279, afkoop: 800 };
 
-export default function GratisWebsiteContent() {
-  const router = useRouter();
+/* ─────────────────────────────────────────────────────────────────────────────
+   DE VIER DINGEN — het propositie-contract (niche-sites-upgrade-programma.md
+   §PROPOSITIE-CONTRACT ①). Precies vier, nooit een vijfde, nooit een tool-naam.
+   ───────────────────────────────────────────────────────────────────────────── */
+const VIER = [
+  { icon: BsChatDots, titel: "Een chatbot op je site", tekst: "Vangt de bezoeker op die liever typt dan belt — ook om 23:00." },
+  { icon: BsTelephone, titel: "Een telefoon die opneemt", tekst: `Neemt op als jij aan het werk bent, en plant de afspraak meteen in.` },
+  { icon: BsGraphUpArrow, titel: "Marketing die doorloopt", tekst: "Je wordt gevonden, je klanten horen van je en je krijgt betaald — zonder dat jij eraan denkt." },
+  { icon: BsWindowDesktop, titel: "Een site die zichzelf bijhoudt", tekst: "Nieuwe teksten en beelden komen er vanzelf bij. Over een jaar staat 'ie er nóg goed bij." },
+];
+
+export default function GratisWebsiteContent({ looks }: { looks: FunnelLook[] }) {
   const [step, setStep] = useState<1 | 2>(1);
-  const [look, setLook] = useState<LookId | null>(null);
-  const [services, setServices] = useState<string[]>(["auto", "theorie"]);
-  const [formData, setFormData] = useState({
-    clientName: "", city: "", website: "", domainWish: "", contactName: "", email: "", phone: "",
-  });
-  const [isSubmitting, setIsSubmitting] = useState(false);
+  const [look, setLook] = useState<FunnelLook | null>(null);
+  const [form, setForm] = useState({ bedrijf: "", plaats: "", contact: "", email: "", telefoon: "", domein: "" });
+  const [busy, setBusy] = useState(false);
   const [error, setError] = useState("");
-  const [fallbackUrl, setFallbackUrl] = useState("");
+  const [klaar, setKlaar] = useState<string>("");
 
-  const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
-    setFormData({ ...formData, [e.target.name]: e.target.value });
-  };
+  const change = (e: React.ChangeEvent<HTMLInputElement>) =>
+    setForm({ ...form, [e.target.name]: e.target.value });
 
-  const toggleService = (id: string) => {
-    setServices((prev) => prev.includes(id) ? prev.filter((s) => s !== id) : [...prev, id]);
-  };
-
-  const chooseLook = (id: LookId) => {
-    setLook(id);
+  const kies = (l: FunnelLook) => {
+    setLook(l);
     setStep(2);
-    setTimeout(() => document.getElementById("gratis-website-wizard")?.scrollIntoView({ behavior: "smooth", block: "start" }), 50);
+    setTimeout(() => document.getElementById("wizard")?.scrollIntoView({ behavior: "smooth", block: "start" }), 50);
   };
 
-  const buildPreviewPath = () => {
-    const params = new URLSearchParams({
-      look: look || "premium",
-      bedrijf: formData.clientName,
-      plaats: formData.city,
-      diensten: services.join(","),
-      domein: formData.domainWish,
-      naam: formData.contactName,
-    });
-    return `/gratis-website/voorbeeld?${params.toString()}`;
-  };
-
-  const handleSubmit = async (e: React.FormEvent) => {
+  const submit = async (e: React.FormEvent) => {
     e.preventDefault();
     setError("");
-    if (!formData.clientName || !formData.city || !formData.contactName || !formData.email) {
-      setError("Vul alle verplichte velden in.");
+    if (!look) return;
+    if (!form.bedrijf || !form.plaats || !form.contact || !form.email) {
+      setError("Vul je bedrijfsnaam, plaats, naam en e-mailadres in — dan kan ik je voorbeeld maken.");
       return;
     }
-    setIsSubmitting(true);
-    const previewPath = buildPreviewPath();
-    const previewUrl = `${window.location.origin}${previewPath}`;
+    setBusy(true);
+
+    const prospect: Prospect = {
+      naam: form.bedrijf,
+      plaats: form.plaats,
+      telefoon: form.telefoon || undefined,
+      domein: form.domein || undefined,
+      email: form.email,
+      b: siteDetails.siteUrl.replace(/\/$/, ""),
+    };
+    const url = previewUrl(look, prospect);
+
     try {
-      const payload = {
-        clientName: formData.clientName,
-        domain: formData.website || formData.domainWish || "",
-        contactName: formData.contactName,
-        email: formData.email,
-        phone: formData.phone,
-        city: formData.city,
-        niche,
-        look,
-        services: services.map((id) => DIENSTEN.find((d) => d.id === id)?.label || id),
-        domainWish: formData.domainWish,
-        previewUrl,
-      };
-      const res = await fetch(WEBHOOK_URL, {
-        method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(payload),
+      await fetch(WEBHOOK_URL, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          clientName: form.bedrijf,
+          contactName: form.contact,
+          email: form.email,
+          phone: form.telefoon,
+          city: form.plaats,
+          domain: form.domein,
+          niche,
+          look: look.slug,
+          lookLabel: look.label,
+          previewUrl: url,
+          bron: `${siteDetails.siteName} /gratis-website`,
+        }),
       });
-      if (!res.ok) throw new Error("Verzenden mislukt");
-      router.push(previewPath);
     } catch {
-      setError("Er ging iets mis met verzenden. Mail tim@studiolee.nl en ik help je direct.");
-      setFallbackUrl(previewPath);
-      setIsSubmitting(false);
+      /* de aanvraag mag nooit tussen de bezoeker en z'n voorbeeld staan — we sturen 'm door
+         en houden het adres hieronder zichtbaar als er iets misging met verzenden */
     }
+    setKlaar(url);
+    window.location.href = url;
   };
 
-  const faqs = [
-    { q: "Is het echt gratis?", a: "Ja, 100% gratis. Je kiest een design, vult je gegevens in en ziet direct een voorbeeld van je nieuwe website met je eigen bedrijfsnaam. Geen kosten, geen verplichtingen." },
-    { q: "Kan ik het bestand krijgen?", a: "Ja. De website bestanden zijn van jou. Vraag het aan en we sturen ze door." },
-    { q: "Wat kost het als ik de website wil kopen?", a: "De website kost €800 eenmalig plus €200 per jaar voor hosting, onderhoud en blogs. Geen abonnement nodig voor alleen de website." },
-    { q: "Wat is het 25-in-1 AI platform?", a: `Voor €79/maand krijg je naast de website ook een AI chatbot, Voice AI telefonist, SEO automatisering, review management, social media planner en meer. Alles wat je nodig hebt om je ${nicheSingular}sbedrijf te laten groeien. Maandelijks opzegbaar.` },
-    { q: "Hoe snel is het klaar?", a: "Je online voorbeeld staat er direct, met je eigen naam en plaats in het design dat jij kiest. Wil je de website echt live? Dan bouwen we hem volledig af en ontvang je binnen 48 uur je eigen preview-link." },
-    { q: "Moet ik al een website hebben?", a: "Nee, ook zonder bestaande website zie je direct je voorbeeld. We vragen alleen je bedrijfsnaam en wat informatie over je diensten." },
-  ];
+  const geenLooks = looks.length === 0;
 
   return (
     <main className="pt-24 md:pt-32">
-      {/* Intro */}
-      <section className="pt-12 md:pt-16 px-4">
+      {/* ── HERO ─────────────────────────────────────────────────────────── */}
+      <section className="pt-10 md:pt-14 px-4">
         <div className="max-w-3xl mx-auto text-center">
           <motion.span
-            initial={{ opacity: 0, y: 10 }}
-            animate={{ opacity: 1, y: 0 }}
-            className="inline-block bg-green-500/10 text-green-500 text-sm font-bold px-4 py-1.5 rounded-full mb-4"
+            initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }}
+            className="inline-flex items-center gap-2 bg-primary/15 text-primary text-sm font-bold px-4 py-1.5 rounded-full mb-5"
           >
-            100% Gratis — Geen Verplichtingen
+            <BsStars /> Het ontwerp is gratis — het bestand is van jou
           </motion.span>
           <motion.h1
-            initial={{ opacity: 0, y: 20 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ delay: 0.1 }}
-            className="text-3xl md:text-4xl lg:text-5xl font-bold mb-4 !leading-tight"
+            initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.1 }}
+            className="text-3xl md:text-4xl lg:text-5xl font-bold mb-5 !leading-tight"
           >
-            Gratis Website voor {niche}: kies, vul in, bekijk direct
+            Kies het ontwerp voor jouw {nicheSingular}. Met jouw naam erin.
           </motion.h1>
           <motion.p
-            initial={{ opacity: 0, y: 20 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ delay: 0.2 }}
+            initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.2 }}
             className="text-lg text-foreground-accent"
           >
-            Kies een design, vul je bedrijfsgegevens in en zie meteen een gepersonaliseerd
-            voorbeeld van je nieuwe website. Met jouw naam, jouw plaats en jouw diensten.
+            Geen schets en geen offerte: je kiest een van onze echte websites, vult je bedrijfsnaam
+            en plaats in, en ziet 'm meteen als de jouwe. Het ontwerpbestand krijg je gratis mee.
           </motion.p>
         </div>
       </section>
 
-      {/* Wizard */}
-      <section id="gratis-website-wizard" className="py-12 md:py-16 px-4 scroll-mt-28">
-        <div className="max-w-5xl mx-auto">
-          {/* Step indicator */}
-          <div className="flex items-center justify-center gap-3 mb-10">
-            {[{ n: 1, t: "Kies je design" }, { n: 2, t: "Vul je gegevens in" }, { n: 3, t: "Bekijk je voorbeeld" }].map((s, i) => (
+      {/* ── WIZARD ───────────────────────────────────────────────────────── */}
+      <section id="wizard" className="py-10 md:py-14 px-4 scroll-mt-28">
+        <div className="max-w-6xl mx-auto">
+          {/* stappen */}
+          <div className="flex items-center justify-center gap-3 md:gap-5 mb-10 text-sm">
+            {[
+              { n: 1, t: "Kies je ontwerp" },
+              { n: 2, t: "Vul je gegevens in" },
+              { n: 3, t: "Bekijk je voorbeeld" },
+            ].map((s, i) => (
               <React.Fragment key={s.n}>
-                {i > 0 && <div className={`h-px w-8 md:w-16 ${step >= s.n ? "bg-primary" : "bg-[var(--card-border)]"}`} />}
-                <div className="flex items-center gap-2">
-                  <span className={`w-8 h-8 rounded-full flex items-center justify-center text-sm font-bold ${step >= s.n ? "bg-primary text-black" : "bg-[var(--card-background)] border border-[var(--card-border)] text-foreground-accent"}`}>
-                    {s.n}
+                <div className={`flex items-center gap-2 ${step >= s.n ? "text-foreground" : "text-foreground-accent/60"}`}>
+                  <span className={`w-7 h-7 rounded-full grid place-items-center text-xs font-bold border ${
+                    step > s.n ? "bg-primary border-primary text-black"
+                    : step === s.n ? "border-primary text-primary" : "border-foreground-accent/30"}`}>
+                    {step > s.n ? <BsCheck2 /> : s.n}
                   </span>
-                  <span className={`hidden md:inline text-sm font-semibold ${step >= s.n ? "text-foreground" : "text-foreground-accent"}`}>{s.t}</span>
+                  <span className="hidden sm:inline font-medium">{s.t}</span>
                 </div>
+                {i < 2 && <span className="w-6 md:w-12 h-px bg-foreground-accent/25" />}
               </React.Fragment>
             ))}
           </div>
 
           <AnimatePresence mode="wait">
-            {step === 1 ? (
-              <motion.div
-                key="step1"
-                initial={{ opacity: 0, y: 20 }}
-                animate={{ opacity: 1, y: 0 }}
-                exit={{ opacity: 0, y: -20 }}
-              >
-                <h2 className="text-xl md:text-2xl font-bold text-center mb-2">Welk design past bij jouw rijschool?</h2>
-                <p className="text-foreground-accent text-center mb-8">Klik op een stijl. In de volgende stap maken we hem persoonlijk.</p>
-                <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-                  {LOOKS.map((l) => (
-                    <button
-                      key={l.id}
-                      type="button"
-                      onClick={() => chooseLook(l.id)}
-                      className="text-left group bg-[var(--card-background)] border border-[var(--card-border)] rounded-2xl p-4 hover:border-primary hover:shadow-xl transition-all"
-                    >
-                      <LookMini look={l.id} />
-                      <div className="flex items-center justify-between mt-4 mb-1">
-                        <h3 className="text-lg font-bold group-hover:text-primary transition-colors">{l.naam}</h3>
-                        <BsArrowRight className="text-primary opacity-0 group-hover:opacity-100 transition-opacity" />
-                      </div>
-                      <p className="text-sm text-foreground-accent">{l.tagline}</p>
-                    </button>
-                  ))}
+            {step === 1 && (
+              <motion.div key="s1" initial={{ opacity: 0, y: 12 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -12 }}>
+                <div className="text-center mb-8">
+                  <h2 className="text-2xl md:text-3xl font-bold mb-2">
+                    {geenLooks ? `Ontwerpen voor ${nicheLower}` : `Welk ontwerp past bij jouw ${nicheSingular}?`}
+                  </h2>
+                  <p className="text-foreground-accent">
+                    {geenLooks
+                      ? "De ontwerpen voor deze branche staan klaar bij ons — vraag ze even op, dan stuur ik ze je door."
+                      : "Dit zijn echte websites, geen schetsen. Klik erop om 'm helemaal te bekijken."}
+                  </p>
                 </div>
-                <p className="text-center text-sm text-foreground-accent mt-6">
-                  Twijfel je? Je kunt in het voorbeeld altijd nog wisselen van design.
-                </p>
-              </motion.div>
-            ) : (
-              <motion.div
-                key="step2"
-                initial={{ opacity: 0, y: 20 }}
-                animate={{ opacity: 1, y: 0 }}
-                exit={{ opacity: 0, y: -20 }}
-                className="max-w-2xl mx-auto"
-              >
-                <button
-                  type="button"
-                  onClick={() => setStep(1)}
-                  className="inline-flex items-center gap-2 text-sm text-foreground-accent hover:text-primary transition-colors mb-4"
-                >
-                  <BsArrowLeft /> Ander design kiezen
-                </button>
-                <div className="bg-[var(--card-background)] border border-[var(--card-border)] rounded-2xl p-6 md:p-8 shadow-xl">
-                  <div className="flex items-center justify-between mb-1">
-                    <h2 className="text-xl font-bold">Maak je voorbeeld persoonlijk</h2>
-                    <span className="text-xs font-bold bg-primary/15 text-foreground px-3 py-1 rounded-full">
-                      Design: {LOOKS.find((l) => l.id === look)?.naam}
-                    </span>
-                  </div>
-                  <p className="text-sm text-foreground-accent mb-6">Duurt minder dan een minuut. Daarna zie je direct je voorbeeld.</p>
 
-                  <form onSubmit={handleSubmit} className="space-y-4">
-                    {error && (
-                      <div className="bg-red-500/10 text-red-500 text-sm p-3 rounded-lg">
-                        {error}
-                        {fallbackUrl && (
-                          <Link href={fallbackUrl} className="block mt-2 font-semibold underline">
-                            Bekijk alvast je voorbeeld →
-                          </Link>
-                        )}
-                      </div>
-                    )}
-
-                    <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-                      <div>
-                        <label className="block text-sm font-medium mb-1.5">Bedrijfsnaam <span className="text-red-500">*</span></label>
-                        <div className="relative">
-                          <BsPerson className="absolute left-3 top-1/2 -translate-y-1/2 text-foreground-accent" />
-                          <input name="clientName" value={formData.clientName} onChange={handleChange} placeholder="Bijv. Rijschool Jansen" className="w-full pl-10 pr-4 py-3 rounded-xl bg-background border border-[var(--card-border)] focus:border-primary focus:outline-none transition-colors" required />
-                        </div>
-                      </div>
-                      <div>
-                        <label className="block text-sm font-medium mb-1.5">Plaats <span className="text-red-500">*</span></label>
-                        <div className="relative">
-                          <BsGeoAlt className="absolute left-3 top-1/2 -translate-y-1/2 text-foreground-accent" />
-                          <input name="city" value={formData.city} onChange={handleChange} placeholder="Bijv. Utrecht" className="w-full pl-10 pr-4 py-3 rounded-xl bg-background border border-[var(--card-border)] focus:border-primary focus:outline-none transition-colors" required />
-                        </div>
-                      </div>
-                    </div>
-
-                    <div>
-                      <label className="block text-sm font-medium mb-1.5">Welke lessen geef je?</label>
-                      <div className="flex flex-wrap gap-2">
-                        {DIENSTEN.map((d) => (
-                          <button
-                            key={d.id}
-                            type="button"
-                            onClick={() => toggleService(d.id)}
-                            className={`px-3 py-2 rounded-full text-sm font-semibold border transition-all ${services.includes(d.id) ? "bg-primary text-black border-primary" : "bg-background text-foreground-accent border-[var(--card-border)] hover:border-primary"}`}
-                          >
-                            {d.label}
-                          </button>
-                        ))}
-                      </div>
-                    </div>
-
-                    <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-                      <div>
-                        <label className="block text-sm font-medium mb-1.5">Huidige website <span className="text-foreground-accent">(optioneel)</span></label>
-                        <div className="relative">
-                          <BsGlobe className="absolute left-3 top-1/2 -translate-y-1/2 text-foreground-accent" />
-                          <input name="website" value={formData.website} onChange={handleChange} placeholder="https://jouwwebsite.nl" type="url" className="w-full pl-10 pr-4 py-3 rounded-xl bg-background border border-[var(--card-border)] focus:border-primary focus:outline-none transition-colors" />
-                        </div>
-                      </div>
-                      <div>
-                        <label className="block text-sm font-medium mb-1.5">Domein-wens <span className="text-foreground-accent">(optioneel)</span></label>
-                        <div className="relative">
-                          <BsGlobe className="absolute left-3 top-1/2 -translate-y-1/2 text-foreground-accent" />
-                          <input name="domainWish" value={formData.domainWish} onChange={handleChange} placeholder="bijv. rijschooljansen.nl" className="w-full pl-10 pr-4 py-3 rounded-xl bg-background border border-[var(--card-border)] focus:border-primary focus:outline-none transition-colors" />
-                        </div>
-                      </div>
-                    </div>
-
-                    <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-                      <div>
-                        <label className="block text-sm font-medium mb-1.5">Jouw naam <span className="text-red-500">*</span></label>
-                        <input name="contactName" value={formData.contactName} onChange={handleChange} placeholder="Voornaam Achternaam" className="w-full px-4 py-3 rounded-xl bg-background border border-[var(--card-border)] focus:border-primary focus:outline-none transition-colors" required />
-                      </div>
-                      <div>
-                        <label className="block text-sm font-medium mb-1.5">E-mail <span className="text-red-500">*</span></label>
-                        <div className="relative">
-                          <BsEnvelope className="absolute left-3 top-1/2 -translate-y-1/2 text-foreground-accent" />
-                          <input name="email" value={formData.email} onChange={handleChange} placeholder="jouw@email.nl" type="email" className="w-full pl-10 pr-4 py-3 rounded-xl bg-background border border-[var(--card-border)] focus:border-primary focus:outline-none transition-colors" required />
-                        </div>
-                      </div>
-                    </div>
-
-                    <div>
-                      <label className="block text-sm font-medium mb-1.5">Telefoon <span className="text-foreground-accent">(optioneel)</span></label>
-                      <div className="relative">
-                        <BsTelephone className="absolute left-3 top-1/2 -translate-y-1/2 text-foreground-accent" />
-                        <input name="phone" value={formData.phone} onChange={handleChange} placeholder="06 12345678" type="tel" className="w-full pl-10 pr-4 py-3 rounded-xl bg-background border border-[var(--card-border)] focus:border-primary focus:outline-none transition-colors" />
-                      </div>
-                    </div>
-
-                    <button
-                      type="submit"
-                      disabled={isSubmitting}
-                      className="w-full bg-primary text-black py-3.5 rounded-xl font-bold hover:bg-primary-accent transition-all disabled:opacity-50 disabled:cursor-not-allowed inline-flex items-center justify-center gap-2"
-                    >
-                      <BsEye />
-                      {isSubmitting ? "Voorbeeld wordt gemaakt..." : "Bekijk direct mijn voorbeeld"}
-                    </button>
-
-                    <p className="text-xs text-foreground-accent text-center">
-                      100% gratis · Geen verplichtingen · Je voorbeeld staat er direct
+                {geenLooks ? (
+                  <div className="max-w-xl mx-auto text-center bg-white/5 border border-foreground-accent/15 rounded-2xl p-8">
+                    <p className="text-foreground-accent mb-5">
+                      Mail me je bedrijfsnaam en plaats, dan stuur ik je binnen een dag een voorbeeld op jouw naam.
                     </p>
-                  </form>
+                    <a href="mailto:tim@studiolee.nl" className="inline-flex items-center gap-2 bg-primary text-black font-bold px-6 py-3 rounded-full">
+                      Vraag je voorbeeld aan <BsArrowRight />
+                    </a>
+                  </div>
+                ) : (
+                  <div className={`grid gap-6 ${looks.length === 1 ? "max-w-2xl mx-auto" : "md:grid-cols-2 xl:grid-cols-3"}`}>
+                    {looks.map((l, i) => (
+                      <motion.div
+                        key={l.slug}
+                        initial={{ opacity: 0, y: 16 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.05 * i }}
+                        className="group rounded-2xl overflow-hidden bg-white/5 border border-foreground-accent/15 hover:border-primary/60 transition-colors flex flex-col"
+                      >
+                        <button onClick={() => kies(l)} className="relative block w-full text-left" aria-label={`Kies ontwerp ${l.label}`}>
+                          <span className="block relative aspect-[16/10] overflow-hidden bg-black/20">
+                            {/* eslint-disable-next-line @next/next/no-img-element */}
+                            <img
+                              src={l.thumb} alt={`Voorbeeld van het ontwerp ${l.label}`} loading="lazy"
+                              className="absolute inset-0 w-full h-full object-cover object-top group-hover:scale-[1.03] transition-transform duration-500"
+                            />
+                          </span>
+                          {l.tier === "showcase" && (
+                            <span className="absolute top-3 left-3 bg-black/70 text-white text-[11px] font-bold px-2.5 py-1 rounded-full backdrop-blur">
+                              Onze showcase
+                            </span>
+                          )}
+                        </button>
+                        <div className="p-5 flex flex-col gap-3 flex-1">
+                          <div>
+                            <h3 className="text-lg font-bold">{l.label}</h3>
+                            <p className="text-sm text-foreground-accent mt-1">{l.tagline}</p>
+                          </div>
+                          <div className="mt-auto flex items-center gap-3 pt-1">
+                            <button onClick={() => kies(l)} className="flex-1 bg-primary text-black font-bold text-sm px-4 py-2.5 rounded-full inline-flex items-center justify-center gap-2">
+                              Dit wil ik <BsArrowRight />
+                            </button>
+                            <a href={l.url} target="_blank" rel="noopener noreferrer"
+                               className="text-sm font-semibold text-foreground-accent hover:text-primary inline-flex items-center gap-1.5">
+                              Bekijken <BsBoxArrowUpRight className="text-xs" />
+                            </a>
+                          </div>
+                        </div>
+                      </motion.div>
+                    ))}
+                  </div>
+                )}
+              </motion.div>
+            )}
+
+            {step === 2 && look && (
+              <motion.div key="s2" initial={{ opacity: 0, y: 12 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -12 }}
+                className="grid lg:grid-cols-[1fr_1.1fr] gap-8 items-start max-w-5xl mx-auto">
+                {/* gekozen ontwerp */}
+                <div className="rounded-2xl overflow-hidden border border-foreground-accent/15 bg-white/5">
+                  <div className="relative aspect-[16/10] bg-black/20 overflow-hidden">
+                    {/* eslint-disable-next-line @next/next/no-img-element */}
+                    <img src={look.thumb} alt={`Gekozen ontwerp: ${look.label}`} loading="lazy"
+                         className="absolute inset-0 w-full h-full object-cover object-top" />
+                  </div>
+                  <div className="p-5 flex items-center justify-between gap-3">
+                    <div>
+                      <p className="text-xs uppercase tracking-wider text-foreground-accent">Jouw keuze</p>
+                      <p className="font-bold">{look.label}</p>
+                    </div>
+                    <button onClick={() => setStep(1)} className="text-sm font-semibold text-foreground-accent hover:text-primary inline-flex items-center gap-1.5">
+                      <BsArrowLeft /> Ander ontwerp
+                    </button>
+                  </div>
                 </div>
+
+                {/* formulier */}
+                <form onSubmit={submit} className="rounded-2xl border border-foreground-accent/15 bg-white/5 p-6 md:p-7">
+                  <h2 className="text-xl md:text-2xl font-bold mb-1">Zo komt jouw naam erin</h2>
+                  <p className="text-sm text-foreground-accent mb-5">Duurt een halve minuut. Daarna zie je 'm meteen.</p>
+
+                  <div className="grid sm:grid-cols-2 gap-3">
+                    {[
+                      { n: "bedrijf", l: `Naam van je ${nicheSingular}`, p: "Bijv. Van Dijk & Zn", req: true },
+                      { n: "plaats", l: "Plaats", p: "Bijv. Zwolle", req: true },
+                      { n: "contact", l: "Jouw naam", p: "Bijv. Sanne", req: true },
+                      { n: "email", l: "E-mailadres", p: "jij@bedrijf.nl", req: true, type: "email" },
+                      { n: "telefoon", l: "Telefoonnummer", p: "Optioneel" },
+                      { n: "domein", l: "Gewenste domeinnaam", p: "Optioneel" },
+                    ].map((f) => (
+                      <label key={f.n} className={`block text-sm ${f.n === "bedrijf" ? "sm:col-span-2" : ""}`}>
+                        <span className="font-medium">{f.l}{f.req && <span className="text-primary"> *</span>}</span>
+                        <input
+                          name={f.n} type={f.type || "text"} placeholder={f.p} required={f.req}
+                          value={(form as Record<string, string>)[f.n]} onChange={change}
+                          className="mt-1.5 w-full rounded-xl border border-foreground-accent/25 bg-background px-4 py-2.5 outline-none focus:border-primary"
+                        />
+                      </label>
+                    ))}
+                  </div>
+
+                  {error && <p className="mt-4 text-sm text-red-500">{error}</p>}
+
+                  <button type="submit" disabled={busy}
+                    className="mt-6 w-full bg-primary text-black font-bold px-6 py-3.5 rounded-full inline-flex items-center justify-center gap-2 disabled:opacity-60">
+                    {busy ? "Je voorbeeld wordt klaargezet…" : <>Laat mijn voorbeeld zien <BsArrowRight /></>}
+                  </button>
+
+                  {klaar && (
+                    <p className="mt-3 text-sm text-foreground-accent">
+                      Opent niet vanzelf? <a className="text-primary font-semibold underline" href={klaar}>Klik hier voor je voorbeeld</a>.
+                    </p>
+                  )}
+                  <p className="mt-3 text-xs text-foreground-accent">
+                    Je gegevens gaan alleen naar mij, zodat ik je het ontwerpbestand kan sturen. Geen verplichtingen.
+                  </p>
+                </form>
               </motion.div>
             )}
           </AnimatePresence>
         </div>
       </section>
 
-      {/* How it works */}
-      <section className="py-16 px-4 bg-[var(--card-background)]">
-        <div className="max-w-4xl mx-auto">
-          <h2 className="text-2xl md:text-3xl font-bold text-center mb-10">Hoe het werkt</h2>
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-            {[
-              { step: "1", title: "Kies je design", desc: "Drie stijlen, speciaal gemaakt voor rijscholen. Premium, Warm of Editorial." },
-              { step: "2", title: "Vul je gegevens in", desc: "Bedrijfsnaam, plaats en je diensten. Duurt minder dan een minuut." },
-              { step: "3", title: "Bekijk direct je voorbeeld", desc: "Je ziet meteen je eigen website in het gekozen design. Bevalt het? Dan bouwen we hem volledig af, binnen 48 uur op je eigen preview-link." },
-            ].map((s) => (
-              <div key={s.step} className="text-center">
-                <div className="w-12 h-12 rounded-full bg-primary text-black font-bold text-xl flex items-center justify-center mx-auto mb-4">
-                  {s.step}
+      {/* ── GRATIS ↔ BETAALD — de lijn ───────────────────────────────────── */}
+      <section className="py-14 md:py-20 px-4 bg-hero-background">
+        <div className="max-w-5xl mx-auto">
+          <div className="text-center mb-10">
+            <h2 className="text-2xl md:text-3xl font-bold mb-3">Wat je gratis krijgt, en wat niet</h2>
+            <p className="text-foreground-accent max-w-2xl mx-auto">
+              Eerlijk verhaal, want daar heb je meer aan dan aan kleine lettertjes.
+            </p>
+          </div>
+          <div className="grid md:grid-cols-2 gap-6">
+            <div className="rounded-2xl border border-primary/40 bg-primary/5 p-7">
+              <p className="text-sm font-bold uppercase tracking-wider text-primary mb-3">Gratis</p>
+              <h3 className="text-xl font-bold mb-3">Het ontwerp. En het bestand.</h3>
+              <p className="text-foreground-accent mb-4">
+                Je kiest een van onze websites, ziet 'm op je eigen naam, en het ontwerpbestand is van jou.
+                Geen bedenktijd, geen voorwaarden, geen proefperiode die stiekem doorloopt.
+              </p>
+              <ul className="space-y-2 text-sm">
+                {["Het complete ontwerp", "Je eigen naam en plaats erin", "Het bestand, om te houden"].map((t) => (
+                  <li key={t} className="flex items-start gap-2"><BsCheck2 className="text-primary mt-1 flex-none" /> {t}</li>
+                ))}
+              </ul>
+            </div>
+            <div className="rounded-2xl border border-foreground-accent/20 bg-white/5 p-7">
+              <p className="text-sm font-bold uppercase tracking-wider text-foreground-accent mb-3">Het abonnement</p>
+              <h3 className="text-xl font-bold mb-3">Het draaiend krijgen. En houden.</h3>
+              <p className="text-foreground-accent mb-4">
+                Een website die stilstaat levert niets op. Live zetten, gevonden worden, teksten die blijven
+                komen, iemand die opneemt — dát is het werk, en dat zit in het abonnement.
+              </p>
+              <ul className="space-y-2 text-sm">
+                {[
+                  `Vanaf €${PRIJS.start} per maand: live gezet en draaiend`,
+                  `€${PRIJS.alles} per maand: alles uit handen, ook de teksten en de vindbaarheid`,
+                  "Samen goedkoper dan de losse dingen apart",
+                ].map((t) => (
+                  <li key={t} className="flex items-start gap-2"><BsCheck2 className="text-foreground-accent mt-1 flex-none" /> {t}</li>
+                ))}
+              </ul>
+              <Link href="/tarieven" className="mt-5 inline-flex items-center gap-2 font-semibold text-primary">
+                Bekijk wat erin zit <BsArrowRight />
+              </Link>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* ── DE VIER DINGEN ───────────────────────────────────────────────── */}
+      <section className="py-14 md:py-20 px-4">
+        <div className="max-w-5xl mx-auto">
+          <div className="text-center mb-10">
+            <h2 className="text-2xl md:text-3xl font-bold mb-3">Wat er daarna voor je werkt</h2>
+            <p className="text-foreground-accent max-w-2xl mx-auto">
+              Vier dingen, en niet meer dan dat. Ze doen samen het werk waar jij geen tijd voor hebt.
+            </p>
+          </div>
+          <div className="grid sm:grid-cols-2 gap-5">
+            {VIER.map((v) => (
+              <div key={v.titel} className="rounded-2xl border border-foreground-accent/15 bg-white/5 p-6 flex gap-4">
+                <span className="w-11 h-11 flex-none rounded-xl bg-primary/15 text-primary grid place-items-center text-xl">
+                  <v.icon />
+                </span>
+                <div>
+                  <h3 className="font-bold mb-1">{v.titel}</h3>
+                  <p className="text-sm text-foreground-accent">{v.tekst}</p>
                 </div>
-                <h3 className="text-lg font-bold mb-2">{s.title}</h3>
-                <p className="text-foreground-accent text-sm">{s.desc}</p>
               </div>
             ))}
           </div>
-
-          {/* Pricing after */}
-          <div className="max-w-xl mx-auto mt-12 bg-background border border-[var(--card-border)] rounded-xl p-5">
-            <p className="font-semibold mb-3">En daarna? Jij kiest:</p>
-            <div className="space-y-2 text-sm text-foreground-accent">
-              <div className="flex justify-between">
-                <span>Website kopen (eenmalig)</span>
-                <span className="font-semibold text-foreground">€800</span>
-              </div>
-              <div className="flex justify-between">
-                <span>Hosting + onderhoud + blogs</span>
-                <span className="font-semibold text-foreground">€200/jaar</span>
-              </div>
-              <div className="flex justify-between border-t border-[var(--card-border)] pt-2 mt-2">
-                <span>Of: compleet AI platform (25-in-1)</span>
-                <span className="font-semibold text-primary">€79/mnd</span>
-              </div>
-            </div>
-            <a href="/tarieven" className="inline-flex items-center gap-1 text-primary text-sm font-semibold mt-3 hover:underline">
-              Bekijk alle tarieven <BsArrowRight />
-            </a>
-          </div>
         </div>
       </section>
 
-      {/* Why free section - SEO content */}
-      <section className="py-16 px-4">
+      {/* ── FAQ ──────────────────────────────────────────────────────────── */}
+      <section className="py-14 md:py-20 px-4 bg-hero-background">
         <div className="max-w-3xl mx-auto">
-          <h2 className="text-2xl md:text-3xl font-bold text-center mb-6">
-            Waarom bieden wij gratis website designs aan voor {niche}?
-          </h2>
-          <div className="text-foreground-accent space-y-4 text-base leading-relaxed">
-            <p>
-              De meeste {niche} hebben geen website, of een verouderde site die niet gevonden wordt in Google.
-              Een traditioneel webbureau rekent al snel €3.000 tot €10.000 voor een nieuwe website. Dat is voor
-              veel {niche} simpelweg niet haalbaar.
-            </p>
-            <p>
-              Wij geloven dat elk {nicheSingular}sbedrijf een professionele online aanwezigheid verdient, ongeacht
-              het budget. Daarom laten we je niet wachten op een offerte of een schets: je kiest een design en ziet
-              direct hoe je nieuwe website eruitziet, met je eigen naam en plaats erin. Bevalt het? Dan koop je de
-              volledig afgebouwde website voor €800 eenmalig, een fractie van wat een bureau vraagt.
-            </p>
-            <p>
-              En wil je meer dan alleen een website? Met ons 25-in-1 AI platform voor €79/maand krijg je ook
-              een chatbot, Voice AI telefonist, SEO automatisering, review management en social media tools.
-              Agency-kwaliteit voor een tiende van de prijs, inclusief strategie en consulting.
-            </p>
-          </div>
-        </div>
-      </section>
-
-      {/* Cross-links */}
-      <section className="py-16 px-4">
-        <div className="max-w-6xl mx-auto">
-          <h3 className="text-xl md:text-2xl font-bold text-center mb-6">Combineer met andere AI-tools</h3>
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-            <Link href="/chatbot" className="group border border-[var(--card-border)] rounded-2xl p-6 bg-[var(--card-background)] hover:border-primary/40 transition-all">
-              <h3 className="text-lg font-bold mb-2 group-hover:text-primary transition-colors">AI Chatbot</h3>
-              <p className="text-foreground-accent text-sm mb-3">Vangt website-bezoekers op die liever typen dan bellen. Direct boekbaar via chat.</p>
-              <span className="inline-flex items-center gap-1 text-primary text-sm font-semibold">Bekijk <BsArrowRight size={14} /></span>
-            </Link>
-            <Link href="/seo" className="group border border-[var(--card-border)] rounded-2xl p-6 bg-[var(--card-background)] hover:border-primary/40 transition-all">
-              <h3 className="text-lg font-bold mb-2 group-hover:text-primary transition-colors">SEO voor Rijscholen</h3>
-              <p className="text-foreground-accent text-sm mb-3">Een SEO-geoptimaliseerde site is alleen het begin. Combineer met lokale SEO automatisering.</p>
-              <span className="inline-flex items-center gap-1 text-primary text-sm font-semibold">Bekijk <BsArrowRight size={14} /></span>
-            </Link>
-            <Link href="/voice-ai" className="group border border-[var(--card-border)] rounded-2xl p-6 bg-[var(--card-background)] hover:border-primary/40 transition-all">
-              <h3 className="text-lg font-bold mb-2 group-hover:text-primary transition-colors">Voice AI Telefonist</h3>
-              <p className="text-foreground-accent text-sm mb-3">Vangt telefoontjes op die via je nieuwe website binnenkomen. 24/7 bereikbaar.</p>
-              <span className="inline-flex items-center gap-1 text-primary text-sm font-semibold">Bekijk <BsArrowRight size={14} /></span>
-            </Link>
-          </div>
-        </div>
-      </section>
-
-      {/* FAQ */}
-      <section className="py-16 px-4 bg-[var(--card-background)]">
-        <div className="max-w-3xl mx-auto">
-          <h2 className="text-2xl md:text-3xl font-bold text-center mb-10">Veelgestelde Vragen</h2>
-          <div className="space-y-4">
-            {faqs.map((faq, i) => (
-              <details key={i} className="group border border-[var(--card-border)] rounded-xl">
-                <summary className="cursor-pointer p-5 font-semibold flex justify-between items-center">
-                  {faq.q}
-                  <span className="text-primary group-open:rotate-45 transition-transform text-2xl">+</span>
+          <h2 className="text-2xl md:text-3xl font-bold text-center mb-8">Veelgestelde vragen</h2>
+          <div className="space-y-3">
+            {[
+              { q: "Is het echt gratis?", a: "Ja. Je kiest een ontwerp, vult je gegevens in en ziet 'm meteen op je eigen naam. Het ontwerpbestand krijg je van me, zonder voorwaarden." },
+              { q: "Wat kost het dan wél?", a: `Het draaiend krijgen. Live zetten, gevonden worden, de teksten die blijven komen — dat is het abonnement, vanaf €${PRIJS.start} per maand. Wil je er helemaal niet naar omkijken, dan is dat €${PRIJS.alles} per maand.` },
+              { q: "Kan ik de website ook gewoon afkopen?", a: `Dat kan, voor €${PRIJS.afkoop} eenmalig. Eerlijk gezegd raad ik het de meesten af: je hebt dan het ontwerp, maar niemand die 'm live houdt, vult en vindbaar maakt. Een site die stilstaat levert niets op.` },
+              { q: "Wat moet ik zelf doen?", a: "Je bedrijfsnaam en plaats invullen. De rest — het ontwerp, de teksten, de beelden — staat er al. Weet je niet hoe je het bestand zelf draaiend krijgt? Dan leg ik dat gratis uit." },
+              { q: "Hoe snel zie ik iets?", a: "Meteen. Je voorbeeld staat er zodra je op de knop drukt, met jouw naam erin." },
+              { q: `Moet ik al een website hebben?`, a: `Nee. De meeste ${nicheLower} die dit invullen hebben nog niets, of iets van jaren geleden. Je hebt alleen je bedrijfsnaam en plaats nodig.` },
+            ].map((f) => (
+              <details key={f.q} className="group rounded-xl border border-foreground-accent/15 bg-white/5 p-5">
+                <summary className="cursor-pointer font-semibold list-none flex items-center justify-between gap-4">
+                  {f.q}<span className="text-primary text-xl group-open:rotate-45 transition-transform">+</span>
                 </summary>
-                <div className="px-5 pb-5 text-foreground-accent">{faq.a}</div>
+                <p className="mt-3 text-foreground-accent">{f.a}</p>
               </details>
             ))}
           </div>
         </div>
       </section>
 
-      {/* CTA */}
-      <section className="py-16 px-4">
+      {/* ── SLOT ─────────────────────────────────────────────────────────── */}
+      <section className="py-14 md:py-20 px-4">
         <div className="max-w-2xl mx-auto text-center">
-          <h2 className="text-2xl md:text-3xl font-bold mb-4">Klaar om je voorbeeld te zien?</h2>
-          <p className="text-foreground-accent mb-8">
-            Kies bovenaan je design en bekijk binnen een minuut hoe jouw nieuwe website eruitziet. Gratis, vrijblijvend.
+          <h2 className="text-2xl md:text-3xl font-bold mb-3">Klaar om 'm op je eigen naam te zien?</h2>
+          <p className="text-foreground-accent mb-6">
+            Kies hierboven een ontwerp. Een halve minuut invullen en je kijkt naar je eigen website.
           </p>
-          <a
-            href="#gratis-website-wizard"
-            onClick={(e) => { e.preventDefault(); document.getElementById("gratis-website-wizard")?.scrollIntoView({ behavior: "smooth" }); }}
-            className="bg-primary text-black px-8 py-3 rounded-xl font-semibold hover:bg-primary-accent transition-all inline-block"
-          >
-            Kies je design ↑
-          </a>
+          <button onClick={() => { setStep(1); document.getElementById("wizard")?.scrollIntoView({ behavior: "smooth" }); }}
+            className="inline-flex items-center gap-2 bg-primary text-black font-bold px-7 py-3.5 rounded-full">
+            Naar de ontwerpen <BsArrowRight />
+          </button>
         </div>
       </section>
-
-      {/* Schema */}
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{
-          __html: JSON.stringify({
-            "@context": "https://schema.org",
-            "@type": "FAQPage",
-            mainEntity: faqs.map((f) => ({
-              "@type": "Question", name: f.q,
-              acceptedAnswer: { "@type": "Answer", text: f.a },
-            })),
-          }),
-        }}
-      />
     </main>
   );
 }

@@ -1,41 +1,11 @@
-import type { Metadata } from "next";
-import { getAllPosts } from "@/utils/posts";
-import VoorbeeldContent from "./VoorbeeldContent";
+import { redirect } from "next/navigation";
 
-export const metadata: Metadata = {
-  title: "Jouw website-voorbeeld | RijschoolAI",
-  description: "Bekijk direct een gepersonaliseerd voorbeeld van je nieuwe rijschool-website, in het design dat jij koos.",
-  robots: { index: false, follow: false },
-};
+// De oude, kale voorbeeld-pagina (V2, afgekeurd 17-07: "moet showcase-niveau") is vervangen.
+// Het voorbeeld is nu de ÉCHTE template van de bank, gepersonaliseerd via ?d= — zie
+// funnelLooks.ts + de personalisatie-laag op de bank. Oude links komen hier binnen en
+// gaan naar de keuze terug, zodat er nooit een dood adres of een oud ontwerp blijft staan.
+export const metadata = { robots: { index: false, follow: false } };
 
-export default async function VoorbeeldPage({
-  searchParams,
-}: {
-  searchParams: Promise<{ [key: string]: string | string[] | undefined }>;
-}) {
-  const params = await searchParams;
-  const sp = (k: string) => {
-    const v = params[k];
-    return typeof v === "string" ? v : "";
-  };
-
-  const posts = getAllPosts().slice(0, 3).map((p) => ({
-    slug: p.slug,
-    title: p.title,
-    excerpt: p.excerpt,
-    image: p.image,
-    date: p.date,
-  }));
-
-  return (
-    <VoorbeeldContent
-      lookParam={sp("look")}
-      bedrijf={sp("bedrijf")}
-      plaats={sp("plaats")}
-      dienstenCsv={sp("diensten")}
-      domein={sp("domein")}
-      naam={sp("naam")}
-      posts={posts}
-    />
-  );
+export default function OudVoorbeeld() {
+  redirect("/gratis-website");
 }
