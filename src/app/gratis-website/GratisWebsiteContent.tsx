@@ -11,7 +11,18 @@ import { type FunnelLook, type Prospect, previewUrl } from "./funnelLooks";
 
 const niche = siteDetails.niche || "Bedrijven";
 const nicheLower = niche.toLowerCase();
-const nicheSingular = nicheLower.endsWith("s") ? nicheLower.slice(0, -1) : nicheLower;
+
+// Nederlands enkelvoud is niet af te leiden met een regel ("rijscholen" → "rijschol"), dus:
+// een kleine vloot-tabel met een natuurlijke terugval ("jouw zaak") voor alles wat er niet in staat.
+const ENKELVOUD: Record<string, string> = {
+  rijscholen: "rijschool", kappers: "kapper", kapsalons: "kapsalon", barbershops: "barbershop",
+  loodgieters: "loodgieter", hoveniers: "hovenier", elektriciens: "elektricien", dakdekkers: "dakdekker",
+  verhuizers: "verhuisbedrijf", makelaars: "makelaardij", fietsenmakers: "fietsenzaak",
+  klinieken: "kliniek", huisartsen: "praktijk", dierenartsen: "praktijk", tandartsen: "praktijk",
+  fysiotherapeuten: "praktijk", schilders: "schildersbedrijf", stukadoors: "stukadoorsbedrijf",
+  restaurants: "restaurant", garages: "garage", schoonmaakbedrijven: "schoonmaakbedrijf",
+};
+const nicheSingular = ENKELVOUD[nicheLower] || "zaak";
 
 const WEBHOOK_URL = "https://n8n.aireclamestudio.nl/webhook/freewebsite";
 
