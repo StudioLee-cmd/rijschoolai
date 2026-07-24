@@ -372,6 +372,7 @@ export default function GratisWebsiteContent({ looks }: { looks: FunnelLook[] })
             {[
               { q: "Is het echt gratis?", a: "Ja. Je kiest een ontwerp, vult je gegevens in en ziet 'm meteen op je eigen naam. Het ontwerpbestand krijg je van me, zonder voorwaarden." },
               { q: "Wat kost het dan wél?", a: `Het draaiend krijgen. Live zetten, gevonden worden, de teksten die blijven komen — dat is het abonnement, vanaf €${PRIJS.start} per maand. Wil je er helemaal niet naar omkijken, dan is dat €${PRIJS.alles} per maand.` },
+              { q: "Wat kost het als ik het los zou regelen?", a: `Meer. Iemand voor je telefoon en je planning, iemand voor je marketing, iemand voor je vindbaarheid, plus de losse abonnementen: bij elkaar loopt dat flink op. Bij mij zit het in één rekening, en die is lager dan die onderdelen los bij elkaar. Vergelijk dus de rekening, niet de onderdelen.` },
               { q: "Kan ik de website ook gewoon afkopen?", a: `Dat kan, voor €${PRIJS.afkoop} eenmalig. Eerlijk gezegd raad ik het de meesten af: je hebt dan het ontwerp, maar niemand die 'm live houdt, vult en vindbaar maakt. Een site die stilstaat levert niets op.` },
               { q: "Wat moet ik zelf doen?", a: "Je bedrijfsnaam en plaats invullen. De rest — het ontwerp, de teksten, de beelden — staat er al. Weet je niet hoe je het bestand zelf draaiend krijgt? Dan leg ik dat gratis uit." },
               { q: "Hoe snel zie ik iets?", a: "Meteen. Je voorbeeld staat er zodra je op de knop drukt, met jouw naam erin." },
