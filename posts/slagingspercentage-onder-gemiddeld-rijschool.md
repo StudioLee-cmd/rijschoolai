@@ -95,6 +95,6 @@ Bij RijschoolAI helpen we rijscholen hun cijfers en trust-signalen eerlijk en pr
 - Een [seo voor rijscholen](/seo)-traject zodat je slagingspercentage-pagina gevonden wordt in jouw stad
 - Een Groei-of-Geld-Terug Garantie op het complete pakket
 
-[Plan een gratis website scan voor rijscholen](/gratis-scan) of bekijk onze [tarieven RijschoolAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://calendly.com/tim-studiolee).
+[Plan een gratis website scan voor rijscholen](/gratis-scan) of bekijk onze [tarieven RijschoolAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/wrm-keurmerk-tonen-rijschool-website-trust-signalen" class="text-dark fw-semibold">WRM-keurmerk tonen op rijschool-website: trust-signalen</a> →</p></div></div></div>

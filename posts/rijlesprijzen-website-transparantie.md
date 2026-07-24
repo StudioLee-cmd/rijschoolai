@@ -75,4 +75,4 @@ Toon de proeflesmogelijkheid prominent op je prijspagina — het is vaak de best
 
 Prijstransparantie is geen risico — het is een strategie. Door je lesprijzen helder en eerlijk op je website te tonen, trek je meer kwalitatieve leerlingen aan, verminder je onnodig telefonisch verkeer, en verbeter je je vindbaarheid in Google. Combineer het met sterke reviews, een hoog slagingspercentage, en een duidelijke proeflesaanbieding, en je hebt een prijspagina die converteert.
 
-Wil je hulp bij het optimaliseren van je rijschoolwebsite? Bekijk wat [RijschoolAI](/) voor je kan betekenen of [plan een gratis gesprek](https://calendly.com/tim-studiolee).
+Wil je hulp bij het optimaliseren van je rijschoolwebsite? Bekijk wat [RijschoolAI](/) voor je kan betekenen of [plan een gratis gesprek](https://cal.com/studiolee).
