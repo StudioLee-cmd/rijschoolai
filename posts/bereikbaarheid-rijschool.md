@@ -8,7 +8,6 @@ image: "/images/blog/bereikbaarheid-rijschool.png"
 tags: ["bereikbaarheid", "rijschool", "klantenservice"]
 cluster: "voice-ai"
 ---
-
 Een leerling die besluit om te gaan rijden, belt of appt de eerste drie rijscholen die ze vinden. De rijschool die het snelst reageert, wint de leerling. Bereikbaarheid is geen bijzaak — het is je eerste kans om indruk te maken.
 
 ## Waarom snelheid telt
@@ -17,7 +16,7 @@ Leerlingen zijn jong en ongeduldig. Ze verwachten een antwoord binnen minuten, n
 
 ## De uitdaging voor rijschoolinstructeurs
 
-Je zit in de auto. Je geeft les. Je kunt niet opnemen. Na de les heb je drie gemiste oproepen en vijf WhatsApp-berichten. Tegen de tijd dat je terugbelt, heeft de leerling al een andere rijschool gekozen.
+Je zit in de auto. Je geeft les. Je kunt niet opnemen. Na de les heb je drie [gemiste oproepen](/voice-ai) en vijf WhatsApp-berichten. Tegen de tijd dat je terugbelt, heeft de leerling al een andere rijschool gekozen.
 
 ## 5 oplossingen
 
