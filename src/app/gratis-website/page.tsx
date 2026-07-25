@@ -18,6 +18,7 @@ export const metadata: Metadata = {
     type: "website",
     locale: "nl_NL",
   },
+  alternates: { canonical: `${siteDetails.siteUrl}gratis-website` },
 };
 
 // De look-supply komt van de template-bank (register → funnel-looks.json), niet uit deze repo.
