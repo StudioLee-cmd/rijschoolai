@@ -7,8 +7,7 @@ image: "/images/blog/hoe-rijscholen-ai-inzetten-meer-leerlingen-werven.png"
 tags: ["AI", "Automatisering", "Rijscholen"]
 cluster: "automatisering"
 ---
-
-De rijschoolmarkt is competitief. Leerlingen oriënteren zich online, vergelijken prijzen en baseren hun keuze op reviews en reactiesnelheid. Rijscholen die AI inzetten, reageren sneller, plannen efficiënter en bouwen een sterkere reputatie op.
+De rijschoolmarkt is competitief. Leerlingen oriënteren zich online, vergelijken prijzen en baseren hun keuze op reviews en reactiesnelheid. Rijscholen die AI inzetten, reageren sneller, plannen efficiënter en bouwen een sterkere [reputatie](/reviews) op.
 
 ## Wat AI doet voor rijscholen
 
@@ -32,6 +31,8 @@ Rijscholen die dit inzetten rapporteren gemiddeld 40% meer nieuwe inschrijvingen
 **Stap 1**: Digitaliseer het aanmeldingsproces met een slim webformulier.
 **Stap 2**: Activeer automatische lesherinneringen.
 **Stap 3**: Stel review-automatisering in.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/seizoensmarketing-rijschool-leerlingen" class="text-dark fw-semibold">Seizoensmarketing voor rijscholen: het hele jaar door leerlingen werven</a> →</p></div></div></div>
 
 ## Conclusie
 
