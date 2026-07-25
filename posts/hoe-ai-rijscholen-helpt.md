@@ -8,7 +8,6 @@ image: "/images/blog/hoe-ai-rijscholen-helpt.png"
 tags: ["AI", "Efficiëntie", "Rijschool"]
 cluster: "automatisering"
 ---
-
 Het runnen van een rijschool anno 2026 is topsport. Je bent niet alleen instructeur die leerlingen veilig leert rijden, maar je bent ook boekhouder, planner, telefoniste, marketingmanager en psycholoog in één. Veel instructeurs die wij spreken, zitten de hele dag in de auto, maar zijn 's avonds nog uren bezig met randzaken. Appjes van leerlingen, examenplanningen en nieuwe aanmeldingen.
 
 De realiteit is dat de markt verandert. Leerlingen (Gen Z) verwachten directe reacties, strakke communicatie en 24/7 bereikbaarheid via WhatsApp. Als zelfstandige instructeur is dat bijna onmogelijk te bolwerken zonder dat je privéleven eronder lijdt. Gelukkig is er een oplossing: Kunstmatige Intelligentie (AI).
@@ -32,7 +31,7 @@ Omdat jij rustiger in de auto zit en niet tussen de lessen door gestresst bent o
 ## Wat vervangt dit systeem precies?
 
 Veel instructeurs denken dat AI hun werk wil overnemen. Dat is onzin. Een robot kan (voorlopig) niet ingrijpen bij een gevaarlijke inhaalactie. Het gaat om het vervangen van het kantoorwerk. Onze AI tools vervangen in feite drie rollen:
-- **De Telefoniste/Planner:** Een kracht op kantoor kost je al snel €35.000 per jaar. Onze Voice AI neemt 24/7 op, plant afspraken, en beantwoordt vragen over tarieven.
+- **De Telefoniste/Planner:** Een kracht op kantoor kost je al snel €35.000 per jaar. Onze [Voice AI](/voice-ai) neemt 24/7 op, plant afspraken, en beantwoordt vragen over tarieven.
 - **Het Marketingbureau:** Wil je meer leerlingen? Vroeger betaalde je een bureau honderden euro's. Onze Social Media AI regelt je zichtbaarheid. Ze posten geslaagde leerlingen op Instagram en schrijven teksten.
 - **De Administratie (deels):** Facturen worden automatisch verstuurd na inschrijving of pakketkeuze. Geen gedoe met bonnetjes.
 
