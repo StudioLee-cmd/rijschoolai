@@ -8,7 +8,6 @@ image: "/images/blog/nazorg-rijschool-na-het-rijbewijs.jpg"
 tags: ["Nazorg", "Klantrelatie", "Groei"]
 cluster: "automatisering"
 ---
-
 ## Waarom nazorg belangrijk is voor rijscholen
 
 Het moment dat een leerling het rijbewijs haalt, is het hoogtepunt van jullie samenwerking. Maar voor veel rijscholen is het ook het einde van het contact. En dat is een gemiste kans.
@@ -61,6 +60,8 @@ Social media is perfect voor nazorg op schaal:
 - **Reageer op berichten**: houd het contact warm
 
 Instagram en TikTok zijn ideale kanalen voor rijscholen. Je doelgroep — jongeren — is daar actief en deelt graag hun succes.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/rijschoolai-vs-personeel" class="text-dark fw-semibold">Personeel op Kantoor vs. AI: Waarom meer betalen?</a> →</p></div></div></div>
 
 ## Een nazorg-strategie opzetten
 
