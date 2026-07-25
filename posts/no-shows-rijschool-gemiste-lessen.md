@@ -51,6 +51,8 @@ Bij een rijschool met twee instructeurs is dat 14.560 euro per jaar. Dat is een 
 
 **Wachtlijst met flexibele leerlingen.** Houd een lijst bij van leerlingen die last-minute beschikbaar zijn: studenten zonder vast rooster, mensen die thuiswerken, gepensioneerden. Wanneer iemand annuleert, stuur je een WhatsApp naar de wachtlijst: "Er is een lesplek vrijgekomen vandaag om [tijd]. Wie wil?" De eerste die reageert, rijdt. Een [chatbot](/chatbot) kan leerlingen automatisch op de wachtlijst zetten wanneer ze een voorkeur opgeven voor "eerder als er plek is."
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/leerling-komt-niet-opdagen-rijles" class="text-dark fw-semibold">Leerling komt niet opdagen voor rijles: zo ga je ermee om</a> →</p></div></div></div>
+
 ## De impact na een maand
 
 Rijscholen die deze drie maatregelen combineren rapporteren een daling van 50 tot 70 procent in no-shows. Bij het eerder genoemde voorbeeld van 7.280 euro per jaar bespaar je dan 3.640 tot 5.100 euro per jaar, per instructeur. De investering in een automatiseringssysteem is een fractie daarvan.
