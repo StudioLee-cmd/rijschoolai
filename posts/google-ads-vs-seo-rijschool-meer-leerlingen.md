@@ -56,6 +56,8 @@ Kies Google Ads als je net start, snel leerlingen nodig hebt en budget hebt voor
 
 Kies de combinatie als je beide budgetten hebt en de snelste groei wilt. Begin met Ads, start tegelijk met SEO, en verschuif je budget naarmate organisch verkeer groeit.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/seo-rijschool-meer-leerlingen" class="text-dark fw-semibold">SEO voor rijscholen: meer leerlingen via Google</a> →</p></div></div></div>
+
 ## Conclusie: combineer voor het beste resultaat
 
 Google Ads en SEO zijn geen tegenstanders. Ze versterken elkaar. Ads geeft je directe zichtbaarheid terwijl [SEO](/seo) opbouwt. SEO verlaagt op termijn je advertentiekosten. De rijscholen die het snelst groeien, gebruiken beide strategieen in de juiste verhouding.
