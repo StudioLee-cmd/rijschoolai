@@ -8,10 +8,9 @@ image: "/images/blog/mond-tot-mondreclame-rijschool-stimuleren.png"
 tags: ["Rijschool", "Mond-tot-mond", "Marketing"]
 cluster: "branding"
 ---
-
 ## Het slaagmoment: je beste marketingtool
 
-Er is geen krachtiger marketingmoment voor een rijschool dan het moment dat een leerling slaagt. De emotie is hoog, de dankbaarheid is groot, en de eerste persoon die het hoort? Vrienden en familie via WhatsApp en social media.
+Er is geen krachtiger marketingmoment voor een rijschool dan het moment dat een leerling slaagt. De emotie is hoog, de dankbaarheid is groot, en de eerste persoon die het hoort? Vrienden en familie via WhatsApp en [social media](/social-media).
 
 Dit is het moment waarop jouw rijschool viral kan gaan in de vriendengroep van elke geslaagde leerling. Maar alleen als je het faciliteert.
 
@@ -88,6 +87,8 @@ Ouders betalen vaak de rijlessen en hebben het grootste netwerk van andere ouder
 | 1 op 10 leerlingen verwijst iemand | 3 op 10 leerlingen verwijst iemand |
 | 2 Google reviews per maand | 8-12 Google reviews per maand |
 | Advertentiekosten: €200-500/maand | Advertentiekosten: €50-100/maand |
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/branding-rijschool" class="text-dark fw-semibold">Branding als rijschool: zo word je de bekendste rijschool in je regio</a> →</p></div></div></div>
 
 ## Conclusie
 
