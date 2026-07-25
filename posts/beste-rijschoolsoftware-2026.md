@@ -7,7 +7,6 @@ image: "/images/blog/beste-rijschoolsoftware-2026.png"
 tags: ["Software", "Vergelijking", "Tools"]
 cluster: "automatisering"
 ---
-
 Als rijschoolhouder of rijinstructeur draai je lange dagen achter het stuur. Tussen de lessen door moet je ook nog leerlingen plannen, factureren en nieuwe aanmeldingen binnenhalen. Welke software helpt jouw rijschool het meest in 2026?
 
 ## Wat zoekt een rijschool in software?
@@ -60,6 +59,8 @@ Als rijschoolhouder of rijinstructeur draai je lange dagen achter het stuur. Tus
 | **AI-marketing** | ✗ | ✗ | ✓ |
 | **Voice AI-telefonist** | ✗ | ✗ | ✓ |
 | **Online boeken** | ✗ | ✓ | ✓ |
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/wat-is-chatgpt-hoe-gebruik-je-het-als-rijschool" class="text-dark fw-semibold">Wat is ChatGPT en hoe gebruik je het als rijschool?</a> →</p></div></div></div>
 
 ## Conclusie
 
