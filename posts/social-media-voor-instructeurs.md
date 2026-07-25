@@ -8,7 +8,6 @@ image: "/images/blog/social-media-voor-instructeurs.png"
 tags: ["Social Media", "Branding", "Automatisering"]
 cluster: "social-media"
 ---
-
 Je bent instructeur, geen influencer. Je hebt geen zin om dansjes te doen. Maar leerlingen kijken wel op Instagram. Ze willen zien: Slagen hier mensen? Is de instructeur aardig?
 
 ## De 5-Seconden Workflow
@@ -18,4 +17,4 @@ Wij maken het simpel.
 - **Stap 2:** App de foto naar je AI-assistent.
 - **Stap 3:** Klaar.
 
-De AI herkent de foto, schrijft een leuke tekst ("Gefeliciteerd [Naam]! In één keer geslaagd, topper! 🎉 Veilige kilometers gewenst!"), voegt hashtags toe en post het op Instagram en Facebook. Jij hoeft niets te doen. Zo zien nieuwe leerlingen dat jij een succesvolle rijschool bent.
+De AI herkent de foto, schrijft een leuke tekst ("Gefeliciteerd [Naam]! In één keer geslaagd, topper! 🎉 Veilige kilometers gewenst!"), voegt hashtags toe en post het op [Instagram](/social-media) en Facebook. Jij hoeft niets te doen. Zo zien nieuwe leerlingen dat jij een succesvolle rijschool bent.
