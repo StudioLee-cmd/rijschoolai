@@ -52,6 +52,8 @@ Een [AI chatbot](/chatbot) vangt automatisch vragen op en plant afspraken in —
 
 Het resultaat? Meer klanten, minder administratie, en een systeem dat draait zonder dat je eraan hoeft te denken. Alles begint met een [gratis scan](/gratis-scan) — we analyseren je huidige situatie en laten zien wat er mogelijk is.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/lead-opvolging-rijschool-meer-leerlingen" class="text-dark fw-semibold">Lead opvolging als rijschool: meer inschrijvingen</a> →</p></div></div></div>
+
 ## Conclusie
 
 Rijschoolleerlingen kiezen snel. De rijschool die het snelst reageert met de juiste informatie, boekt de proefles. Met automatische opvolging en persoonlijk contact haal je meer uit elke aanvraag.
