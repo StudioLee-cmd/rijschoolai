@@ -35,6 +35,8 @@ De timing is cruciaal. Slagen = emotie = review. Wacht je een week, dan is het m
 
 Niet elke leerling slaagt de eerste keer. Stuur dan geen review-verzoek, maar een bemoedigend bericht: "Jammer dat het vandaag niet lukte. We plannen samen de volgende poging. Je kunt dit!" Dat bouwt vertrouwen en loyaliteit, en die leerling laat later alsnog een positieve review achter.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/rijschool-reviews-leerlingen-verzamelen" class="text-dark fw-semibold">Reviews van leerlingen verzamelen als rijschool: zo doe je dat</a> →</p></div></div></div>
+
 ## Wat het je oplevert
 
 Een rijschool met 10 geslaagde leerlingen per maand die automatisch review-verzoeken stuurt, verzamelt 5-7 nieuwe [reviews](/reviews) per maand. Na een jaar heb je 60-80 reviews. Dat plaatst je boven 90% van de rijscholen in je regio.
