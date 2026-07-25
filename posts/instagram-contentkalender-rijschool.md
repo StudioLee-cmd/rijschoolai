@@ -8,7 +8,6 @@ authorSlug: "tim-van-der-lee"
 tags: ["Social Media", "Instagram", "Contentkalender"]
 cluster: "social-media"
 ---
-
 Het is zondagavond. Je weet dat je deze week iets op Instagram moet posten, want de vorige post is alweer twaalf dagen oud. Je opent de app, tikt op het plusje en dan staar je naar een leeg scherm. Wat post ik vandaag eigenlijk? Vijf minuten later leg je je telefoon weg en denk je: volgende week wel.
 
 Dat moment ken je. En het ligt niet aan jou. Het probleem is niet dat je lui bent of geen ideeën hebt, het probleem is dat je elke keer opnieuw vanaf nul begint. Een vaste contentkalender lost dat in één keer op: je hoeft nooit meer te bedenken wat je post, je leest gewoon af wat er voor vandaag klaarstaat.
@@ -123,6 +122,6 @@ Dan batch je je content of besteed je het uit. Twee uur per maand is genoeg om a
 
 ## Begin vandaag
 
-De grootste reden dat rijscholen onzichtbaar blijven op social media is niet gebrek aan ideeën, maar gebrek aan een plan. Dat plan heb je nu. Sla deze kalender op, maak een foto van je eerstvolgende geslaagde leerling en post hem vanavond nog met je locatie-tag. Dat is dag 1.
+De grootste reden dat rijscholen onzichtbaar blijven op [social media](/blog/social-media-voor-instructeurs) is niet gebrek aan ideeën, maar gebrek aan een plan. Dat plan heb je nu. Sla deze kalender op, maak een foto van je eerstvolgende geslaagde leerling en post hem vanavond nog met je locatie-tag. Dat is dag 1.
 
 Wil je weten waar voor jouw rijschool de meeste winst zit in social media, vindbaarheid en reviews? Vraag een vrijblijvende [gratis scan](/gratis-scan) aan. We laten precies zien wat er beter kan, met onze Groei-of-Geld-Terug Garantie. Meer leerlingen, minder gedoe.
