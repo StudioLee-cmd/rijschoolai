@@ -78,6 +78,8 @@ Ja, maar communiceer het via de ouders. Zij zijn verantwoordelijk voor de financ
 
 Zonder herinneringssysteem: 15 tot 25 procent. Met [automatische herinneringen](/chatbot) en lespakketten: 3 tot 8 procent.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/nazorg-rijschool-na-het-rijbewijs" class="text-dark fw-semibold">Nazorg bij je rijschool: zo blijf je in contact na het rijbewijs</a> →</p></div></div></div>
+
 ## Conclusie
 
 Lesuitval is beheersbaar met de juiste aanpak: automatische herinneringen, vooruitbetaling via pakketten, een duidelijk uitvalbeleid en actieve motivatie-ondersteuning. De combinatie maakt het verschil.
