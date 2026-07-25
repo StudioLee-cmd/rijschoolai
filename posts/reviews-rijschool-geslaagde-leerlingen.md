@@ -51,7 +51,7 @@ Rijscholen die automatische review-verzoeken gebruiken verzamelen gemiddeld drie
 
 ## Reageer op reviews en bouw je reputatie
 
-Beantwoord elke review. Bij positieve reviews: feliciteer opnieuw en wens veilige kilometers. Bij een zeldzame negatieve review: reageer professioneel en bied een gesprek aan.
+Beantwoord elke review. Bij positieve reviews: feliciteer opnieuw en wens veilige kilometers. Bij een zeldzame [negatieve review](/blog/negatieve-review-rijschool-ai-antwoord): reageer professioneel en bied een gesprek aan.
 
 Google ziet actieve profielen. Reageren op reviews versterkt je [vindbaarheid in Google](/seo) en laat potentiële leerlingen zien dat je betrokken bent bij je leerlingen, ook na het examen.
 
