@@ -58,6 +58,8 @@ Houd bij hoeveel proeflessen je geeft en hoeveel daarvan leiden tot inschrijving
 
 Vraag afhakers waarom ze niet inschrijven. Is het de prijs? De klik? De afstand? Die feedback helpt je om je proefles-ervaring te verbeteren.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/proefles-conversie-rijschool" class="text-dark fw-semibold">Proefles-aanvragen converteren: van eerste contact tot inschrijving</a> →</p></div></div></div>
+
 ## Conclusie: maak van twijfel een beslissing
 
 De proefles is je krachtigste marketingtool. Gebruik hem niet als eerste les, maar als conversiemoment. Neem angst weg, bouw een klik, geef een helder aanbod, en volg op. De rijscholen die dit systematisch doen, vullen hun planning het snelst.
