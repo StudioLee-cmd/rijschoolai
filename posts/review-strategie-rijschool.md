@@ -59,6 +59,8 @@ Streef naar 30+ reviews. Dat is het punt waarop je geloofwaardig bent. Daarna: c
 
 Reageer empathisch. Erken de teleurstelling en benadruk dat je samen werkt aan het volgende examen. Nooit de schuld bij de leerling leggen in een publieke reactie.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/reviews-rijschool-geslaagde-leerlingen" class="text-dark fw-semibold">Reviews als rijschool: geslaagde leerlingen als ambassadeurs</a> →</p></div></div></div>
+
 ## Conclusie
 
 Geslaagde leerlingen zijn je krachtigste marketingtool. Automatiseer het reviewproces rond examendata, betrek ouders en deel successen op social media. Het kost je niets en levert direct meer inschrijvingen op.
