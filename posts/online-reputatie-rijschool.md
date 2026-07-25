@@ -8,10 +8,9 @@ image: "/images/blog/online-reputatie-rijschool.png"
 tags: ["online reputatie", "rijschool", "reviews"]
 cluster: "reviews"
 ---
-
 Een rijschool kiezen is een grote beslissing voor leerlingen. Ze investeren honderden of duizenden euro's, besteden tientallen uren in de auto, en hun slagingskans hangt af van de kwaliteit van de instructie. Geen wonder dat ze uitgebreid online onderzoek doen voordat ze kiezen.
 
-Je online reputatie — met name je reviews — bepaalt of ze bij jou inschrijven of bij de concurrent. In dit artikel leer je hoe je daar grip op krijgt.
+Je online [reputatie](/reviews) — met name je reviews — bepaalt of ze bij jou inschrijven of bij de concurrent. In dit artikel leer je hoe je daar grip op krijgt.
 
 ## Waarom reviews alles bepalen
 
