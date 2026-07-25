@@ -8,10 +8,9 @@ image: "/images/blog/social-media-rijscholen-leerlingen.png"
 tags: ["Social Media", "Marketing", "Groei"]
 cluster: "social-media"
 ---
-
 ## Waarom social media onmisbaar is voor rijscholen
 
-Social media is allang niet meer alleen voor grote bedrijven met marketingafdelingen. In 2026 is het een basisvoorziening voor elke rijschool die wil groeien. Of je nu net begint of al jarenlang actief bent — zonder online zichtbaarheid loop je klanten mis.
+Social media is allang niet meer alleen voor grote bedrijven met marketingafdelingen. In 2026 is het een basisvoorziening voor elke rijschool die wil groeien. Of je nu net begint of al jarenlang actief bent — zonder [online zichtbaarheid](/social-media) loop je klanten mis.
 
 De cijfers liegen niet: meer dan 13 miljoen Nederlanders zijn dagelijks actief op social media. Je potentiële klanten scrollen door Instagram, Facebook en LinkedIn terwijl jij dit leest. De vraag is niet of je op social media moet zijn, maar hoe je het slim aanpakt.
 
@@ -35,7 +34,7 @@ Niet elk platform is geschikt voor elke branche. TikTok is een gamechanger voor 
 
 ## De jongere doelgroep bereiken
 
-Rijscholen hebben een uniek voordeel: je doelgroep (16-24 jaar) is de meest actieve groep op social media. Ze zitten op Instagram, TikTok en Snapchat. De vraag is niet óf ze je vinden, maar of jij daar bent waar zij scrollen.
+Rijscholen hebben een uniek voordeel: je doelgroep (16-24 jaar) is de meest actieve groep op [social media](/blog/instagram-reels-rijschool-formats). Ze zitten op Instagram, TikTok en Snapchat. De vraag is niet óf ze je vinden, maar of jij daar bent waar zij scrollen.
 
 TikTok is een gamechanger voor rijscholen. Korte, grappige video's over het rijexamen gaan regelmatig viraal. Eén video die 50.000 views haalt, levert meer naamsbekendheid op dan maanden adverteren.
 
