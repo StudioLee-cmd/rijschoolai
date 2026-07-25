@@ -8,14 +8,13 @@ image: "/images/blog/google-bedrijfsprofiel-rijschool.png"
 tags: ["Google", "Vindbaarheid", "Marketing"]
 cluster: "vindbaarheid"
 ---
-
 De meeste leerlingen beginnen hun zoektocht naar een rijschool op Google. Ze typen "rijschool bij mij in de buurt" en vergelijken de eerste resultaten op basis van reviews, prijs en uitstraling. Je Google Bedrijfsprofiel bepaalt of je in die shortlist terechtkomt of niet.
 
 Een goed onderhouden profiel met sterke reviews is voor rijscholen de meest effectieve manier om leerlingen te werven. In dit artikel leer je hoe je dat profiel optimaal benut.
 
 ## Waarom Google Bedrijfsprofiel voor rijscholen
 
-Rijlessen zijn een grote investering — zowel financieel als qua tijd. Leerlingen (en hun ouders) willen zeker weten dat ze de juiste keuze maken. Google reviews en een professioneel profiel bieden die zekerheid.
+Rijlessen zijn een grote investering — zowel financieel als qua tijd. Leerlingen (en hun ouders) willen zeker weten dat ze de juiste keuze maken. [Google reviews](/reviews) en een professioneel profiel bieden die zekerheid.
 
 Rijscholen die [goed vindbaar zijn op Google](/blog/hoe-rijscholen-meer-leerlingen-werven-via-google) ontvangen meer aanvragen dan concurrenten die alleen op mond-tot-mondreclame vertrouwen. Je profiel is je digitale visitekaartje — zorg dat het indruk maakt.
 
