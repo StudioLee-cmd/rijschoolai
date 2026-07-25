@@ -7,7 +7,6 @@ image: "/images/blog/leerlingvolgsysteem-rijschool-intake-rijbewijs.jpg"
 cluster: "automatisering"
 tags: ["CRM", "Leerlingvolgsysteem", "Rijschool Operaties"]
 ---
-
 Een rijschoolhouder met 60 actieve leerlingen wordt op een dinsdagmorgen gebeld door een ouder. "Hoe gaat het met onze zoon? Hij is al 8 maanden bezig en doet morgen zijn derde theorie-examen." De rijschoolhouder klikt door zijn losse Excel, vindt twee tabbladen, kan niet zien hoeveel praktijklessen de zoon al heeft gehad, weet niet of de eerste theorie-uitslag positief was. Vijf minuten zoekwerk later kan hij vaag iets zeggen. De ouder voelt zich niet serieus genomen. Een week later kiest het gezin voor een andere rijschool met een leerlingen-portal.
 
 Een leerlingvolgsysteem voor een rijschool is geen optie meer in 2026, het is operationele basisinfrastructuur. Maar veel rijscholen werken nog met losse Excels, papieren rittenlijsten en een agenda in Outlook. Dit artikel laat zien welk type data je bijhoudt, hoe je het inricht zonder duizenden euro's aan softwarekosten, en wat het oplevert in voortgang, slaagkans en omzet per leerling.
@@ -188,6 +187,8 @@ Ja, de meeste rijschool-software heeft een CBR-koppeling voor examen-aanmeldinge
 ### Wat als ik nu al rijschool-software heb?
 
 Inventariseer welke data je nu wel en niet bijhoudt. Vaak is er ruimte voor verbetering binnen je huidige systeem zonder te switchen. Vraag een [gratis scan](/gratis-scan) aan voor een persoonlijke audit.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/hoe-ai-rijscholen-helpt" class="text-dark fw-semibold">Hoe AI Rijscholen Helpt Bij Het Besparen Van Tijd (En Waarom Je Concurrentie Al Om Is)</a> →</p></div></div></div>
 
 ## Klaar om je leerlingen-administratie op orde te krijgen?
 
