@@ -8,7 +8,6 @@ image: "/images/blog/chatbot-voor-rijscholen.jpg"
 tags: ["Chatbot", "Automatisering"]
 cluster: "chatbot"
 ---
-
 Rijscholen missen dagelijks potentiële leerlingen omdat ze niet op tijd reageren op vragen. Een chatbot lost dit op: 24 uur per dag antwoorden geven, proeflessen inplannen en informatie verstrekken — zonder dat jij achter je bureau hoeft te zitten.
 
 ## Waarom een chatbot voor rijscholen?
@@ -113,8 +112,10 @@ Ja. Bij de meeste systemen kun je zelf antwoorden toevoegen, aanpassen of verwij
 
 Ja. De chatbot werkt op elk apparaat — desktop, tablet en smartphone. Aangezien meer dan 70% van je bezoekers op mobiel zit, is dit essentieel.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/chatbot-of-faq-pagina-rijschool-leads" class="text-dark fw-semibold">Chatbot of FAQ-pagina rijschool: waar leads vandaan komen</a> →</p></div></div></div>
+
 ## Conclusie
 
-Een chatbot is in 2026 geen luxe meer voor rijscholen — het is een noodzaak. Je concurrenten die wél 24/7 bereikbaar zijn, vangen jouw gemiste leads op. Begin vandaag nog met een chatbot en merk het verschil.
+Een [chatbot](/chatbot) is in 2026 geen luxe meer voor rijscholen — het is een noodzaak. Je concurrenten die wél 24/7 bereikbaar zijn, vangen jouw gemiste leads op. Begin vandaag nog met een chatbot en merk het verschil.
 
 Benieuwd hoe een chatbot eruitziet voor jouw rijschool? [Vraag een gratis scan aan](/gratis-scan) en we laten je zien wat er mogelijk is.
