@@ -8,7 +8,6 @@ image: "/images/blog/rijlesprijzen-website-transparantie.png"
 tags: ["Prijzen", "Website", "Leerlingen"]
 cluster: "website"
 ---
-
 "Wat kost een rijles?" Het is een van de meest gezochte vragen rondom rijscholen. En toch tonen veel rijscholen hun prijzen niet op hun website. De reden: "Dan vergelijken ze alleen op prijs." Maar door je prijzen te verbergen, verlies je juist de leerlingen die je wilt hebben — en trek je ongewenst telefonisch verkeer aan van mensen die alleen maar even willen weten wat het kost.
 
 In dit artikel leggen we uit waarom prijstransparantie op je rijschoolwebsite meer leerlingen oplevert, en hoe je het slim aanpakt.
@@ -45,7 +44,7 @@ Zoekwoorden als "rijles prijs [stad]", "wat kost een rijbewijs", en "rijschool t
 
 Structureer je prijspagina met duidelijke H2-koppen per categorie (losse lessen, pakketten, examenpakket, herexamen) en voeg FAQ's toe onderaan: "Hoeveel lessen heb ik nodig?", "Zijn er bijkomende kosten?", "Kan ik tussentijds overstappen van pakket?"
 
-Deze FAQ's kunnen als featured snippet in Google verschijnen — de prominente positie bovenaan de zoekresultaten. Dat is onbetaalbare zichtbaarheid.
+Deze FAQ's kunnen als featured snippet in Google verschijnen — de prominente positie bovenaan de [zoekresultaten](/seo). Dat is onbetaalbare zichtbaarheid.
 
 ## Combineer prijzen met vertrouwenssignalen
 
