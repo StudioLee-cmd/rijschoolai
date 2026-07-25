@@ -53,6 +53,8 @@ Vier no-shows per week = €180 tot €340 verlies per week. Halveer dat met aut
 
 Netto besparing: **€3.500 tot €7.500 per jaar**. Terugverdiend in minder dan twee weken.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/no-shows-rijschool-gemiste-lessen" class="text-dark fw-semibold">Gemiste rijlessen: wat no-shows je rijschool kosten</a> →</p></div></div></div>
+
 ## Vandaag nog beginnen
 
 Elke week zonder herinneringen kost je lessen en omzet. [Vraag een gratis scan aan](/gratis-scan) en ontdek hoeveel no-shows je kunt voorkomen. Groei-of-Geld-Terug Garantie.
