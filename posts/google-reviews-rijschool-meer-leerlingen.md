@@ -49,6 +49,8 @@ Bij rijscholen betalen vaak de ouders. Zij zijn ook een waardevolle bron van rev
 
 Ouders schrijven andere reviews dan leerlingen. Ze focussen op veiligheid, betrouwbaarheid en communicatie. Die diversiteit maakt je reviewprofiel rijker en overtuigender.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/online-reputatie-rijschool" class="text-dark fw-semibold">Online reputatie als rijschool: reviews die nieuwe leerlingen overtuigen</a> →</p></div></div></div>
+
 ## Begin deze week
 
 Wil je weten hoe je reviewstrategie ervoor staat en wat je kunt verbeteren? Vraag een [gratis scan](/gratis-scan) aan en ontvang een concreet plan.
