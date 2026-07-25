@@ -7,8 +7,7 @@ image: "/images/blog/meer-leerlingen-via-google.png"
 tags: ["Marketing", "Reviews", "Groei"]
 cluster: "reviews"
 ---
-
-Als een 17-jarige een rijschool zoekt, wat doet hij dan? Precies: Google Maps. "Rijschool [Stad]". Hij kijkt naar de sterren. Heeft een rijschool 3,4 sterren? "Die zal wel slecht zijn." Heeft hij 4,9 sterren met 200 reviews? "Daar moet ik zijn!" In de rijschoolbranche is je online reputatie allesbepalend.
+Als een 17-jarige een rijschool zoekt, wat doet hij dan? Precies: Google Maps. "Rijschool [Stad]". Hij kijkt naar de sterren. Heeft een rijschool 3,4 sterren? "Die zal wel slecht zijn." Heeft hij 4,9 sterren met 200 reviews? "Daar moet ik zijn!" In de rijschoolbranche is je online [reputatie](/reviews) allesbepalend.
 
 Heb je minder dan 20 reviews? Dan besta je online bijna niet. Maar hoe kom je aan die reviews zonder te smeken bij elke geslaagde leerling?
 
@@ -25,7 +24,7 @@ Onze Reputatie Manager AI lost dit op. Direct na het examen (gekoppeld aan je sy
 ### De "Review Firewall"
 
 Is een leerling gezakt of ontevreden? Dan wil je die niet direct op Google hebben. Ons systeem filtert:
-- **Blij / Geslaagd?** -> Directe link naar Google Reviews.
+- **Blij / Geslaagd?** -> Directe link naar [Google Reviews](/blog/review-strategie-rijschool).
 - **Ontevreden / Gezakt met klacht?** -> Privé feedback formulier naar jou. Zo kun je het oplossen zonder publieke schade.
 
 Meer reviews = Hoger in Google = Meer nieuwe leerlingen. Het is een vliegwiel. Zet het aan en je agenda stroomt vol.
