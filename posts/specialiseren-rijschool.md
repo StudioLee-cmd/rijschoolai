@@ -8,7 +8,6 @@ image: "/images/blog/specialiseren-rijschool.png"
 tags: ["specialisatie", "rijschool", "groei"]
 cluster: "branding"
 ---
-
 Er zijn honderden rijscholen in elke regio. De meeste bieden hetzelfde: rijopleiding B, theorie en af en toe een motor-opleiding. Dat maakt je inwisselbaar. Specialisatie is de manier om op te vallen.
 
 ## Waarom specialisatie werkt
@@ -56,7 +55,7 @@ Specialisatie vraagt een investering. Je hebt mogelijk extra training nodig, aan
 
 Begin met een niche die aansluit bij je ervaring. Heb je jarenlang ervaring met nerveuze leerlingen? Dan is faalangst een logische keuze. Rij je graag op de snelweg en heb je een aanhanger? Specialiseer in BE-rijbewijs.
 
-Het belangrijkste is dat je kiest en dat commitment communiceert op je website, in je Google profiel en op social media. Leerlingen die precies zoeken wat jij biedt, betalen graag meer en zijn tevredener.
+Het belangrijkste is dat je kiest en dat commitment communiceert op je website, in je Google profiel en op [social media](/social-media). Leerlingen die precies zoeken wat jij biedt, betalen graag meer en zijn tevredener.
 
 ## Specialisatie en lokale vindbaarheid
 
