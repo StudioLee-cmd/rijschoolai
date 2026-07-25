@@ -8,7 +8,6 @@ image: "/images/blog/rijbewijs-traject-7-communicatiemomenten.jpg"
 tags: ["Rijbewijs", "Communicatie", "Rijschool"]
 cluster: "automatisering"
 ---
-
 Elke rijschool herkent het: een leerling begint enthousiast, boekt 5 lessen, raakt onzeker na een tegenvallende proefles, en verdwijnt 3 weken in de radio-stilte. Tegen de tijd dat je ze belt zijn ze al elders verder of helemaal gestopt. Op een rijschool van 60 leerlingen gebeurt dit 10-15 keer per jaar. Puur omzetverlies.
 
 Het goede nieuws: leerlingen haken niet af omdat je instructeur slecht is of je prijzen te hoog. Ze haken af op motivatie-dips. En die zijn voorspelbaar. Dit artikel geeft de 7 contactmomenten waarop je een leerling de juiste duw kunt geven. Geautomatiseerd gaat dit je amper tijd kosten en kan je slaagpercentage met 15-25 procent omhoog.
@@ -134,6 +133,8 @@ Rijscholen die deze 7 momenten consequent 12 maanden doen rapporteren:
 - **Hogere reviewscores** omdat de persoonlijke aandacht gewaardeerd wordt.
 
 Kortom: met 7 automatisch verzonden berichten op de juiste momenten bouw je een rijschool die niet alleen verkoopt, maar leerlingen daadwerkelijk door het traject heen begeleidt.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/leerling-historie-bijhouden-rijschool-crm" class="text-dark fw-semibold">Leerling-historie bijhouden: CRM-setup voor je rijschool</a> →</p></div></div></div>
 
 ## Hoe je deze week begint
 
