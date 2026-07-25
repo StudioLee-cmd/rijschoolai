@@ -84,6 +84,8 @@ Hoe minder stappen er nodig zijn, hoe meer inschrijvingen je krijgt:
 
 Elke extra handeling die je vraagt (bellen, langskomen, PDF downloaden) is een moment waarop de leerling afhaakt.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/leads-opvolgen-rijschool" class="text-dark fw-semibold">Leads opvolgen als rijschool: zo boek je meer proeflessen</a> →</p></div></div></div>
+
 ## Wat levert betere opvolging op?
 
 Een rijschool die de opvolging verbetert van "reageren wanneer het uitkomt" naar "dezelfde dag terugbellen met een concreet aanbod":
