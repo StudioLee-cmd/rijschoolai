@@ -8,8 +8,7 @@ image: "/images/blog/leadgeneratie-rijschool.png"
 tags: ["Leadgeneratie", "Leerlingen", "Groei"]
 cluster: "automatisering"
 ---
-
-De meeste rijscholen vertrouwen op twee kanalen voor nieuwe leerlingen: Google en mond-tot-mondreclame. Beiden werken — maar als je alleen daarop leunt, ben je kwetsbaar. Een algoritmewijziging, een concurrent met meer reviews, of een rustige zomer kunnen je inschrijvingen flink laten dalen.
+De meeste rijscholen [vertrouwen](/reviews) op twee kanalen voor nieuwe leerlingen: Google en mond-tot-mondreclame. Beiden werken — maar als je alleen daarop leunt, ben je kwetsbaar. Een algoritmewijziging, een concurrent met meer reviews, of een rustige zomer kunnen je inschrijvingen flink laten dalen.
 
 Slimme rijscholen diversifiëren hun leadbronnen. In dit artikel ontdek je vijf kanalen die een constante stroom aan nieuwe leerlingen opleveren — onafhankelijk van Google.
 
