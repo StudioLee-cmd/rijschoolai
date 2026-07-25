@@ -112,20 +112,17 @@ export default function GratisWebsiteContent({ looks }: { looks: FunnelLook[] })
       <section className="pt-10 md:pt-14 px-4">
         <div className="max-w-3xl mx-auto text-center">
           <motion.span
-            initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }}
-            className="inline-flex items-center gap-2 bg-primary/15 text-primary text-sm font-bold px-4 py-1.5 rounded-full mb-5"
+            className="inline-flex items-center gap-2 bg-primary/15 text-primary text-sm font-bold px-4 py-1.5 rounded-full mb-5 sl-reveal"
           >
             <BsStars /> Het ontwerp is gratis — het bestand is van jou
           </motion.span>
           <motion.h1
-            initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.1 }}
-            className="text-3xl md:text-4xl lg:text-5xl font-bold mb-5 !leading-tight"
+            className="text-3xl md:text-4xl lg:text-5xl font-bold mb-5 !leading-tight sl-reveal sl-reveal-1"
           >
             Kies het ontwerp voor jouw {nicheSingular}. Met jouw naam erin.
           </motion.h1>
           <motion.p
-            initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.2 }}
-            className="text-lg text-foreground-accent"
+            className="text-lg text-foreground-accent sl-reveal sl-reveal-1"
           >
             Geen schets en geen offerte: je kiest een van onze echte websites, vult je bedrijfsnaam
             en plaats in, en ziet 'm meteen als de jouwe. Het ontwerpbestand krijg je gratis mee.
@@ -185,8 +182,7 @@ export default function GratisWebsiteContent({ looks }: { looks: FunnelLook[] })
                     {looks.map((l, i) => (
                       <motion.div
                         key={l.slug}
-                        initial={{ opacity: 0, y: 16 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.05 * i }}
-                        className="group rounded-2xl overflow-hidden bg-white/5 border border-foreground-accent/15 hover:border-primary/60 transition-colors flex flex-col"
+                        className="group rounded-2xl overflow-hidden bg-white/5 border border-foreground-accent/15 hover:border-primary/60 transition-colors flex flex-col sl-reveal sl-reveal-1"
                       >
                         <button onClick={() => kies(l)} className="relative block w-full text-left" aria-label={`Kies ontwerp ${l.label}`}>
                           <span className="block relative aspect-[16/10] overflow-hidden bg-black/20">
