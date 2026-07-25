@@ -84,6 +84,6 @@ Instagram en TikTok zijn het meest effectief — je doelgroep (16-25 jaar) is da
 
 ## Conclusie
 
-SEO voor rijscholen draait om lokale vindbaarheid, sterke reviews en content die aansluit bij de vragen van potentiële leerlingen. De rijscholen die hier als eerste mee beginnen, bouwen een voorsprong op die steeds moeilijker in te halen is.
+[SEO voor rijscholen](/seo) draait om lokale vindbaarheid, sterke reviews en content die aansluit bij de vragen van potentiële leerlingen. De rijscholen die hier als eerste mee beginnen, bouwen een voorsprong op die steeds moeilijker in te halen is.
 
 Wil je weten hoe jouw rijschool scoort? Start een [gratis scan](/gratis-scan) en ontvang een concreet actieplan.
