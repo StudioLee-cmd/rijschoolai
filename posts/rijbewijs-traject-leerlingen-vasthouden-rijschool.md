@@ -87,6 +87,8 @@ Een rijschool met 200 nieuwe leerlingen per jaar en een uitval van 30% verliest 
 
 De investering daar tegenover staat: een goed ingericht communicatiesysteem (WhatsApp flows, CRM met triggers, een [AI telefonist](/voice-ai) voor buiten lestijden), plus twee uur per week van een medewerker die de flow monitort. Onze managed service bundelt dit in één pakket voor rijscholen.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/leadgeneratie-rijschool" class="text-dark fw-semibold">Leadgeneratie als rijschool: meer leerlingen via slimme kanalen</a> →</p></div></div></div>
+
 ## Groei-of-Geld-Terug Garantie
 
 Als je na zes maanden je uitvalpercentage niet meetbaar hebt verlaagd, krijg je je investering terug. Wil je eerst weten waar bij jouw rijschool de grootste uitval zit, vraag een [gratis scan](/gratis-scan) aan — we analyseren je huidige flow en identificeren de drie grootste lekken zonder verplichting. Jij rijdt ze, wij zorgen dat ze blijven.
