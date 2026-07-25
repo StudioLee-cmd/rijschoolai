@@ -7,7 +7,6 @@ image: "/images/blog/vindbaarheid-rijschool-meer-leerlingen.jpg"
 tags: ["Vindbaarheid", "SEO", "Groei"]
 cluster: "vindbaarheid"
 ---
-
 ## Waarom Google je belangrijkste bron van nieuwe leerlingen is
 
 De meeste leerlingen kiezen een rijschool via Google of op aanbeveling. "Rijschool [stad]", "autorijles [regio]", "rijbewijs halen [buurt]" — dit zijn de zoekopdrachten die je nieuwe leerlingen opleveren.
@@ -18,7 +17,7 @@ Mond-tot-mondreclame is waardevol, maar het heeft een plafond. Op een gegeven mo
 
 ## Google Bedrijfsprofiel voor rijscholen
 
-Je Google Bedrijfsprofiel is vaak het eerste contactpunt met potentiële leerlingen:
+Je [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-diensten-rijschool) is vaak het eerste contactpunt met potentiële leerlingen:
 
 - Foto's van je lesauto en leslocaties
 - Diensten: autorijles, motorrijles, bromfietsles, opfrisles
@@ -27,7 +26,7 @@ Je Google Bedrijfsprofiel is vaak het eerste contactpunt met potentiële leerlin
 
 Voeg regelmatig foto's toe van geslaagde leerlingen (met toestemming) bij je lesauto. Dit is de krachtigste content die je kunt plaatsen — het is social proof, het is lokaal, en het toont dat je actief bent.
 
-Gebruik de Posts-functie van Google om aanbiedingen te delen: proeflesacties, spoedcursuspakketten, of zomerse kortingen. Google beloont profielen die regelmatig updates plaatsen met een hogere ranking in de lokale zoekresultaten.
+Gebruik de Posts-functie van Google om aanbiedingen te delen: proeflesacties, spoedcursuspakketten, of zomerse kortingen. Google beloont profielen die regelmatig updates plaatsen met een hogere ranking in de lokale [zoekresultaten](/seo).
 
 Vul je servicegebied nauwkeurig in. Als je lesgeeft in meerdere plaatsen, voeg ze allemaal toe. Een leerling in Leiden die zoekt op "rijschool Leiden" ziet alleen rijscholen die Leiden als werkgebied hebben opgegeven.
 
@@ -81,6 +80,6 @@ Steeds meer jongeren gebruiken AI-assistenten zoals ChatGPT en Perplexity om inf
 
 Zorg dat je website FAQ-secties heeft die deze vragen concreet beantwoorden. Niet vaag ("dat verschilt per persoon") maar specifiek: "De meeste leerlingen hebben 25 tot 40 lessen nodig. Bij onze rijschool is het gemiddelde 30 lessen." AI-systemen geven de voorkeur aan concrete antwoorden en verwijzen naar de bronpagina.
 
-Voeg gestructureerde data toe aan je website (schema markup voor LocalBusiness en FAQ). Dit helpt zowel Google als AI-systemen om je informatie correct te interpreteren en weer te geven.
+Voeg gestructureerde data toe aan je website ([schema markup voor](/blog/schema-markup-rijschool-ai-velden) LocalBusiness en FAQ). Dit helpt zowel Google als AI-systemen om je informatie correct te interpreteren en weer te geven.
 
 Wil je weten hoe vindbaar jouw rijschool is? Vraag een [gratis AI-scan](/gratis-scan) aan.
