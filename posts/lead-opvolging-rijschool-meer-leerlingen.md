@@ -7,7 +7,6 @@ image: "/images/blog/lead-opvolging-rijschool-meer-leerlingen.jpg"
 tags: ["Lead opvolging", "Leerlingen", "Groei"]
 cluster: "automatisering"
 ---
-
 ## Waarom snelheid cruciaal is bij rijschool-aanvragen
 
 Een leerling die zoekt naar een rijschool stuurt vaak drie tot vijf aanvragen tegelijk. Dezelfde avond vergelijkt die de reacties en kiest de rijschool die het snelst en persoonlijkst reageert.
@@ -28,7 +27,7 @@ Een automatisch "We hebben je bericht ontvangen" is beter dan stilte, maar het w
 
 ## Automatische opvolging bij elke aanvraag
 
-Als rijschool-instructeur zit je de hele dag in de auto. Bellen of mailen kan niet. Maar automatische opvolging wel.
+Als rijschool-instructeur zit je de hele dag in de auto. Bellen of mailen kan niet. Maar [automatische opvolging](/automatisering) wel.
 
 De opzet:
 
@@ -66,7 +65,7 @@ Hoe korter de tijd tussen proefles en inschrijving, hoe hoger de conversie. Wach
 
 ## Structureel meer leerlingen zonder extra advertentiekosten
 
-Betere lead opvolging kost niets extra aan marketing. Je hebt de aanvragen al — je zet ze alleen efficiënter om.
+Betere [lead opvolging](/blog/proefles-rijschool-conversiemoment-inschrijving) kost niets extra aan marketing. Je hebt de aanvragen al — je zet ze alleen efficiënter om.
 
 Door je responstijd te halveren en WhatsApp als hoofdkanaal te gebruiken, kun je 30 tot 50 procent meer aanvragen omzetten in inschrijvingen. Dat zijn tientallen extra leerlingen per jaar, zonder een euro extra aan advertenties.
 
