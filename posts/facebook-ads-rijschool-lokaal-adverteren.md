@@ -97,6 +97,6 @@ Je hoeft geen marketeer te worden. Zet één campagne op met twee advertentieset
 
 De veiling op Google loopt gewoon door en daar zullen je concurrenten elkaar blijven overbieden. Jij staat ondertussen bij de schoolpoort, waar niemand tegen je opbiedt.
 
-Wil je dit hele traject uit handen geven, van advertentie tot opvolging? Wij doen het met de Groei-of-Geld-Terug Garantie: levert het niet op wat we afspreken, dan krijg je je geld terug. [Plan een vrijblijvend gesprek](https://cal.com/studiolee), dan kijken we samen naar je lesgebied en je huidige aanmeldingen.
+Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views. [Plan een vrijblijvend gesprek](https://cal.com/studiolee), dan kijken we samen naar je lesgebied en je huidige aanmeldingen.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/instagram-reels-rijschool-formats" class="text-dark fw-semibold">Instagram Reels voor rijscholen: 5 formats die werken</a> →</p></div></div></div>

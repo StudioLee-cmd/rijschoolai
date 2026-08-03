@@ -75,6 +75,6 @@ Je hoeft niet je hele bedrijf in één weekend om te bouwen. Begin bij de basis 
 
 Elke stap levert op zichzelf al tijd op, dus je hoeft niet te wachten tot alles staat. Begin met stap één en twee, en je merkt de rust al binnen een week.
 
-Wil je weten waar bij jouw rijschool de meeste planningstijd weglekt, doe dan de [gratis ai scan voor rijscholen](/gratis-scan). Bij RijschoolAI kijken we samen naar je planning, je instructeurs en je lesauto's, en laten we zien wat er met automatisering te winnen valt. En omdat we geloven in het resultaat, werken we met een Groei-of-Geld-Terug Garantie: levert het niet op wat we beloven, dan krijg je je geld terug. Jij geeft les, wij regelen de rest.
+Wil je weten waar bij jouw rijschool de meeste planningstijd weglekt, doe dan de [gratis ai scan voor rijscholen](/gratis-scan). Bij RijschoolAI kijken we samen naar je planning, je instructeurs en je lesauto's, en laten we zien wat er met automatisering te winnen valt. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views. Jij geeft les, wij regelen de rest.
 
 <div class="lees-ook" style="background-color: rgba(37, 99, 235, 0.10); border-radius: 12px; padding: 16px 20px; margin: 32px 0;"><strong>Lees ook:</strong> <a href="/blog/wachtlijst-automatiseren-rijschool">Wachtlijst-automatisering bij no-shows in je rijschool</a> →</div>

@@ -66,7 +66,7 @@ Rijscholen hebben een unieke kans op social media: geslaagde leerlingen delen gr
 
 In de meeste steden zijn er tientallen rijscholen. De meerderheid doet weinig aan online marketing. Dat betekent dat je met een gestructureerde SEO-aanpak — [regelmatige blogposts](/blog), actief Google profiel, review-automatisering — relatief snel kunt stijgen.
 
-Een managed service als [StudioLee](/tarieven) regelt dit volledig voor je. Jij focust op lesgeven, wij zorgen dat leerlingen je vinden. Jij besteedt er maar 15 minuten per maand aan — de rest wordt volledig geregeld. Met de Groei-of-Geld-Terug Garantie loop je geen risico: geen meetbare groei? Geld terug.
+Een managed service als [StudioLee](/tarieven) regelt dit volledig voor je. Jij focust op lesgeven, wij zorgen dat leerlingen je vinden. Jij besteedt er maar 15 minuten per maand aan — de rest wordt volledig geregeld. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 ## Veelgestelde vragen
 

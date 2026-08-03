@@ -194,4 +194,4 @@ Inventariseer welke data je nu wel en niet bijhoudt. Vaak is er ruimte voor verb
 
 Een goed leerlingvolgsysteem is een van de hoogste-impact investeringen die een rijschoolhouder kan doen. Tijd voor planning, voor examens, voor ouder-gesprekken en voor jezelf. Wij regelen dit standaard voor onze rijschool-klanten, inclusief data-set-up, instructeur-app en automatische communicatie-flows.
 
-Vraag een [gratis scan](/gratis-scan) aan en we kijken samen waar in jouw administratie de meeste tijd weglekt. Werkt het niet? Geld terug, dat is onze Groei-of-Geld-Terug Garantie.
+Vraag een [gratis scan](/gratis-scan) aan en we kijken samen waar in jouw administratie de meeste tijd weglekt. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.

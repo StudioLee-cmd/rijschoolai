@@ -30,7 +30,7 @@ Dit zijn geen tekenen van een onredelijke leerling — het zijn standaard mensel
 
 ## De cruciale 72 uur na de uitslag
 
-De window waarin de retention-beslissing valt is opvallend kort. Onderzoek bij Nederlandse rijscholen die een retention-protocol hebben uitgerold, laat zien dat 70% van de "switch"-beslissingen in de eerste 24 uur valt, en 90% binnen 72 uur. Daarna is het te laat — de leerling heeft al een proefles bij een concurrent geboekt en de geld-terug-vraag staat in zijn telefoon.
+De window waarin de retention-beslissing valt is opvallend kort. Onderzoek bij Nederlandse rijscholen die een retention-protocol hebben uitgerold, laat zien dat 70% van de "switch"-beslissingen in de eerste 24 uur valt, en 90% binnen 72 uur. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 De praktische implicatie: alle vijf stappen in het retention-protocol moeten binnen 72 uur plaatsvinden. Niet "in de week na het examen". Niet "bij de eerstvolgende geplande les". Binnen 72 uur, met de meeste impact in de eerste 30 minuten.
 

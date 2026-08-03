@@ -88,6 +88,6 @@ Vraag je huidige leverancier schriftelijk om een volledige data-export. Onder de
 
 Op verouderde software blijven hangen kost je elke maand tijd en leerlingen. Met een vast stappenplan, een proefimport en aandacht voor de drie valkuilen zet je je hele bedrijf veilig over naar een systeem dat met je meegroeit. Jij geeft les, wij regelen de rest.
 
-Wil je weten waar jouw rijschool nu data en tijd verliest, en wat een overstap concreet oplevert? Doe de [gratis AI-scan voor rijscholen](/gratis-scan). Je krijgt een helder beeld van je grootste winstpunten, met de Groei-of-Geld-Terug Garantie van RijschoolAI: groei je niet, dan krijg je je geld terug.
+Wil je weten waar jouw rijschool nu data en tijd verliest, en wat een overstap concreet oplevert? Doe de [gratis AI-scan voor rijscholen](/gratis-scan). Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 <p style="background-color: rgba(37, 99, 235, 0.10); padding: 12px 16px; border-radius: 8px;"><strong>Lees ook:</strong> <a href="/blog/ouder-communicatie-rijschool-voortgangsupdates">Ouder-communicatie rijschool: voortgangsupdates die binden</a> &rarr;</p>

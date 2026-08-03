@@ -73,7 +73,7 @@ Lees ook: [hoe rijscholen AI inzetten om meer leerlingen te werven](/blog/hoe-ri
 
 Met onze managed service hoef je zelf niets te doen. We houden alles draaiend — van je SEO en social media tot je reviews en AI-vindbaarheid. Je hebt alleen een maandelijks gesprek van 15 minuten nodig om op de hoogte te blijven. De rest doen wij.
 
-**Groei-of-Geld-Terug Garantie** — Wij voeren op dag 1 een nulmeting uit. Geen groei in bereik of AI-vindbaarheid? Dan krijg je je geld terug. Het risico ligt 100% bij ons.
+Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 ## Conclusie
 
