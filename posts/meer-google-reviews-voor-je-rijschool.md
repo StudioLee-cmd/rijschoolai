@@ -79,7 +79,7 @@ Het resultaat? Rijscholen die dit systeem gebruiken zien gemiddeld 3 tot 5 nieuw
 
 En het mooiste: je hoeft er maar **15 minuten per maand** aan te besteden. Dat is één kort telefoontje voor een update. De rest regelen wij.
 
-Lees ook hoe je [meer leerlingen via Google](/blog/hoe-rijscholen-meer-leerlingen-werven-via-google) om je volledige online strategie te versterken.
+Lees ook hoe je [meer leerlingen via Google](/blog/seo-rijschool-meer-leerlingen) om je volledige online strategie te versterken.
 
 ## Groei-of-Geld-Terug Garantie
 

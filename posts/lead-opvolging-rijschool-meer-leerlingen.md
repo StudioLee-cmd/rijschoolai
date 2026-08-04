@@ -65,7 +65,7 @@ Hoe korter de tijd tussen proefles en inschrijving, hoe hoger de conversie. Wach
 
 ## Structureel meer leerlingen zonder extra advertentiekosten
 
-Betere [lead opvolging](/blog/proefles-rijschool-conversiemoment-inschrijving) kost niets extra aan marketing. Je hebt de aanvragen al — je zet ze alleen efficiënter om.
+Betere [lead opvolging](/blog/proefles-conversie-rijschool) kost niets extra aan marketing. Je hebt de aanvragen al — je zet ze alleen efficiënter om.
 
 Door je responstijd te halveren en WhatsApp als hoofdkanaal te gebruiken, kun je 30 tot 50 procent meer aanvragen omzetten in inschrijvingen. Dat zijn tientallen extra leerlingen per jaar, zonder een euro extra aan advertenties.
 

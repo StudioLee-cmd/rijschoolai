@@ -54,7 +54,7 @@ Niet elke review hoeft na het examen. Er zijn meer goede momenten:
 
 ## Google Reviews versus Tevreden.nl
 
-De ANWB en andere rijbewijs-gerelateerde websites tonen reviews via Tevreden.nl. [Google Reviews](/blog/meer-leerlingen-via-google) zijn breder zichtbaar. De slimste aanpak: verzamel op beide platforms.
+De ANWB en andere rijbewijs-gerelateerde websites tonen reviews via Tevreden.nl. [Google Reviews](/blog/seo-rijschool-meer-leerlingen) zijn breder zichtbaar. De slimste aanpak: verzamel op beide platforms.
 
 - **Google:** voor lokale vindbaarheid in zoekresultaten
 - **Tevreden.nl:** voor sectorspecifieke vergelijking

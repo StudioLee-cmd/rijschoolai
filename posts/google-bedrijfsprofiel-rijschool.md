@@ -16,7 +16,7 @@ Een goed onderhouden profiel met sterke reviews is voor rijscholen de meest effe
 
 Rijlessen zijn een grote investering — zowel financieel als qua tijd. Leerlingen (en hun ouders) willen zeker weten dat ze de juiste keuze maken. [Google reviews](/reviews) en een professioneel profiel bieden die zekerheid.
 
-Rijscholen die [goed vindbaar zijn op Google](/blog/hoe-rijscholen-meer-leerlingen-werven-via-google) ontvangen meer aanvragen dan concurrenten die alleen op mond-tot-mondreclame vertrouwen. Je profiel is je digitale visitekaartje — zorg dat het indruk maakt.
+Rijscholen die [goed vindbaar zijn op Google](/blog/seo-rijschool-meer-leerlingen) ontvangen meer aanvragen dan concurrenten die alleen op mond-tot-mondreclame vertrouwen. Je profiel is je digitale visitekaartje — zorg dat het indruk maakt.
 
 ## Je rijschoolprofiel opzetten
 

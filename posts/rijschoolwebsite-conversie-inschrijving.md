@@ -13,7 +13,7 @@ cluster: "website"
 
 Als rijschool investeer je in advertenties, social media en misschien zelfs flyers. Maar je website is je belangrijkste wervingskanaal — áls je het goed inricht. Een potentiële leerling Googlet "rijschool [plaatsnaam]", bekijkt drie websites en schrijft zich in bij de rijschool die het meest vertrouwenwekkend overkomt.
 
-De vraag is niet óf je een website hebt, maar of die website converteert. Lees ook hoe je als rijschool [beter vindbaar wordt op Google](/blog/hoe-rijscholen-meer-leerlingen-werven-via-google) zodat meer mensen je website überhaupt vinden.
+De vraag is niet óf je een website hebt, maar of die website converteert. Lees ook hoe je als rijschool [beter vindbaar wordt op Google](/blog/seo-rijschool-meer-leerlingen) zodat meer mensen je website überhaupt vinden.
 
 ## Een duidelijk inschrijfformulier
 

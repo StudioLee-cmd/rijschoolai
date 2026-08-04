@@ -22,6 +22,9 @@ const nextConfig = {
             { source: '/blog/rijschool-specialiseren-breed-aanbod', destination: '/', permanent: true },
             { source: '/blog/rijschool-specialisatie-niche-omzet-vergelijking', destination: '/', permanent: true },
             { source: '/blog/zelfrijdende-autos-rijscholen', destination: '/', permanent: true },
+            { source: '/blog/meer-leerlingen-via-google', destination: '/blog/seo-rijschool-meer-leerlingen', permanent: true },
+            { source: '/blog/hoe-rijscholen-meer-leerlingen-werven-via-google', destination: '/blog/seo-rijschool-meer-leerlingen', permanent: true },
+            { source: '/blog/proefles-rijschool-conversiemoment-inschrijving', destination: '/blog/proefles-conversie-rijschool', permanent: true },
         ];
     },
 };
