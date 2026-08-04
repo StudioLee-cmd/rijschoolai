@@ -119,3 +119,5 @@ Bij RijschoolAI helpen we rijscholen hun trust-signalen professioneel inrichten 
 - Een Groei-of-Geld-Terug Garantie op het complete pakket
 
 [Plan een gratis AI-scan voor rijscholen](/gratis-scan) of bekijk onze [tarieven RijschoolAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/aanhanger-rijbewijs-e-caravan-boottrailer-rijschool-specialisme" class="text-dark fw-semibold">Aanhanger-rijbewijs E: caravan en boottrailer-niche</a> →</p></div></div></div>
