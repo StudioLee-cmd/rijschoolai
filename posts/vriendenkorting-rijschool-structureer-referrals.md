@@ -85,7 +85,7 @@ Een goede [seo voor rijscholen](/seo) zorgt dat je vriendenkorting-pagina ook or
 
 Voordat je dit programma uitrolt, doe een [gratis ai scan voor rijscholen](/gratis-scan) om te zien hoe je website-formulier, CRM en review-flow al ingericht zijn. De scan geeft een concrete checklist van wat er nog moet voor een werkend referral-programma. Geen sales-gesprek, alleen een rapport.
 
-Op basis daarvan kun je in 1 tot 2 weken een werkend programma opzetten. Voor het complete plaatje (website-pagina plus tracking-CRM plus automatische WhatsApp-follow-up) kijk je naar de [tarieven RijschoolAI](/tarieven) - de meeste rijscholen zitten op €170 tot €280 per maand voor het complete pakket inclusief CRM-tracking voor referrals.
+Op basis daarvan kun je in 1 tot 2 weken een werkend programma opzetten. Voor het complete plaatje (website-pagina plus tracking-CRM plus automatische WhatsApp-follow-up) kijk je naar de [tarieven RijschoolAI](/tarieven). Daar staat per pakket wat je maandelijks kwijt bent, inclusief de CRM-tracking voor referrals.
 
 ## Conclusie: van toeval naar voorspelbaarheid
 
