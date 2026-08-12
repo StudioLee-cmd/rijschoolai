@@ -117,7 +117,7 @@ Voor [een rijschool-website met geïntegreerd slagingspercentage-blok](https://w
 ## Wat het kost — en wat het oplevert
 
 - **Self-service implementatie op bestaande website:** €0 (eigen werk, 1-2 uur)
-- **Professionele web-integratie:** €69-149 per maand voor een rijschool-platform inclusief alle conversie-elementen (zie [tarieven voor rijscholen](https://www.rijschoolai.nl/tarieven))
+- **Professionele web-integratie:** een rijschool-platform met de conversie-elementen al ingebouwd, dus geen eigen bouwwerk en geen onderhoud; wat het per maand kost staat op de [tarieven voor rijscholen](https://www.rijschoolai.nl/tarieven)
 - **Maandelijkse update van het cijfer:** automatisch via CBR API of handmatig 1x per maand (5 min)
 
 Voor de [SEO-aanpak voor rijscholen](https://www.rijschoolai.nl/seo) waarbij slagingspercentage-blokken de conversie versterken, zie ons gespecialiseerde artikel.
