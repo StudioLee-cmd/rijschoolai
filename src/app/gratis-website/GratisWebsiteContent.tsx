@@ -1,4 +1,6 @@
 "use client";
+import { publicContacts } from "@/data/publicContacts";
+
 import React, { useState } from "react";
 import Link from "next/link";
 import { motion, AnimatePresence } from "framer-motion";
@@ -173,7 +175,7 @@ export default function GratisWebsiteContent({ looks }: { looks: FunnelLook[] })
                     <p className="text-foreground-accent mb-5">
                       Mail me je bedrijfsnaam en plaats, dan stuur ik je binnen een dag een voorbeeld op jouw naam.
                     </p>
-                    <a href="mailto:tim@studiolee.nl" className="inline-flex items-center gap-2 bg-primary text-black font-bold px-6 py-3 rounded-full">
+                    <a href={("mailto:" + publicContacts.primary.email)} className="inline-flex items-center gap-2 bg-primary text-black font-bold px-6 py-3 rounded-full">
                       Vraag je voorbeeld aan <BsArrowRight />
                     </a>
                   </div>

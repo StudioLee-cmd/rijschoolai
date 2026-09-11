@@ -1,3 +1,5 @@
+
+import { publicContacts } from "@/data/publicContacts";
 export interface IAuthor {
     slug: string;
     name: string;
@@ -19,7 +21,7 @@ export const authors: IAuthor[] = [
         bio: 'Tim is de oprichter van RijschoolAI en specialist in AI-automatisering voor rijscholen. Met jarenlange ervaring in technologie en ondernemerschap helpt hij rijschoolhouders om efficiënter te werken door slimme automatisering.',
         image: '/images/authors/tim-van-der-lee.jpg',
         social: {
-            email: 'tim@rijschoolai.nl'
+            email: publicContacts.primary.email
         }
     }
 ];
