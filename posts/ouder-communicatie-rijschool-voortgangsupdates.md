@@ -138,4 +138,4 @@ Bij RijschoolAI helpen we rijscholen de ouder-communicatie professioneel structu
 - Een [seo voor rijscholen](/seo) traject voor ouder-zoektermen
 - Een Groei-of-Geld-Terug Garantie op het complete pakket
 
-[Plan een gratis AI-scan voor rijscholen](/gratis-scan) of bekijk onze [tarieven RijschoolAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).
+[Plan een gratis AI-scan voor rijscholen](/gratis-scan) of bekijk onze [tarieven RijschoolAI](/tarieven). Vragen? [Plan een gesprek met Tim](/demo).

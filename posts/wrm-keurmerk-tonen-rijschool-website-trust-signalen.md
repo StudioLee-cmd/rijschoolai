@@ -118,4 +118,4 @@ Bij RijschoolAI helpen we rijscholen hun trust-signalen professioneel inrichten 
 - Een [crm voor rijscholen](/crm) met automatische kwartaal-reminders voor cijfers-update
 - Een Groei-of-Geld-Terug Garantie op het complete pakket
 
-[Plan een gratis AI-scan voor rijscholen](/gratis-scan) of bekijk onze [tarieven RijschoolAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).
+[Plan een gratis AI-scan voor rijscholen](/gratis-scan) of bekijk onze [tarieven RijschoolAI](/tarieven). Vragen? [Plan een gesprek met Tim](/demo).
