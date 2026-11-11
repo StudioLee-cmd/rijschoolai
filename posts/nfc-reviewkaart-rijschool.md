@@ -79,4 +79,4 @@ Houd je hieraan, dan bouw je een reviewprofiel dat jaren meegaat in plaats van e
 
 Ja, koop de kaart, maar zie hem als één onderdeel. Een NFC-reviewkaart van een tientje verdient zichzelf makkelijk terug zodra je er twee extra reviews mee binnenhaalt. Maar reken er niet op dat het kaartje in je dashboardkastje het probleem oplost dat je op de piek van de blijdschap zelden bij je leerling bent. Combineer het kaartje met een automatisch verzoek dat vlak na het examen afgaat, en je vangt eindelijk het moment dat je nu misloopt.
 
-Wil je weten waar bij jouw rijschool nu reviews weglekken? Doe de [gratis AI-scan voor rijscholen](/gratis-scan), dan zie je precies waar je kansen laat liggen. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
+Wil je weten waar bij jouw rijschool nu reviews weglekken? Doe de [gratis AI-scan voor rijscholen](/gratis-scan), dan zie je precies waar je kansen laat liggen.

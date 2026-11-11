@@ -94,4 +94,4 @@ Je prijspagina is geen administratie maar een filter. De vorm die je kiest bepaa
 
 Kies de vorm die bij het merendeel van je leerlingen past en zet die bovenaan. Zet de examenkosten er los onder. Wees expliciet over meerlessen en over stoppen. En zet de inschrijfknop naast het bedrag in plaats van onderaan.
 
-Bij RijschoolAI zetten we die pagina per opleiding op, met dezelfde prijsregels in je chat, zodat je site en je bot niet uit elkaar lopen. Meer over de vorm van de site zelf staat op onze pagina over de [gratis website voor rijscholen](/gratis-website). Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet meetbaar beter zichtbaar in Ahrefs, dan krijg je je geld terug.
+Bij RijschoolAI zetten we die pagina per opleiding op, met dezelfde prijsregels in je chat, zodat je site en je bot niet uit elkaar lopen. Meer over de vorm van de site zelf staat op onze pagina over de [gratis website voor rijscholen](/gratis-website).

@@ -62,4 +62,4 @@ Communiceer je slagingspercentage actief op je [social media](/social-media). Ee
 
 Het mooiste aan een hoog slagingspercentage is dat het zichzelf verkoopt. Leerlingen vertellen het door, ouders checken het op de CBR-site, en elke geslaagde leerling is een wandelend reclamebord. Investeer in kwaliteit en de marketing volgt vanzelf.
 
-Wil je weten hoe jouw rijschool online beter gevonden wordt? Vraag een [gratis scan](/gratis-scan) aan en ontdek waar je kansen liggen. Inclusief onze Groei-of-Geld-Terug Garantie.
+Wil je weten hoe jouw rijschool online beter gevonden wordt? Vraag een [gratis scan](/gratis-scan) aan en ontdek waar je kansen liggen.

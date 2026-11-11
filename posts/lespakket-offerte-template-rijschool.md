@@ -105,6 +105,6 @@ Daarna is er nog maar één beslissing te nemen: blijf je hem met de hand verstu
 
 Pak de laatste vijf offertes die je hebt verstuurd erbij en leg ze naast de zeven onderdelen. Grote kans dat onderdeel 3, 5 en 6 ontbreken, want dat zijn de drie die je onder tijdsdruk als eerste weglaat. Herschrijf ze één keer goed en gebruik die versie vanaf morgen voor iedereen.
 
-Wil je weten waar het in jouw huidige proces precies lekt, van de eerste aanvraag tot de ingeschreven leerling, vraag dan de [gratis ai scan voor rijscholen](/gratis-scan) aan. Met RijschoolAI richten wij de template en de opvolging eromheen voor je in, afgestemd op jouw pakketten en jouw manier van werken, met onze Groei-of-Geld-Terug Garantie. Jij geeft les, wij regelen de rest.
+Wil je weten waar het in jouw huidige proces precies lekt, van de eerste aanvraag tot de ingeschreven leerling, vraag dan de [gratis ai scan voor rijscholen](/gratis-scan) aan. Jij geeft les, wij regelen de rest.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/leerling-historie-bijhouden-rijschool-crm" class="text-dark fw-semibold">Leerling-historie bijhouden: CRM-setup voor je rijschool</a> →</p></div></div></div>

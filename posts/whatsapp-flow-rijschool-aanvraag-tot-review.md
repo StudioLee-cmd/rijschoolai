@@ -110,4 +110,4 @@ Eén schakel kun je vaak binnen een week live hebben. Een volledige flow bouw je
 
 Je rijschool verliest leerlingen zelden door een slechte les of een te hoge prijs. Je verliest ze in de stilte tussen twee stappen: de aanvraag die blijft liggen, de leerling die stilvalt, de review die nooit gevraagd wordt. Een [chatbot voor rijscholen](/chatbot) die via WhatsApp het hele traject meeloopt, verandert die stiltes in vanzelfsprekende contactmomenten.
 
-Jij geeft les, wij regelen de rest. Wil je zien waar jouw flow nu lekt? Vraag de [gratis ai scan voor rijscholen](/gratis-scan) aan, dan zie je binnen een paar dagen welke overdrachten leerlingen kosten en wat één doorlopende flow je oplevert. Alles wat we bij RijschoolAI bouwen valt onder onze Groei-of-Geld-Terug Garantie, dus het risico ligt bij ons, niet bij jou.
+Jij geeft les, wij regelen de rest. Wil je zien waar jouw flow nu lekt? Vraag de [gratis ai scan voor rijscholen](/gratis-scan) aan, dan zie je binnen een paar dagen welke overdrachten leerlingen kosten en wat één doorlopende flow je oplevert.

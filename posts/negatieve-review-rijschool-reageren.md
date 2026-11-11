@@ -41,4 +41,4 @@ De beste bescherming is een overvloed aan positieve reviews van geslaagde leerli
 
 Positief en negatief. Het versterkt je [vindbaarheid in Google](/seo) en laat toekomstige leerlingen zien dat je betrokken bent.
 
-Wil je weten hoe je online reputatie er nu voor staat? Vraag een [gratis scan](/gratis-scan) aan. Zonder kosten, zonder verplichtingen, en met Groei-of-Geld-Terug Garantie.
+Wil je weten hoe je online reputatie er nu voor staat? Vraag een [gratis scan](/gratis-scan) aan.

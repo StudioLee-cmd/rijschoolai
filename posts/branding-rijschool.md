@@ -87,8 +87,6 @@ Start deze week:
 
 Bij StudioLee bouwen we merken voor rijscholen. Van [klantcommunicatie](/blog/klantcommunicatie-rijschool-leerlingen) tot content die leerlingen aantrekt. Met slechts **15 minuten per maand** aan jouw kant.
 
-De **Groei-of-Geld-Terug Garantie** maakt het risicovloos.
-
 [Vraag een gratis scan aan](/gratis-scan) en ontdek hoe sterk jouw rijschoolmerk al is.
 
 ## Conclusie

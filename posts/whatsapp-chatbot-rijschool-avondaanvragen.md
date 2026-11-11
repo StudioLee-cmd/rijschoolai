@@ -105,4 +105,4 @@ Ja, dat is juist het punt. Een [ai chatbot voor jouw rijschool](/chatbot) die ge
 
 De leerling die om 21:30 appt, is de leerling die volgende maand bij iemand achter het stuur zit. De enige vraag is bij wie. Een [chatbot voor rijscholen](/chatbot) die via WhatsApp werkt, zorgt dat het antwoord standaard "bij jou" is: hij begroet, kwalificeert, plant de proefles in en zet alles klaar in je systeem, elke avond opnieuw.
 
-Jij geeft les, wij regelen de rest. Wil je weten hoeveel avondaanvragen jouw rijschool nu laat liggen? Vraag de [gratis ai scan voor rijscholen](/gratis-scan) aan en je ziet binnen een paar dagen waar je bereikbaarheid lekt en wat automatische opvang je concreet oplevert. Alles wat we bij RijschoolAI bouwen valt bovendien onder onze Groei-of-Geld-Terug Garantie, dus het risico ligt bij ons, niet bij jou.
+Jij geeft les, wij regelen de rest. Wil je weten hoeveel avondaanvragen jouw rijschool nu laat liggen? Vraag de [gratis ai scan voor rijscholen](/gratis-scan) aan en je ziet binnen een paar dagen waar je bereikbaarheid lekt en wat automatische opvang je concreet oplevert.

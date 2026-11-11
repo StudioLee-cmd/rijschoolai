@@ -70,6 +70,6 @@ Het verschil zit niet in de berichten zelf, maar in de betrouwbaarheid. Een syst
 
 Je hoeft dit niet in een keer perfect te maken. Begin met het vastleggen van elke pauzering vanaf nu: reden, positie in het traject en terugkomdatum. Schrijf de drie berichten een keer goed uit in jouw eigen toon. Koppel ze aan de terugkomdatum in plaats van aan een vaste kalenderdag, zodat elke leerling op zijn eigen moment wordt teruggehaald. Vanaf dat punt draait de cyclus vanzelf, ook voor de leerlingen die volgend jaar pauzeren.
 
-Wij richten die hele terughaal-flow voor je in, getraind op jouw traject en jouw manier van communiceren, met onze Groei-of-Geld-Terug Garantie. Benieuwd hoeveel leerlingen jouw rijschool nu stilletjes laat weglopen in de zomer? Vraag de [gratis ai scan voor rijscholen](/gratis-scan) aan en je weet binnen een dag waar je lek zit. Jij geeft les, wij regelen de rest.
+Benieuwd hoeveel leerlingen jouw rijschool nu stilletjes laat weglopen in de zomer? Vraag de [gratis ai scan voor rijscholen](/gratis-scan) aan en je weet binnen een dag waar je lek zit. Jij geeft les, wij regelen de rest.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/rijschool-meerdere-instructeurs-planning-automatiseren" class="text-dark fw-semibold">Rijschool met meerdere instructeurs: planning automatiseren</a> &rarr;</p></div></div></div>

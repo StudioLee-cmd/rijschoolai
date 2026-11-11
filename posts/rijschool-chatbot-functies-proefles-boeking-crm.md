@@ -74,6 +74,6 @@ Terug naar die leerling met alleen theorie. Die laat je ook niet solo de weg op,
 - **Lespakket-route:** twee of drie gerichte vragen, en dan naar het passende pakket in plaats van de prijslijst.
 - **Agenda- en CRM-koppeling:** de afspraak in je werkplanning, de leerling als gevulde klantkaart, en de opvolging automatisch.
 
-Bij RijschoolAI richten we de [ai chatbot voor jouw rijschool](/chatbot) precies zo in: getraind op jouw pakketten, gekoppeld aan jouw agenda, met onze Groei-of-Geld-Terug Garantie. En heb je nog geen site waar zo een [24/7 chatbot voor rijscholen](/chatbot) op kan draaien, dan regelen we die erbij met een [gratis website voor rijscholen](/gratis-website). Jij geeft les, wij regelen de rest.
+En heb je nog geen site waar zo een [24/7 chatbot voor rijscholen](/chatbot) op kan draaien, dan regelen we die erbij met een [gratis website voor rijscholen](/gratis-website). Jij geeft les, wij regelen de rest.
 
 <p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/live-chat-vs-ai-chatbot-rijschool-avondaanvragen" class="text-dark fw-semibold">Live chat of AI chatbot voor je rijschool-website?</a> &rarr;</p>

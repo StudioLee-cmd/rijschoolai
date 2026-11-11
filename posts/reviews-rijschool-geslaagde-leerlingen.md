@@ -59,4 +59,4 @@ Google ziet actieve profielen. Reageren op reviews versterkt je [vindbaarheid in
 
 De volgende keer dat een leerling slaagt: vraag het op de terugrit en stuur dezelfde avond de link. Begin daar. Het kost je 30 seconden en het effect bouwt zich maand na maand op.
 
-Wil je weten hoe je online reputatie er nu voor staat? Vraag een [gratis scan](/gratis-scan) aan. Je krijgt inzicht in je reviews, je vindbaarheid en concrete stappen om meer leerlingen aan te trekken. Zonder kosten, zonder verplichtingen, en met Groei-of-Geld-Terug Garantie.
+Wil je weten hoe je online reputatie er nu voor staat? Vraag een [gratis scan](/gratis-scan) aan. Je krijgt inzicht in je reviews, je vindbaarheid en concrete stappen om meer leerlingen aan te trekken.

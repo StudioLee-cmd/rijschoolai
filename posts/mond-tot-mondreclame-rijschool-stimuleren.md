@@ -94,7 +94,7 @@ Ouders betalen vaak de rijlessen en hebben het grootste netwerk van andere ouder
 
 Het slaagmoment is het krachtigste marketingmoment dat je als rijschool hebt. Door het systematisch in te zetten — met foto's, reviews, doorverwijzingen en social media — bouw je een zelfversterkende aanmeldingsstroom.
 
-Met [RijschoolAI](/) automatiseren we je slaag-flow, reviewverzoeken en doorverwijzingen. Onze managed service kost slechts 15 minuten van je tijd per maand. En met onze Groei-of-Geld-Terug Garantie loop je geen enkel risico.
+Met [RijschoolAI](/) automatiseren we je slaag-flow, reviewverzoeken en doorverwijzingen. Onze managed service kost slechts 15 minuten van je tijd per maand.
 
 Vraag een [gratis scan](/gratis-scan) aan en ontdek hoe je meer leerlingen via aanbevelingen krijgt.
 

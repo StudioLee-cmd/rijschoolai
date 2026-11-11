@@ -93,7 +93,6 @@ Bij RijschoolAI helpen we rijscholen hun cijfers en trust-signalen eerlijk en pr
 - Een [gratis website voor rijscholen](/gratis-website) met een trust-sectie waarin eerste-keer- en totaal-cijfers, context en reviews standaard samenkomen
 - Een [reviews-flow voor rijscholen](/reviews) die je naar tientallen verse reviews brengt als alternatief bewijs
 - Een [seo voor rijscholen](/seo)-traject zodat je slagingspercentage-pagina gevonden wordt in jouw stad
-- Een Groei-of-Geld-Terug Garantie op het complete pakket
 
 [Plan een gratis website scan voor rijscholen](/gratis-scan) of bekijk onze [tarieven RijschoolAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).
 

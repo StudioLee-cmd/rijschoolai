@@ -64,7 +64,7 @@ Wat wél telt is de kwaliteit van je antwoorden. Een korte, duidelijke lijst met
 
 De grootste denkfout is dat je een chatbot één keer instelt en er dan klaar mee bent. Je rijschool verandert. Je prijzen gaan omhoog, je wachttijd loopt op in het voorjaar, je voegt een spoedcursus toe. Een bot die niet meebeweegt, veroudert net zo snel als een prijslijst uit 2023 op je deur. De vier bronnen hierboven zijn daarom geen checklist die je afvinkt, maar een cyclus die je elke paar weken kort langsloopt.
 
-Dat klinkt als werk, en dat is precies waarom wij het bij RijschoolAI voor je doen. We trainen je [ai chatbot voor jouw rijschool](/chatbot) op je eigen pakketten, prijzen en voorwaarden, en houden hem actueel, met onze Groei-of-Geld-Terug Garantie. Jij hoeft geen data-expert te worden, jij levert de kennis die al in je hoofd zit en wij zetten hem om in een bot die klinkt zoals jij.
+Dat klinkt als werk, en dat is precies waarom wij het bij RijschoolAI voor je doen. Jij hoeft geen data-expert te worden, jij levert de kennis die al in je hoofd zit en wij zetten hem om in een bot die klinkt zoals jij.
 
 Benieuwd welke vragen jouw website nu onbeantwoord laat liggen? Vraag de [gratis ai scan voor rijscholen](/gratis-scan) aan en je weet binnen een dag waar je leerlingen op afhaken. Jij geeft les, wij regelen de rest.
 

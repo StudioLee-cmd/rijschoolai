@@ -100,6 +100,6 @@ Reken even mee met een voorzichtig voorbeeld. Stel dat je 60 leerlingen per jaar
 
 Let nog op één ding. De mail moet ergens landen. Stuur je iemand naar een homepage waar alleen over B-lessen wordt gesproken, dan valt je hele flow stil op de laatste stap. Eén pagina per categorie, met de prijs, de duur en een aanmeldknop, is genoeg.
 
-Doe je dit goed, dan komt die leerling van het roze papiertje over een paar jaar gewoon terug, en heb je er geen belletje voor hoeven plegen. Heb je die categorie-pagina nog niet, dan bouwen wij hem. Vraag een [gratis website voor rijscholen](/gratis-website) aan en RijschoolAI zet de pagina en de flow eromheen voor je klaar, afgestemd op jouw categorieën en jouw tarieven, met onze Groei-of-Geld-Terug Garantie. Jij geeft les, wij regelen de rest.
+Doe je dit goed, dan komt die leerling van het roze papiertje over een paar jaar gewoon terug, en heb je er geen belletje voor hoeven plegen. Heb je die categorie-pagina nog niet, dan bouwen wij hem. Jij geeft les, wij regelen de rest.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/lespakket-offerte-template-rijschool" class="text-dark fw-semibold">Lespakket-offerte template rijschool: 7 vaste onderdelen</a> →</p></div></div></div>

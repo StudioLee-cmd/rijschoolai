@@ -116,6 +116,5 @@ Bij RijschoolAI helpen we rijscholen hun trust-signalen professioneel inrichten 
 - Een [reviews-flow voor rijscholen](/reviews) die je gemiddeld naar 4,7+ score met 50+ reviews brengt
 - Een [chatbot voor rijscholen](/chatbot) die WRM-vragen en slagingspercentage-vragen 24/7 beantwoordt
 - Een [crm voor rijscholen](/crm) met automatische kwartaal-reminders voor cijfers-update
-- Een Groei-of-Geld-Terug Garantie op het complete pakket
 
 [Plan een gratis AI-scan voor rijscholen](/gratis-scan) of bekijk onze [tarieven RijschoolAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).

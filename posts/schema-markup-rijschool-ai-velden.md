@@ -93,4 +93,4 @@ Google verwerkt nieuwe markup meestal binnen enkele weken na de eerstvolgende cr
 
 Terug naar die 17-jarige met zijn telefoon. Volgende maand stelt hij die vraag opnieuw, en het antwoord wordt weer gebouwd uit de rijscholen die machines kunnen uitlezen. Het L-bord hangt op je lesauto omdat je wilt dat iedereen in één blik snapt wat je bent. Hang datzelfde bord op je website.
 
-Je hoeft hier zelf geen techneut voor te worden. Bij RijschoolAI zetten we schema markup, reviews en vindbaarheid als één systeem neer, met een Groei-of-Geld-Terug Garantie, zodat jij gewoon lesgeeft terwijl je rijschool ook in AI-antwoorden verschijnt. Benieuwd wat machines nu van jouw site kunnen lezen? Vraag de [gratis ai scan voor rijscholen](/gratis-scan) aan en je ziet binnen een dag waar je staat.
+Je hoeft hier zelf geen techneut voor te worden. Benieuwd wat machines nu van jouw site kunnen lezen? Vraag de [gratis ai scan voor rijscholen](/gratis-scan) aan en je ziet binnen een dag waar je staat.

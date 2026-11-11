@@ -124,4 +124,4 @@ Dan batch je je content of besteed je het uit. Twee uur per maand is genoeg om a
 
 De grootste reden dat rijscholen onzichtbaar blijven op [social media](/blog/social-media-voor-instructeurs) is niet gebrek aan ideeën, maar gebrek aan een plan. Dat plan heb je nu. Sla deze kalender op, maak een foto van je eerstvolgende geslaagde leerling en post hem vanavond nog met je locatie-tag. Dat is dag 1.
 
-Wil je weten waar voor jouw rijschool de meeste winst zit in social media, vindbaarheid en reviews? Vraag een vrijblijvende [gratis scan](/gratis-scan) aan. We laten precies zien wat er beter kan, met onze Groei-of-Geld-Terug Garantie. Meer leerlingen, minder gedoe.
+Wil je weten waar voor jouw rijschool de meeste winst zit in social media, vindbaarheid en reviews? Vraag een vrijblijvende [gratis scan](/gratis-scan) aan. Meer leerlingen, minder gedoe.

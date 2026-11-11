@@ -101,4 +101,4 @@ Behandel je telefoon net zo. Niet hoeveel oproepen er zijn opgenomen, maar hoeve
 
 Jij geeft les, wij regelen de rest. Maar dan wel meetbaar.
 
-Wil je weten waar in jouw huidige opzet de gesprekken weglekken? Vraag een [gratis ai scan voor rijscholen](/gratis-scan) aan. We kijken mee naar je bereikbaarheid, je opvolging en je conversie, en je krijgt de vier cijfers op een rij zonder dat je zelf een week hoeft te turven. Alles wat we bouwen valt onder onze Groei-of-Geld-Terug Garantie, dus je weet vooraf waar je aan toe bent.
+Wil je weten waar in jouw huidige opzet de gesprekken weglekken? Vraag een [gratis ai scan voor rijscholen](/gratis-scan) aan. We kijken mee naar je bereikbaarheid, je opvolging en je conversie, en je krijgt de vier cijfers op een rij zonder dat je zelf een week hoeft te turven.
