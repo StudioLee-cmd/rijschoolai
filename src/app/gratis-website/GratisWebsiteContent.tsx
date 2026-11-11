@@ -70,12 +70,12 @@ export default function GratisWebsiteContent({ looks }: { looks: FunnelLook[] })
     }
     setBusy(true);
 
+    // Het voorbeeld-adres draagt alleen bedrijfsnaam, plaats en domein: nooit e-mail of telefoon.
+    // Die gaan alleen in de POST hieronder, niet in een URL (browsergeschiedenis, logs, referrers).
     const prospect: Prospect = {
       naam: form.bedrijf,
       plaats: form.plaats,
-      telefoon: form.telefoon || undefined,
       domein: form.domein || undefined,
-      email: form.email,
       b: siteDetails.siteUrl.replace(/\/$/, ""),
     };
     const url = previewUrl(look, prospect);
