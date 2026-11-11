@@ -15,7 +15,7 @@ export const faqs: IFAQ[] = [
     },
     {
         question: "Werkt dit samen met mijn huidige planningssoftware?",
-        answer: "Ja, wij koppelen met systemen zoals PlanGo, Dribe, Rijschoolsoftware en anderen. Zo worden nieuwe aanmeldingen direct goed gezet zonder dat jij iets hoeft over te typen.",
+        answer: "Proeflessen komen direct in je agenda (Google of Outlook). Je rijschoolsoftware blijft je planning: aanvragen zetten we er via een export of het eigen aanmeldformulier in. Je boekhouding (e-Boekhouden, Moneybird, Exact Online) koppelen we automatisch.",
     },
     {
         question: "Wat als de AI het antwoord niet weet?",
