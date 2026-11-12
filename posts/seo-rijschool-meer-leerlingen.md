@@ -2,6 +2,7 @@
 title: "SEO en online marketing voor rijscholen: meer leerlingen"
 excerpt: "Online marketing voor je rijschool begint in Google: zo kom je bovenaan in je eigen stad en trek je meer leerlingen aan. Praktische SEO-tips voor rijscholen."
 date: "2026-04-04"
+updated: "2026-11-12"
 cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/seo-rijschool-meer-leerlingen.jpg"
