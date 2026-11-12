@@ -2,6 +2,7 @@
 title: "Rijschool beginnen in 2026: kosten, WRM-eisen en systemen"
 slug: "rijschool-beginnen-2026-kosten-wrm-systemen"
 date: "2026-07-16"
+updated: "2026-11-12"
 excerpt: "Een rijschool beginnen in 2026? Dit kost het, dit zegt de WRM en dit zijn de systemen die je agenda vanaf dag 1 vullen. Compleet startplan."
 image: "/images/blog/rijschool-beginnen-2026-kosten-wrm-systemen.jpg"
 authorSlug: "tim-van-der-lee"
@@ -101,6 +102,8 @@ Er is geen vast bedrag, want je keuzes bepalen alles: koop je een nieuwe auto of
 | Website en systemen | vanaf €0 met een gratis starterspakket |
 
 De opleiding en de lesauto zijn je grootste posten. De systemen die je agenda vullen, zijn juist de goedkoopste stap: een compleet AI-platform voor je rijschool begint al bij zo'n €79 per maand, en je website kun je vaak gratis laten bouwen. Wil je precies weten wat de tools voor jouw situatie kosten, bekijk dan [wat AI voor rijscholen kost](/tarieven). Zet het af tegen die franchise-entreefee van €15.000 en het rekensommetje maakt zichzelf.
+
+**Nog geen website?** Laat dan eerst je [gratis website-ontwerp](/gratis-website) maken. Je vult de naam van je rijschool, je plaats en je e-mailadres in en ziet het ontwerp meteen. Een domeinnaam of een bestaande site heb je daarvoor niet nodig, en het bestand is van jou.
 
 ## Je eerste weken: van inschrijving naar eerste leerlingen
 
