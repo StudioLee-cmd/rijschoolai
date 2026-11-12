@@ -1,6 +1,6 @@
 ---
-title: "SEO voor rijscholen: meer leerlingen via Google"
-excerpt: "Ontdek hoe je als rijschool bovenaan komt in Google en meer leerlingen aantrekt. Praktische SEO-tips specifiek voor de rijschoolbranche."
+title: "SEO en online marketing voor rijscholen: meer leerlingen"
+excerpt: "Online marketing voor je rijschool begint in Google: zo kom je bovenaan in je eigen stad en trek je meer leerlingen aan. Praktische SEO-tips voor rijscholen."
 date: "2026-04-04"
 cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
@@ -12,6 +12,8 @@ tags: ["Vindbaarheid"]
 De zoektocht naar een rijschool begint bijna altijd online. Jongeren (en hun ouders) zoeken op Google naar 'rijschool [stad]', 'goedkope rijlessen [regio]' of 'rijschool hoog slagingspercentage'. Wie bovenaan staat, krijgt de eerste telefoontjes en WhatsApp-berichten.
 
 Het maakt niet uit hoeveel ervaring je hebt of hoe hoog je slagingspercentage is — als je onzichtbaar bent op Google, bestaan die resultaten niet voor nieuwe leerlingen.
+
+Online marketing voor rijscholen begint daarom bij gevonden worden: je Google Bedrijfsprofiel, je website en je reviews. Advertenties en social media versterken dat, maar vervangen het niet. Hieronder lees je per onderdeel wat je als rijschool zelf regelt.
 
 ## Google Bedrijfsprofiel optimaliseren als rijschool
 
