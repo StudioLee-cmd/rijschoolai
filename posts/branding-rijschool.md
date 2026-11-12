@@ -5,7 +5,7 @@ excerpt: "Een sterk merk als rijschool trekt meer leerlingen aan en maakt je min
 date: "2026-03-24"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/branding-rijschool.png"
-tags: ["Branding"]
+tags: ["Branding", "Merkopbouw"]
 cluster: "branding"
 ---
 

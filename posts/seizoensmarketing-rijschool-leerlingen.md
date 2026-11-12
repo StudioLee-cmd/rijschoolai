@@ -7,7 +7,7 @@ excerpt: "De aanwas van rijschoolleerlingen verschilt per seizoen. Ontdek hoe je
 image: "/images/blog/seizoensmarketing-rijschool-leerlingen.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
-tags: ["Leerlingen", "Automatisering"]
+tags: ["Seizoenswerk", "Leerlingen"]
 cluster: "automatisering"
 ---
 

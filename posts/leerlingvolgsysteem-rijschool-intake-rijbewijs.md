@@ -5,7 +5,7 @@ date: "2026-04-26"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leerlingvolgsysteem-rijschool-intake-rijbewijs.jpg"
 cluster: "automatisering"
-tags: ["CRM", "Automatisering"]
+tags: ["CRM", "Leerlingvolgsysteem"]
 ---
 Een rijschoolhouder met 60 actieve leerlingen wordt op een dinsdagmorgen gebeld door een ouder. "Hoe gaat het met onze zoon? Hij is al 8 maanden bezig en doet morgen zijn derde theorie-examen." De rijschoolhouder klikt door zijn losse Excel, vindt twee tabbladen, kan niet zien hoeveel praktijklessen de zoon al heeft gehad, weet niet of de eerste theorie-uitslag positief was. Vijf minuten zoekwerk later kan hij vaag iets zeggen. De ouder voelt zich niet serieus genomen. Een week later kiest het gezin voor een andere rijschool met een leerlingen-portal.
 

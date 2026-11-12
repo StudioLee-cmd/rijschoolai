@@ -6,7 +6,7 @@ date: "2026-04-25"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/gezakte-leerlingen-behouden-rijschool-switching-voorkomen.jpg"
-tags: ["Automatisering", "Leerlingen"]
+tags: ["Klanttevredenheid", "Examen"]
 ---
 Een leerling rijdt het examen, hoort van de examinator dat hij is gezakt, loopt terug naar de wachtende ouder of naar zijn eigen auto, opent zijn telefoon, en doet binnen 90 minuten één van twee dingen: hij stuurt jou een berichtje dat hij thuis even moet bijkomen — of hij Googlet "rijschool [stad]" en begint te lezen. Welk van die twee scenario's plaatsvindt, hangt af van wat er in de afgelopen 90 minuten op zijn telefoon is verschenen. Als jij hem hebt gebeld of geappt voordat hij Google opende, blijft hij bij jou. Als je tot morgen wacht, moet je wedden tegen de eerste vijf concurrent-rijscholen die boven je staan in de lokale SERP.
 

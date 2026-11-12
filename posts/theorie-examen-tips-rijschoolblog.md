@@ -5,7 +5,7 @@ excerpt: "Leer hoe je als rijschool met theorie-examen content meer leerlingen a
 date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/theorie-examen-tips-rijschoolblog.png"
-tags: ["Vindbaarheid", "Website"]
+tags: ["Theorie", "Content"]
 cluster: "website"
 ---
 

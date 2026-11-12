@@ -5,7 +5,7 @@ date: "2026-07-07"
 excerpt: "Een NFC-reviewkaart belooft moeiteloos meer Google reviews voor je rijschool. Ontdek wanneer het kaartje echt werkt en waar het als rijinstructeur vastloopt."
 image: "/images/blog/nfc-reviewkaart-rijschool.jpg"
 authorSlug: tim-van-der-lee
-tags: ["Reviews"]
+tags: ["Reviews", "NFC"]
 cluster: reviews
 ---
 

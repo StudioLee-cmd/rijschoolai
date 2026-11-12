@@ -7,7 +7,7 @@ excerpt: "Geslaagde leerlingen zijn je beste ambassadeurs. Met slimme email mark
 image: "/images/blog/email-marketing-rijschool-leerlingen.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
-tags: ["Marketing", "Automatisering"]
+tags: ["Email marketing"]
 cluster: "automatisering"
 ---
 

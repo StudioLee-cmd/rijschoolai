@@ -5,7 +5,7 @@ date: "2026-06-29"
 excerpt: "Nooit meer piekeren over wat je moet posten. Met deze kant-en-klare 30-dagen Instagram contentkalender voor je rijschool staat een maand content klaar."
 image: "/images/blog/instagram-contentkalender-rijschool.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Social Media", "Instagram"]
+tags: ["Instagram", "Contentkalender"]
 cluster: "social-media"
 ---
 Het is zondagavond. Je weet dat je deze week iets op Instagram moet posten, want de vorige post is alweer twaalf dagen oud. Je opent de app, tikt op het plusje en dan staar je naar een leeg scherm. Wat post ik vandaag eigenlijk? Vijf minuten later leg je je telefoon weg en denk je: volgende week wel.

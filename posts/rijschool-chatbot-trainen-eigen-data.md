@@ -5,7 +5,7 @@ date: "2026-07-17"
 excerpt: "Een chatbot is zo goed als de rijschool-data die je hem voert. Zo train je je chatbot op je eigen FAQ, pakketten en prijzen in vier concrete stappen."
 image: "/images/blog/rijschool-chatbot-trainen-eigen-data.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Chatbot", "AI"]
+tags: ["AI trainen", "Klantvragen"]
 cluster: "chatbot"
 ---
 

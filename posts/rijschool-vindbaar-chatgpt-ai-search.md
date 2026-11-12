@@ -4,7 +4,7 @@ excerpt: "Zo wordt jouw rijschool genoemd door ChatGPT, Perplexity en Google AI 
 date: "2026-04-29"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/rijschool-vindbaar-chatgpt-ai-search.jpg"
-tags: ["Vindbaarheid", "AI Search", "AI"]
+tags: ["AI Search", "ChatGPT"]
 cluster: "vindbaarheid"
 ---
 

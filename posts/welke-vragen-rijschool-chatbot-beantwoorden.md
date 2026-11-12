@@ -5,7 +5,7 @@ date: "2026-06-23"
 excerpt: "Een chatbot is zo goed als de vragen die hij afhandelt. Dit zijn de vragen die je rijschool-chatbot moet kunnen beantwoorden, plus hoe je dat inricht."
 image: "/images/blog/welke-vragen-rijschool-chatbot-beantwoorden.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Chatbot", "Leadopvolging", "AI"]
+tags: ["Chatbot", "Leadopvolging"]
 cluster: "chatbot"
 ---
 

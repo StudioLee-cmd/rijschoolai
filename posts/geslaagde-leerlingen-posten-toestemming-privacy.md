@@ -5,7 +5,7 @@ date: "2026-11-12"
 excerpt: "Geslaagde leerlingen posten met toestemming: wat je als rijschool vraagt, per plek vastlegt en doet als een oud-leerling de foto later weg wil."
 image: "/images/blog/geslaagde-leerlingen-posten-toestemming-privacy.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Social Media", "Leerlingen"]
+tags: ["Social Media", "Privacy"]
 cluster: "social-media"
 ---
 

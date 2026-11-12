@@ -6,7 +6,7 @@ date: "2026-04-06"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/rijschool-automatiseren-administratie.jpg"
-tags: ["Automatisering"]
+tags: ["Administratie"]
 ---
 ## Rijles geven is je vak, administratie niet
 

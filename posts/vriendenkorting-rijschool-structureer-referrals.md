@@ -5,7 +5,7 @@ date: "2026-05-18"
 excerpt: "Een gestructureerd vriendenkorting-programma maakt mond-tot-mondreclame voorspelbaar. Concrete kortingsstructuur, tracking en redemption-flow."
 image: "/images/blog/vriendenkorting-rijschool-structureer-referrals.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Mond-tot-mond", "Branding"]
+tags: ["Mond-tot-mond", "Referrals"]
 cluster: "branding"
 ---
 

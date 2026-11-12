@@ -5,7 +5,7 @@ excerpt: "De meeste rijscholen verliezen 50 tot 70 procent van hun proefles-aanv
 date: "2026-04-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/proefles-conversie-rijschool.jpg"
-tags: ["Proefles", "Conversie", "Website"]
+tags: ["Proefles", "Inschrijving"]
 cluster: "website"
 ---
 

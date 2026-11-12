@@ -5,7 +5,7 @@ excerpt: "Google alleen is niet genoeg. Ontdek welke leadkanalen rijscholen over
 date: "2026-03-24"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leadgeneratie-rijschool.png"
-tags: ["Leads", "Leerlingen", "Groei"]
+tags: ["Leads", "Leerlingen"]
 cluster: "automatisering"
 ---
 De meeste rijscholen [vertrouwen](/reviews) op twee kanalen voor nieuwe leerlingen: Google en mond-tot-mondreclame. Beiden werken — maar als je alleen daarop leunt, ben je kwetsbaar. Een algoritmewijziging, een concurrent met meer reviews, of een rustige zomer kunnen je inschrijvingen flink laten dalen.

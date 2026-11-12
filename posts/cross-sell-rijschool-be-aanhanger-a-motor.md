@@ -5,7 +5,7 @@ date: "2026-08-01"
 excerpt: "Je geslaagde leerlingen zijn de warmste leads die je hebt. Zo bied je BE of A aan met een mailflow die op het juiste moment vanzelf vertrekt."
 image: "/images/blog/cross-sell-rijschool-be-aanhanger-a-motor.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Automatisering", "CRM"]
+tags: ["CRM", "Leerlingbinding"]
 cluster: "automatisering"
 ---
 

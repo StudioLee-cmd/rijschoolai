@@ -5,7 +5,7 @@ date: "2026-04-11"
 cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reviews-rijschool-geslaagde-leerlingen.jpg"
-tags: ["Reviews", "Leerlingen", "Groei"]
+tags: ["Reviews", "Leerlingen"]
 ---
 ## Het krachtigste reviewmoment in de rijschoolbranche
 

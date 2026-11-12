@@ -5,7 +5,7 @@ excerpt: "Het moment dat een leerling slaagt is je krachtigste marketingmoment. 
 date: "2026-03-11"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/mond-tot-mondreclame-rijschool-stimuleren.png"
-tags: ["Mond-tot-mond", "Marketing"]
+tags: ["Mond-tot-mond"]
 cluster: "branding"
 ---
 ## Het slaagmoment: je beste marketingtool

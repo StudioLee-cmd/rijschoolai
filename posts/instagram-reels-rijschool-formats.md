@@ -5,7 +5,7 @@ date: "2026-07-10"
 excerpt: "Instagram Reels geven rijscholen gratis bereik bij leerlingen en ouders. Deze 5 formats film je gewoon tijdens je lesdag, zonder montage-ervaring."
 image: "/images/blog/instagram-reels-rijschool-formats.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Instagram", "Social Media"]
+tags: ["Instagram", "Leerlingwerving"]
 cluster: "social-media"
 ---
 

@@ -5,7 +5,7 @@ date: "2026-07-15"
 excerpt: "Een gezakte leerling geeft je rijschool een slechte review en noemt je instructeur. Zo reageer je met AI kalm en professioneel, zonder excuses."
 image: "/images/blog/negatieve-review-rijschool-ai-antwoord.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Reviews", "Reputatie", "AI"]
+tags: ["Reviews", "Reputatie"]
 cluster: "reviews"
 ---
 

@@ -4,7 +4,7 @@ excerpt: "Welke software past bij jouw rijschool? Een eerlijke vergelijking van 
 date: "2026-03-07"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/beste-rijschoolsoftware-2026.png"
-tags: ["Software", "Tools"]
+tags: ["Software", "Vergelijking"]
 cluster: "automatisering"
 ---
 Als rijschoolhouder of rijinstructeur draai je lange dagen achter het stuur. Tussen de lessen door moet je ook nog leerlingen plannen, factureren en nieuwe aanmeldingen binnenhalen. Welke software helpt jouw rijschool het meest in 2026?

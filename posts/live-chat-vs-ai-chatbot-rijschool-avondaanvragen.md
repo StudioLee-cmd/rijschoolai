@@ -5,7 +5,7 @@ date: "2026-07-03"
 excerpt: "Avondaanvragen komen binnen als jouw lesdag erop zit. Live chat of een AI chatbot op je rijschool-website: zo kies je wat past bij jouw rijschool."
 image: "/images/blog/live-chat-vs-ai-chatbot-rijschool-avondaanvragen.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Chatbot", "Leadopvolging"]
+tags: ["Live chat", "Leadopvolging"]
 cluster: "chatbot"
 ---
 

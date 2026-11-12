@@ -5,7 +5,7 @@ date: "2026-06-30"
 excerpt: "Ligt je slagingspercentage onder het landelijk gemiddelde? Zo bepaal je of je het toont en hoe je het eerlijk framet op je rijschool-website."
 image: "/images/blog/slagingspercentage-onder-gemiddeld-rijschool.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Slagingspercentage"]
+tags: ["Trust-signalen", "Conversie"]
 cluster: "website"
 ---
 

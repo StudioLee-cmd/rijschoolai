@@ -5,7 +5,7 @@ excerpt: "Leerlingen vragen ChatGPT om een rijschool in hun stad. Met deze 3 sch
 date: "2026-07-21"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/schema-markup-rijschool-ai-velden.jpg"
-tags: ["Vindbaarheid", "AI Search", "AI"]
+tags: ["Schema Markup", "AI Search"]
 cluster: "vindbaarheid"
 ---
 

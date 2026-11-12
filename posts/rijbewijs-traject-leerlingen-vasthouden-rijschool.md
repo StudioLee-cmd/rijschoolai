@@ -5,7 +5,7 @@ date: "2026-04-21"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/rijbewijs-traject-leerlingen-vasthouden-rijschool.jpg"
-tags: ["Klantreis", "Leerlingen"]
+tags: ["Leerlingenbehoud"]
 ---
 De meeste rijscholen kijken naar groei vanuit één kant: meer nieuwe leerlingen binnenhalen. Dat is begrijpelijk maar economisch onjuist. Het duurste wat je doet is niet een lege stoel in je auto — het is een leerling die halverwege het traject uitvalt, waar je al zes tot acht weken in geïnvesteerd hebt. Een leerling die op de derde les afhaakt kost je in potentie €1.200 tot €1.800 aan gemiste omzet, plus de tijd die je aan lesplanning, begeleiding en administratie hebt besteed.
 

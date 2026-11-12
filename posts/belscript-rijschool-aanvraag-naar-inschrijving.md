@@ -6,7 +6,7 @@ date: "2026-04-16"
 cluster: "voice-ai"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/belscript-rijschool-aanvraag-naar-inschrijving.jpg"
-tags: ["Leadopvolging", "Voice AI"]
+tags: ["Belscript", "Leadopvolging"]
 ---
 ## Waarom dat eerste telefoontje alles bepaalt
 

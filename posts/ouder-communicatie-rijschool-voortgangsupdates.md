@@ -5,7 +5,7 @@ date: "2026-05-16"
 excerpt: "Ouders van 17 tot 20-jarige leerlingen beslissen 60 tot 75 procent van rijschool-keuzes mee. Update-flow + WhatsApp-templates die ouders binden in 2026."
 image: "/images/blog/ouder-communicatie-rijschool-voortgangsupdates.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Klantcommunicatie"]
+tags: ["Ouders", "17-jarige", "WhatsApp"]
 cluster: "automatisering"
 ---
 

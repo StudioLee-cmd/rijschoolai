@@ -5,7 +5,7 @@ date: "2026-04-12"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leerling-komt-niet-opdagen-rijles.jpg"
-tags: ["No-shows", "Leerlingen", "Groei"]
+tags: ["No-shows", "Leerlingen"]
 ---
 ## Lesuitval raakt je harder dan je denkt
 

@@ -5,7 +5,7 @@ date: "2026-04-05"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leads-opvolgen-rijschool.jpg"
-tags: ["Leads", "Automatisering"]
+tags: ["Leads", "Verkoop"]
 ---
 ## De aanvraag die je nooit beantwoordde
 

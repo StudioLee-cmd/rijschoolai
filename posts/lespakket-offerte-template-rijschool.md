@@ -5,7 +5,7 @@ date: "2026-07-27"
 excerpt: "Een lespakket-offerte die blijft liggen kost je een leerling. Dit zijn de 7 vaste onderdelen die er een ja van maken, plus het opvolgschema."
 image: "/images/blog/lespakket-offerte-template-rijschool.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Automatisering"]
+tags: ["Offertes", "Leerlingbinding"]
 cluster: "automatisering"
 ---
 

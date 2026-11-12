@@ -5,7 +5,7 @@ date: "2026-06-21"
 excerpt: "Groei je van solo naar meerdere instructeurs, dan wordt planning een toewijzingspuzzel. Zo verdeel je lessen, voertuigen en routes zonder dubbele boekingen."
 image: "/images/blog/rijschool-meerdere-instructeurs-planning-automatiseren.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Automatisering", "Planning"]
+tags: ["Planning", "Instructeurs"]
 cluster: "automatisering"
 ---
 

@@ -4,7 +4,7 @@ excerpt: "Leer hoe je als rijschool beter gevonden wordt op Google en meer leerl
 date: "2026-03-30"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/vindbaarheid-rijschool-meer-leerlingen.jpg"
-tags: ["Vindbaarheid", "Groei"]
+tags: ["Vindbaarheid"]
 cluster: "vindbaarheid"
 ---
 ## Waarom Google je belangrijkste bron van nieuwe leerlingen is

@@ -5,7 +5,7 @@ date: "2026-04-19"
 cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/rijschool-reviews-verzamelen-na-examen.jpg"
-tags: ["Reviews", "Groei"]
+tags: ["Reviews"]
 ---
 ## Het perfecte moment voor een review
 
