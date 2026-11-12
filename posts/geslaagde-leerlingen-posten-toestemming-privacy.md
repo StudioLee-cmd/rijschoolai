@@ -45,8 +45,6 @@ Onder de 16 jaar geeft een ouder of voogd toestemming. Autorijles mag vanaf 16,5
 
 ## Toestemming vragen zonder het moment te verpesten
 
-![Toestemming vragen zonder het moment te verpesten](/images/blog/geslaagde-leerlingen-posten-toestemming-privacy-2.jpg)
-
 Niemand wil vlak na het examen een formulier invullen. De oplossing is simpel: je vraagt het 2 keer, en de eerste keer al maanden van tevoren.
 
 ### Bij de intake: de eerste vraag, zonder druk
@@ -96,6 +94,8 @@ Heeft de leerling de foto zelf gepost en jou getagd? Dan ligt delen in je Storie
 Bewaar ook niet alles voor altijd. Persoonsgegevens mag je niet langer bewaren dan nodig is. Foto's die je niet meer gebruikt, gooi je weg, en het bewijs van toestemming houd je zolang de foto online staat.
 
 ## Gezichten, kentekens en achtergronden
+
+![Gezichten, kentekens en achtergronden](/images/blog/geslaagde-leerlingen-posten-toestemming-privacy-2.jpg)
 
 Een foto kan meer verraden dan je op het eerste gezicht ziet. Kijk voordat je plaatst altijd nog 1 keer naar het hele beeld, ook als de leerling ja heeft gezegd.
 
