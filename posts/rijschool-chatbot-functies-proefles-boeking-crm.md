@@ -5,7 +5,7 @@ date: "2026-07-13"
 excerpt: "Een rijschool-chatbot die alleen vragen beantwoordt laat leerlingen weglekken. Deze 3 acties moet hij kunnen: boeken, routeren en koppelen."
 image: "/images/blog/rijschool-chatbot-functies-proefles-boeking-crm.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Chatbot", "Proefles", "Automatisering"]
+tags: ["Chatbot", "Proefles"]
 cluster: "chatbot"
 ---
 

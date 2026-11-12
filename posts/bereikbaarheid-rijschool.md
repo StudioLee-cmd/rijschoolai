@@ -5,7 +5,7 @@ excerpt: "Leerlingen kiezen de rijschool die het snelst reageert. Leer hoe je al
 date: "2026-03-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/bereikbaarheid-rijschool.png"
-tags: ["bereikbaarheid", "rijschool", "klantenservice"]
+tags: ["Bereikbaarheid", "Voice AI"]
 cluster: "voice-ai"
 ---
 Een leerling die besluit om te gaan rijden, belt of appt de eerste drie rijscholen die ze vinden. De rijschool die het snelst reageert, wint de leerling. Bereikbaarheid is geen bijzaak — het is je eerste kans om indruk te maken.

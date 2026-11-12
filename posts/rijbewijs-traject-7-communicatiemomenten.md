@@ -5,7 +5,7 @@ excerpt: "Leerlingen haken het vaakst af tussen de 10e en 20e les, niet aan het 
 date: "2026-04-23"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/rijbewijs-traject-7-communicatiemomenten.jpg"
-tags: ["Rijbewijs", "Communicatie", "Rijschool"]
+tags: ["Klantcommunicatie"]
 cluster: "automatisering"
 ---
 Elke rijschool herkent het: een leerling begint enthousiast, boekt 5 lessen, raakt onzeker na een tegenvallende proefles, en verdwijnt 3 weken in de radio-stilte. Tegen de tijd dat je ze belt zijn ze al elders verder of helemaal gestopt. Op een rijschool van 60 leerlingen gebeurt dit 10-15 keer per jaar. Puur omzetverlies.

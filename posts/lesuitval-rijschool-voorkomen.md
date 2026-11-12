@@ -5,7 +5,7 @@ date: "2026-04-03"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/lesuitval-rijschool-voorkomen.jpg"
-tags: ["No-shows", "Rijschool", "Planning", "Lesuitval"]
+tags: ["No-shows", "Planning"]
 ---
 ## Wat lesuitval je rijschool kost
 

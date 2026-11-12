@@ -5,7 +5,7 @@ date: "2026-07-09"
 excerpt: "In de zomer pauzeren leerlingen hun rijlessen en veel keren nooit terug. Zo haal je met een automatische cyclus je zomer-leerlingen in september weer binnen."
 image: "/images/blog/vakantiestop-rijschool-leerlingen-terughalen.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Automatisering", "Leerlingbinding", "WhatsApp"]
+tags: ["Automatisering", "WhatsApp"]
 cluster: "automatisering"
 ---
 

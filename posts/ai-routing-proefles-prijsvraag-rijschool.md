@@ -5,7 +5,7 @@ date: "2026-07-08"
 excerpt: "Niet elke beller wordt leerling. Zo herkent je rijschool een serieuze proefles-aanvraag en routeert een AI-telefonist de prijsvragen automatisch."
 image: "/images/blog/ai-routing-proefles-prijsvraag-rijschool.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Voice AI", "AI telefonist", "Leadopvolging", "Rijschool"]
+tags: ["Voice AI", "Leadopvolging"]
 cluster: "voice-ai"
 ---
 

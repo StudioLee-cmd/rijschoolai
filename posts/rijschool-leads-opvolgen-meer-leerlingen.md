@@ -5,7 +5,7 @@ date: "2026-04-07"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/rijschool-leads-opvolgen-meer-leerlingen.jpg"
-tags: ["Leads", "Rijschool", "Leerlingen"]
+tags: ["Leads", "Leerlingen"]
 ---
 ## De leerling die je nooit hebt gehad
 

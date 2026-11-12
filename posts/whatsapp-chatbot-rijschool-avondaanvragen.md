@@ -5,7 +5,7 @@ date: "2026-06-12"
 excerpt: "Avondaanvragen van leerlingen komen binnen als jouw lesdag erop zit. Zo vangt een WhatsApp chatbot ze automatisch op en mist je rijschool geen proefles."
 image: "/images/blog/whatsapp-chatbot-rijschool-avondaanvragen.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["WhatsApp", "Chatbot", "Leadopvolging"]
+tags: ["WhatsApp", "Chatbot"]
 cluster: "chatbot"
 ---
 

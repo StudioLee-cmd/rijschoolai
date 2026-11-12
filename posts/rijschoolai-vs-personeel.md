@@ -4,7 +4,7 @@ excerpt: "Waarom zou je €3000 per maand betalen aan kantoorpersoneel als AI he
 date: "2026-01-25"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/rijschoolai-vs-personeel.png"
-tags: ["Kostenbesparing", "Strategie", "Ondernemen"]
+tags: ["Strategie", "Kosten"]
 cluster: "automatisering"
 ---
 

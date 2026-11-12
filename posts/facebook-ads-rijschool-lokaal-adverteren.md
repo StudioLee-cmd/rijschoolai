@@ -5,7 +5,7 @@ date: "2026-07-29"
 excerpt: "Op Google bied je tegen elke rijschool in je stad. Op Facebook koop je aandacht in een straal van 20 kilometer. Zo zet je die campagne op."
 image: "/images/blog/facebook-ads-rijschool-lokaal-adverteren.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Facebook Ads", "Social Media", "Leerlingwerving"]
+tags: ["Social Media"]
 cluster: "social-media"
 ---
 

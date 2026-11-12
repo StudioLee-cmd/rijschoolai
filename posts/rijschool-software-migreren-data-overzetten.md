@@ -5,7 +5,7 @@ date: "2026-05-29"
 excerpt: "Overstappen naar nieuwe rijschoolsoftware zonder je leerlingdata kwijt te raken? Het migratieplan in 5 stappen, plus de 3 valkuilen die je moet vermijden."
 image: "/images/blog/rijschool-software-migreren-data-overzetten.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Software", "Datamigratie", "Administratie", "AVG", "Rijschool"]
+tags: ["Software", "Automatisering"]
 cluster: "automatisering"
 ---
 

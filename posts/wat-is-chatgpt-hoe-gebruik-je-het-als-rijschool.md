@@ -4,7 +4,7 @@ excerpt: "ChatGPT kan rijscholen helpen bij communicatie en marketing. Maar leer
 date: "2026-03-07"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/wat-is-chatgpt-hoe-gebruik-je-het-als-rijschool.png"
-tags: ["Tools", "ChatGPT", "Rijscholen"]
+tags: ["Tools", "Automatisering"]
 cluster: "automatisering"
 ---
 

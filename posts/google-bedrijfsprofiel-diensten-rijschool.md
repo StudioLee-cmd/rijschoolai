@@ -4,7 +4,7 @@ excerpt: "Zet je rijbewijscategorieën B, AM, T en aanhanger als losse diensten 
 date: "2026-05-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-bedrijfsprofiel-diensten-rijschool.jpg"
-tags: ["Google", "Vindbaarheid", "Marketing", "Rijschool"]
+tags: ["Google", "Vindbaarheid"]
 cluster: "vindbaarheid"
 ---
 

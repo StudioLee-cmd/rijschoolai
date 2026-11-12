@@ -5,7 +5,7 @@ date: "2026-04-03"
 cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/review-strategie-rijschool.jpg"
-tags: ["Reviews", "Review strategie", "Rijschool", "Google Reviews"]
+tags: ["Reviews", "Strategie"]
 ---
 ## Waarom reviews een rijschool maken of breken
 

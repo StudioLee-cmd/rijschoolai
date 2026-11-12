@@ -4,7 +4,7 @@ excerpt: "Strategische samenwerkingen met scholen, garages en verzekeraars helpe
 date: "2026-03-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/samenwerken-als-rijschool-partners.png"
-tags: ["samenwerkingen", "rijschool", "groei"]
+tags: ["Groei", "Branding"]
 cluster: "branding"
 ---
 

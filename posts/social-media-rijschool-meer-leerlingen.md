@@ -5,7 +5,7 @@ date: "2026-04-18"
 cluster: "social-media"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/social-media-rijschool-meer-leerlingen.jpg"
-tags: ["Social Media", "Leerlingen", "Marketing"]
+tags: ["Social Media", "Leerlingen"]
 ---
 ## Waar je toekomstige leerlingen zitten
 

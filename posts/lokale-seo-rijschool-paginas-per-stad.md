@@ -4,7 +4,7 @@ excerpt: "Lesgebied in meerdere steden, maar alleen in je eigen plaats gevonden?
 date: "2026-06-06"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/lokale-seo-rijschool-paginas-per-stad.jpg"
-tags: ["Lokale SEO", "Vindbaarheid", "Google", "Rijschool"]
+tags: ["Vindbaarheid", "Google"]
 cluster: "vindbaarheid"
 ---
 

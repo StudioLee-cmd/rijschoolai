@@ -5,7 +5,7 @@ excerpt: "Ontdek hoe je als rijschool je website omzet in een inschrijfmachine d
 date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/rijschoolwebsite-conversie-inschrijving.png"
-tags: ["Website", "Conversie", "Leerlingen"]
+tags: ["Website", "Conversie"]
 cluster: "website"
 ---
 

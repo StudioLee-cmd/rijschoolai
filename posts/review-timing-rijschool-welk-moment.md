@@ -5,7 +5,7 @@ date: "2026-07-28"
 excerpt: "Direct na de uitslag of pas als het pasje binnen is: welk moment levert jouw rijschool de meeste reviews op? Zo reken je het uit met je eigen cijfers."
 image: "/images/blog/review-timing-rijschool-welk-moment.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Reviews", "Timing", "Automatisering"]
+tags: ["Reviews", "Automatisering"]
 cluster: "reviews"
 ---
 

@@ -5,7 +5,7 @@ date: "2026-07-20"
 excerpt: "Je AI-telefonist neemt op buiten kantooruren. Maar levert dat ook inschrijvingen op? Zo meet je in vier cijfers wat je avondoproepen echt waard zijn."
 image: "/images/blog/avondoproepen-meten-rijschool-ai-telefonist.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Voice AI", "Bereikbaarheid", "Rendement"]
+tags: ["Voice AI", "Bereikbaarheid", "AI"]
 cluster: "voice-ai"
 ---
 

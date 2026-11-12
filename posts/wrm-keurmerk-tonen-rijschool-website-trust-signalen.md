@@ -5,7 +5,7 @@ date: "2026-05-17"
 excerpt: "WRM-keurmerk, BO-bewijs en CBR-cijfers zichtbaar maken op je rijschool-website verhoogt inschrijf-conversie. 5 plekken plus tips en valkuilen 2026."
 image: "/images/blog/wrm-keurmerk-tonen-rijschool-website-trust-signalen.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Specialisatie", "WRM", "Trust-signalen", "Rijschool"]
+tags: ["Specialisatie", "Website"]
 cluster: "website"
 ---
 

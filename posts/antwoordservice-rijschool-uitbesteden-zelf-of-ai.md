@@ -5,7 +5,7 @@ date: "2026-07-22"
 excerpt: "Een antwoordservice adverteert met €9,97 per maand. Wat een rijschool er werkelijk voor betaalt ligt hoger. Drie routes, doorgerekend met echte tarieven."
 image: "/images/blog/antwoordservice-rijschool-uitbesteden-zelf-of-ai.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Voice AI", "Bereikbaarheid", "Kosten"]
+tags: ["Voice AI", "Bereikbaarheid"]
 cluster: "voice-ai"
 ---
 

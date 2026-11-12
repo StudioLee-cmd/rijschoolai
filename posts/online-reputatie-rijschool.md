@@ -5,7 +5,7 @@ excerpt: "Je online reputatie bepaalt of nieuwe leerlingen jouw rijschool kiezen
 date: "2026-03-26"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/online-reputatie-rijschool.png"
-tags: ["online reputatie", "rijschool", "reviews"]
+tags: ["Reviews", "Reputatie"]
 cluster: "reviews"
 ---
 Een rijschool kiezen is een grote beslissing voor leerlingen. Ze investeren honderden of duizenden euro's, besteden tientallen uren in de auto, en hun slagingskans hangt af van de kwaliteit van de instructie. Geen wonder dat ze uitgebreid online onderzoek doen voordat ze kiezen.

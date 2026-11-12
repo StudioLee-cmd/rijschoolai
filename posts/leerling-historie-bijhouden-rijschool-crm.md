@@ -5,7 +5,7 @@ date: "2026-07-23"
 excerpt: "Elke geslaagde leerling laat waardevolle data achter die de meeste rijscholen vergeten. Zo leg je leerling-historie vast in een CRM en verdien je eraan."
 image: "/images/blog/leerling-historie-bijhouden-rijschool-crm.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["CRM", "Klantbeheer", "Automatisering"]
+tags: ["CRM", "Klantbeheer"]
 cluster: "automatisering"
 ---
 

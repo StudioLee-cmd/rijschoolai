@@ -5,7 +5,7 @@ date: "2026-05-26"
 excerpt: "Eigen rijschool starten en je eerste 50 leerlingen werven? Dit zijn de 6 stappen voor positionering, website, Google en intake. Compleet plan."
 image: "/images/blog/rijschool-starten-2026-eerste-50-leerlingen.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Starten", "Rijschool", "Groei"]
+tags: ["Groei", "Branding"]
 cluster: "branding"
 ---
 

@@ -5,7 +5,7 @@ date: "2026-07-14"
 excerpt: "Steeds meer aanmeldingen komen van expats en internationale leerlingen. Zo vangt een meertalige AI-telefonist je avondoproepen op in NL, EN, AR en TR."
 image: "/images/blog/meertalige-ai-telefonist-rijschool.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Voice AI", "AI telefonist", "Meertalig", "Rijschool"]
+tags: ["Voice AI", "AI"]
 cluster: "voice-ai"
 ---
 

@@ -5,7 +5,7 @@ date: "2026-07-16"
 excerpt: "Een rijschool beginnen in 2026? Dit kost het, dit zegt de WRM en dit zijn de systemen die je agenda vanaf dag 1 vullen. Compleet startplan."
 image: "/images/blog/rijschool-beginnen-2026-kosten-wrm-systemen.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Eigen rijschool beginnen", "Kosten", "WRM-eisen", "Rijschoolsystemen"]
+tags: ["Kosten", "Website"]
 cluster: "website"
 ---
 

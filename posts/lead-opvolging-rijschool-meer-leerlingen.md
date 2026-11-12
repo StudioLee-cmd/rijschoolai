@@ -4,7 +4,7 @@ excerpt: "Leer hoe je als rijschool meer aanvragen omzet in inschrijvingen door 
 date: "2026-03-31"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/lead-opvolging-rijschool-meer-leerlingen.jpg"
-tags: ["Lead opvolging", "Leerlingen", "Groei"]
+tags: ["Leadopvolging", "Leerlingen"]
 cluster: "automatisering"
 ---
 ## Waarom snelheid cruciaal is bij rijschool-aanvragen

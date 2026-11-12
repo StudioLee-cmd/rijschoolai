@@ -5,7 +5,7 @@ date: "2026-05-27"
 excerpt: "Voicemail laat rijscholen proeflessen mislopen. Voice AI vangt elke aanvraag wel op. Vergelijking met kosten, voor- en nadelen, en de praktijk."
 image: "/images/blog/voice-ai-vs-voicemail-rijschool-proeflessen.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Voice AI", "Bereikbaarheid", "Proefles"]
+tags: ["Voice AI", "Bereikbaarheid"]
 cluster: "voice-ai"
 ---
 

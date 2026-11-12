@@ -6,7 +6,7 @@ date: "2026-04-14"
 cluster: "website"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/slagingspercentage-rijschool-verhogen.jpg"
-tags: ["Slagingspercentage", "Rijschool Tips", "Kwaliteit"]
+tags: ["Slagingspercentage"]
 ---
 ## Waarom je slagingspercentage er meer toe doet dan je prijs
 

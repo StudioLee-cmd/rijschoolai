@@ -6,7 +6,7 @@ date: "2026-04-05"
 cluster: "branding"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/concurrentieanalyse-rijschool.jpg"
-tags: ["Concurrentie", "Rijschool", "Strategie"]
+tags: ["Strategie", "Branding"]
 ---
 ## Ken je concurrent beter dan jezelf
 

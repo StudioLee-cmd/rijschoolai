@@ -5,7 +5,7 @@ excerpt: "Niet elke rijschool hoeft alles aan te bieden. Ontdek hoe specialisati
 date: "2026-03-27"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/specialiseren-rijschool.png"
-tags: ["specialisatie", "rijschool", "groei"]
+tags: ["Specialisatie", "Groei"]
 cluster: "branding"
 ---
 Er zijn honderden rijscholen in elke regio. De meeste bieden hetzelfde: rijopleiding B, theorie en af en toe een motor-opleiding. Dat maakt je inwisselbaar. Specialisatie is de manier om op te vallen.

@@ -5,7 +5,7 @@ date: "2026-06-28"
 excerpt: "Een AI telefonist is zo goed als zijn training. Dit is de data die jouw rijschool moet aanleveren voor foutloze proefles- en prijsgesprekken."
 image: "/images/blog/ai-telefonist-trainen-rijschool.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Voice AI", "AI telefonist", "Bereikbaarheid", "Rijschool"]
+tags: ["Voice AI", "Bereikbaarheid"]
 cluster: "voice-ai"
 ---
 

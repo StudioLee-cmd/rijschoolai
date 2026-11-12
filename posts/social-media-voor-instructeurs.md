@@ -5,7 +5,7 @@ excerpt: "Geen gedoe met TikTok trends. Gewoon laten zien dat je leerlingen slag
 date: "2026-01-15"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/social-media-voor-instructeurs.png"
-tags: ["Social Media", "Branding", "Automatisering"]
+tags: ["Social Media", "Branding"]
 cluster: "social-media"
 ---
 Je bent instructeur, geen influencer. Je hebt geen zin om dansjes te doen. Maar leerlingen kijken wel op Instagram. Ze willen zien: Slagen hier mensen? Is de instructeur aardig?

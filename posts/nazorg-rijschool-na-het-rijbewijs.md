@@ -5,7 +5,7 @@ excerpt: "Ontdek hoe je als rijschool contact houdt na het rijbewijs en doorverw
 date: "2026-03-29"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/nazorg-rijschool-na-het-rijbewijs.jpg"
-tags: ["Nazorg", "Klantrelatie", "Groei"]
+tags: ["Klantbeheer", "Groei"]
 cluster: "automatisering"
 ---
 ## Waarom nazorg belangrijk is voor rijscholen

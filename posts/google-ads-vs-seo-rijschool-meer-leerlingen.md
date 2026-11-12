@@ -6,7 +6,7 @@ date: "2026-04-09"
 cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-ads-vs-seo-rijschool-meer-leerlingen.jpg"
-tags: ["Vindbaarheid", "Rijschool", "Google"]
+tags: ["Vindbaarheid", "Google"]
 ---
 ## De keuze die elke rijschool maakt
 

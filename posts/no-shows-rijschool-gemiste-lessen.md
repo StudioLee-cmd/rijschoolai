@@ -5,7 +5,7 @@ date: "2026-04-17"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-rijschool-gemiste-lessen.jpg"
-tags: ["No-shows", "Rijschool", "Planning"]
+tags: ["No-shows", "Planning"]
 ---
 ## Een leeg lesuur is verloren geld
 

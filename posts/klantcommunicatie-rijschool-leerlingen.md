@@ -7,7 +7,7 @@ excerpt: "Goede communicatie maakt het verschil tussen een gemotiveerde leerling
 image: "/images/blog/klantcommunicatie-rijschool-leerlingen.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
-tags: ["klantcommunicatie", "rijschool", "leerlingen"]
+tags: ["Klantcommunicatie"]
 cluster: "automatisering"
 ---
 

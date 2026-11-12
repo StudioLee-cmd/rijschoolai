@@ -4,7 +4,7 @@ excerpt: "AI helpt rijscholen bij lesplanning, leerlingcommunicatie en marketing
 date: "2026-03-06"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoe-rijscholen-ai-inzetten-meer-leerlingen-werven.png"
-tags: ["AI", "Automatisering", "Rijscholen"]
+tags: ["AI", "Automatisering"]
 cluster: "automatisering"
 ---
 De rijschoolmarkt is competitief. Leerlingen oriënteren zich online, vergelijken prijzen en baseren hun keuze op reviews en reactiesnelheid. Rijscholen die AI inzetten, reageren sneller, plannen efficiënter en bouwen een sterkere [reputatie](/reviews) op.

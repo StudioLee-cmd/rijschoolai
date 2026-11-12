@@ -5,7 +5,7 @@ date: "2026-04-04"
 cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/seo-rijschool-meer-leerlingen.jpg"
-tags: ["SEO", "Vindbaarheid", "Rijschool"]
+tags: ["Vindbaarheid"]
 ---
 ## Hoe leerlingen een rijschool kiezen in 2026
 

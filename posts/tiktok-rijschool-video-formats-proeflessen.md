@@ -5,7 +5,7 @@ date: "2026-07-06"
 excerpt: "TikTok levert rijscholen meer dan views. Met deze 5 video-formats maak je van kijkers proefles-aanvragen, gefilmd binnen je gewone lesdag."
 image: "/images/blog/tiktok-rijschool-video-formats-proeflessen.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["TikTok", "Social Media", "Leerlingwerving"]
+tags: ["Social Media", "Proefles"]
 cluster: "social-media"
 ---
 

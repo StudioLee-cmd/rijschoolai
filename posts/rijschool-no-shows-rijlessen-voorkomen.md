@@ -6,7 +6,7 @@ date: "2026-04-08"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/rijschool-no-shows-rijlessen-voorkomen.jpg"
-tags: ["No-shows", "Rijschool", "Leerlingen"]
+tags: ["No-shows", "Leerlingen"]
 ---
 ## Wat een gemiste rijles je echt kost
 

@@ -5,7 +5,7 @@ date: "2026-06-08"
 excerpt: "Een leerling zegt last-minute af en je lesuur valt weg. Met wachtlijst-automatisering vult een AI de vrijgekomen rijles binnen 15 minuten weer op."
 image: "/images/blog/wachtlijst-automatiseren-rijschool.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Automatisering", "No-shows", "Planning", "Rijschool"]
+tags: ["Automatisering", "No-shows"]
 cluster: "automatisering"
 ---
 
