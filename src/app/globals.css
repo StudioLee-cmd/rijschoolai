@@ -55,6 +55,13 @@ html {
   @apply scroll-smooth;
 }
 
+/* Blocks that slide in from the side start past the screen edge; on a 390 px phone that made the product
+   pages 405 px wide, so the page zoomed out and dragged sideways. clip (not hidden) keeps sticky headers working. */
+html,
+body {
+  overflow-x: clip;
+}
+
 body {
   @apply text-lg;
 

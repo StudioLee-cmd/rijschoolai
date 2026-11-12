@@ -165,7 +165,7 @@ export default function ChatbotContent() {
           <div className="relative w-full aspect-[16/9] rounded-2xl overflow-hidden border border-[var(--card-border)] shadow-2xl">
             <Image
               src="/images/services/chatbot-hero.jpg"
-              alt="AI chatbot voor rijscholen — homeowner stelt vraag via chat"
+              alt="AI chatbot voor rijscholen: een leerling stelt een vraag via de chat"
               fill
               priority
               className="object-cover"
@@ -278,7 +278,7 @@ export default function ChatbotContent() {
               />
             </div>
             <p className="text-center text-sm text-foreground-accent mt-3 max-w-2xl mx-auto">
-              Een homeowner stelt `'`s avonds een vraag — chatbot vangt op, jij krijgt direct notificatie.
+              Een ouder of leerling stelt 's avonds een vraag — chatbot vangt op, jij krijgt direct notificatie.
             </p>
           </motion.div>
 
@@ -436,7 +436,7 @@ export default function ChatbotContent() {
               transition={{ duration: 0.6 }}
             >
               <h2 className="text-2xl md:text-3xl font-bold mb-4">Een chatbot die op je vakgebied is afgestemd</h2>
-              <p className="text-foreground-accent leading-relaxed">De chatbot is getraind op typische rijinstructeur-vragen. Hij weet wanneer een aanvraag spoed is en triggert direct een actie — geen leads die `'`s nachts verdampen.</p>
+              <p className="text-foreground-accent leading-relaxed">De chatbot is getraind op typische rijinstructeur-vragen. Hij weet wanneer een aanvraag spoed is en triggert direct een actie — geen leads die 's nachts verdampen.</p>
             </motion.div>
           </div>
           <h3 className="text-xl md:text-2xl font-bold text-center mb-6">Combineer met andere AI-tools</h3>

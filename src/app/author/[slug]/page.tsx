@@ -115,7 +115,7 @@ export default async function AuthorPage({ params }: { params: Promise<{ slug: s
                                 href={`/blog/${post.slug}`}
                                 className="bg-white rounded-2xl p-6 shadow-sm border border-black/5 hover:shadow-md transition-shadow"
                             >
-                                <div className="flex gap-6">
+                                <div className="flex flex-col sm:flex-row gap-4 sm:gap-6">
                                     <Image
                                         src={post.image}
                                         alt={post.title}
@@ -123,14 +123,14 @@ export default async function AuthorPage({ params }: { params: Promise<{ slug: s
                                         height={150}
                                         className="rounded-xl object-cover"
                                     />
-                                    <div className="flex-1">
+                                    <div className="flex-1 min-w-0">
                                         <h3 className="text-2xl font-bold mb-2 hover:text-blue-600 transition-colors">
                                             {post.title}
                                         </h3>
                                         <p className="text-gray-600 mb-3">{post.excerpt}</p>
-                                        <div className="flex items-center gap-4 text-sm text-gray-500">
+                                        <div className="flex flex-wrap items-center gap-x-4 gap-y-2 text-sm text-gray-500">
                                             <span>{new Date(post.date).toLocaleDateString('nl-NL', { year: 'numeric', month: 'long', day: 'numeric' })}</span>
-                                            <div className="flex gap-2">
+                                            <div className="flex flex-wrap gap-2">
                                                 {post.tags.map((tag) => (
                                                     <span key={tag} className="px-3 py-1 bg-gray-100 rounded-full text-xs">
                                                         {tag}
