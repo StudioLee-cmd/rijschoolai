@@ -30,7 +30,7 @@ const WEBHOOK_URL = "https://n8n.aireclamestudio.nl/webhook/freewebsite";
 
 // De prijsladder — SSOT: alpha1/data/platform/prices.json (self/managed/websiteBuyout).
 // Wijzigen doe je dáár; deze regel volgt bij de copy-rollout mee.
-const PRIJS = { start: 79, alles: 279, afkoop: 800 };
+const PRIJS = { start: 79, alles: 379, afkoop: 800 };
 
 /* ─────────────────────────────────────────────────────────────────────────────
    DE VIER DINGEN — het propositie-contract (niche-sites-upgrade-programma.md
@@ -322,8 +322,8 @@ export default function GratisWebsiteContent({ looks }: { looks: FunnelLook[] })
               </p>
               <ul className="space-y-2 text-sm">
                 {[
-                  `Vanaf €${PRIJS.start} per maand: live gezet en draaiend`,
-                  `€${PRIJS.alles} per maand: alles uit handen, ook de teksten en de vindbaarheid`,
+                  `€${PRIJS.start} per maand: live gezet en draaiend`,
+                  `Vanaf €${PRIJS.alles} per maand: alles uit handen, ook de teksten en de vindbaarheid`,
                   "Samen goedkoper dan de losse dingen apart",
                 ].map((t) => (
                   <li key={t} className="flex items-start gap-2"><BsCheck2 className="text-foreground-accent mt-1 flex-none" /> {t}</li>
@@ -369,7 +369,7 @@ export default function GratisWebsiteContent({ looks }: { looks: FunnelLook[] })
           <div className="space-y-3">
             {[
               { q: "Is het echt gratis?", a: "Ja. Je kiest een ontwerp, vult je gegevens in en ziet 'm meteen op je eigen naam. Het ontwerpbestand krijg je van me, zonder voorwaarden." },
-              { q: "Wat kost het dan wél?", a: `Het draaiend krijgen. Live zetten, gevonden worden, de teksten die blijven komen — dat is het abonnement, vanaf €${PRIJS.start} per maand. Wil je er helemaal niet naar omkijken, dan is dat €${PRIJS.alles} per maand.` },
+              { q: "Wat kost het dan wél?", a: `Het draaiend krijgen. Live zetten, gevonden worden, de teksten die blijven komen — dat is het abonnement, vanaf €${PRIJS.start} per maand. Wil je er helemaal niet naar omkijken, dan is dat vanaf €${PRIJS.alles} per maand.` },
               { q: "Wat kost het als ik het los zou regelen?", a: `Meer. Iemand voor je telefoon en je planning, iemand voor je marketing, iemand voor je vindbaarheid, plus de losse abonnementen: bij elkaar loopt dat flink op. Bij mij zit het in één rekening, en die is lager dan die onderdelen los bij elkaar. Vergelijk dus de rekening, niet de onderdelen.` },
               { q: "Kan ik de website ook gewoon afkopen?", a: `Dat kan, voor €${PRIJS.afkoop} eenmalig. Eerlijk gezegd raad ik het de meesten af: je hebt dan het ontwerp, maar niemand die 'm live houdt, vult en vindbaar maakt. Een site die stilstaat levert niets op.` },
               { q: "Wat moet ik zelf doen?", a: "Je bedrijfsnaam en plaats invullen. De rest — het ontwerp, de teksten, de beelden — staat er al. Weet je niet hoe je het bestand zelf draaiend krijgt? Dan leg ik dat gratis uit." },
