@@ -12,7 +12,7 @@ tags: ["Vindbaarheid"]
 
 De zoektocht naar een rijschool begint bijna altijd online. Jongeren (en hun ouders) zoeken op Google naar 'rijschool [stad]', 'goedkope rijlessen [regio]' of 'rijschool hoog slagingspercentage'. Wie bovenaan staat, krijgt de eerste telefoontjes en WhatsApp-berichten.
 
-Het maakt niet uit hoeveel ervaring je hebt of hoe hoog je slagingspercentage is — als je onzichtbaar bent op Google, bestaan die resultaten niet voor nieuwe leerlingen.
+Het maakt niet uit hoeveel ervaring je hebt of hoe hoog je slagingspercentage is: als je onzichtbaar bent op Google, bestaan die resultaten niet voor nieuwe leerlingen.
 
 Online marketing voor rijscholen begint daarom bij gevonden worden: je Google Bedrijfsprofiel, je website en je reviews. Advertenties en social media versterken dat, maar vervangen het niet. Hieronder lees je per onderdeel wat je als rijschool zelf regelt.
 
@@ -21,7 +21,7 @@ Online marketing voor rijscholen begint daarom bij gevonden worden: je Google Be
 Je Google Bedrijfsprofiel is je digitale visitekaartje. Voor rijscholen zijn de volgende zaken belangrijk:
 
 - **Correcte categorie:** 'Rijschool' als primaire categorie
-- **Lesgebied:** Vermeld de steden en wijken waar je lesgeeft — niet alleen je vestigingsadres
+- **Lesgebied:** Vermeld de steden en wijken waar je lesgeeft, niet alleen je vestigingsadres
 - **Diensten:** Vermeld alle soorten lessen (B-rijbewijs, motorrijbewijs, spoedcursus, herexamen, faalangstlessen)
 - **Openingstijden:** Wanneer ben je bereikbaar voor informatie? (lessen zelf zijn op andere tijden)
 - **Foto's:** Je lesauto, eventueel de theorie-ruimte, certificeringen
@@ -34,12 +34,12 @@ Veel rijscholen geven les in meerdere plaatsen maar vermelden alleen hun hoofdve
 
 De meest gezochte termen in de rijschoolbranche:
 
-- **"rijschool [stad]"** — basis, hoog volume
-- **"goedkoop rijbewijs [stad]"** — prijsgevoelig, veel vergeleken
-- **"rijschool hoog slagingspercentage"** — kwaliteitsgericht
-- **"spoedcursus rijbewijs [stad]"** — urgent, snel beslissend
-- **"faalangst rijexamen"** — niche, maar trouwe doelgroep
-- **"motorrijbewijs [stad]"** — aparte doelgroep met hoge betrokkenheid
+- **"rijschool [stad]"**: basis, hoog volume
+- **"goedkoop rijbewijs [stad]"**: prijsgevoelig, veel vergeleken
+- **"rijschool hoog slagingspercentage"**: kwaliteitsgericht
+- **"spoedcursus rijbewijs [stad]"**: urgent, snel beslissend
+- **"faalangst rijexamen"**: niche, maar trouwe doelgroep
+- **"motorrijbewijs [stad]"**: aparte doelgroep met hoge betrokkenheid
 
 ![Rijschool lesauto op rustige Nederlandse weg](/images/blog/seo-rijschool-meer-leerlingen-2.jpg)
 
@@ -57,17 +57,17 @@ Elk artikel is een ingang naar je website. Een leerling die via een blogpost bin
 
 ## Reviews: de doorslaggevende factor
 
-Voor rijscholen zijn reviews extra belangrijk. Leerlingen vertrouwen op de ervaring van leeftijdsgenoten. Een rijschool met 100+ reviews en een score van 4,7 wekt meer vertrouwen dan een rijschool met 5 reviews — ongeacht de werkelijke kwaliteit.
+Voor rijscholen zijn reviews extra belangrijk. Leerlingen vertrouwen op de ervaring van leeftijdsgenoten. Een rijschool met 100+ reviews en een score van 4,7 wekt meer vertrouwen dan een rijschool met 5 reviews, ongeacht de werkelijke kwaliteit.
 
 Vraag elke leerling die slaagt om een review. Dat is een natuurlijk moment van voldoening en de bereidheid om iets positiefs te schrijven is maximaal.
 
 ## Social media als SEO-versterker
 
-Rijscholen hebben een unieke kans op social media: geslaagde leerlingen delen graag hun resultaat. Moedig dit aan — het levert gratis bereik op en versterkt je naamsbekendheid. Dat sociale signaal beïnvloedt indirect ook je Google-positie.
+Rijscholen hebben een unieke kans op social media: geslaagde leerlingen delen graag hun resultaat. Moedig dit aan: het levert gratis bereik op en versterkt je naamsbekendheid. Dat sociale signaal beïnvloedt indirect ook je Google-positie.
 
 ## De concurrentie voor zijn
 
-In de meeste steden zijn er tientallen rijscholen. De meerderheid doet weinig aan online marketing. Dat betekent dat je met een gestructureerde SEO-aanpak — [regelmatige blogposts](/blog), actief Google profiel, review-automatisering — relatief snel kunt stijgen.
+In de meeste steden zijn er tientallen rijscholen. De meerderheid doet weinig aan online marketing. Dat betekent dat je met een gestructureerde SEO-aanpak ([regelmatige blogposts](/blog), actief Google profiel, review-automatisering) relatief snel kunt stijgen.
 
 Een managed service als [StudioLee](/tarieven) regelt dit volledig voor je. Jij focust op lesgeven, wij zorgen dat leerlingen je vinden. Jij besteedt er maar 15 minuten per maand aan — de rest wordt volledig geregeld. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
@@ -83,7 +83,7 @@ Niet per se. Organische SEO levert duurzaam resultaat zonder doorlopende adverte
 
 ### Welke social media platforms werken het best voor rijscholen?
 
-Instagram en TikTok zijn het meest effectief — je doelgroep (16-25 jaar) is daar het actiefst. Deel geslaagde leerlingen, tips en behind-the-scenes content.
+Instagram en TikTok zijn het meest effectief: je doelgroep (16-25 jaar) is daar het actiefst. Deel geslaagde leerlingen, tips en behind-the-scenes content.
 
 ## Conclusie
 
