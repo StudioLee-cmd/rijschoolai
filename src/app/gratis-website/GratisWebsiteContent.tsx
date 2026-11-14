@@ -155,6 +155,7 @@ export default function GratisWebsiteContent({ looks }: { looks: FunnelLook[] })
               </React.Fragment>
             ))}
           </div>
+          <p className="-mt-6 mb-10 text-center text-sm text-foreground-accent max-w-2xl mx-auto">{"Binnen 48 uur maken we drie voorbeelden van jouw eigen website, met je eigen naam, diensten en foto's. Je kiest er één, en we zeggen erbij welke wij je aanraden."}</p>
 
           <AnimatePresence mode="wait">
             {step === 1 && (
@@ -308,7 +309,7 @@ export default function GratisWebsiteContent({ looks }: { looks: FunnelLook[] })
                 Geen bedenktijd, geen voorwaarden, geen proefperiode die stiekem doorloopt.
               </p>
               <ul className="space-y-2 text-sm">
-                {["Het complete ontwerp", "Je eigen naam en plaats erin", "Het bestand, om te houden"].map((t) => (
+                {["Binnen 48 uur maken we drie voorbeelden van jouw eigen website, met je eigen naam, diensten en foto's. Je kiest er één, en we zeggen erbij welke wij je aanraden.", "Het complete ontwerp", "Je eigen naam en plaats erin", "Het bestand, om te houden"].map((t) => (
                   <li key={t} className="flex items-start gap-2"><BsCheck2 className="text-primary mt-1 flex-none" /> {t}</li>
                 ))}
               </ul>
@@ -373,7 +374,7 @@ export default function GratisWebsiteContent({ looks }: { looks: FunnelLook[] })
               { q: "Wat kost het als ik het los zou regelen?", a: `Meer. Iemand voor je telefoon en je planning, iemand voor je marketing, iemand voor je vindbaarheid, plus de losse abonnementen: bij elkaar loopt dat flink op. Bij mij zit het in één rekening, en die is lager dan die onderdelen los bij elkaar. Vergelijk dus de rekening, niet de onderdelen.` },
               { q: "Kan ik de website ook gewoon afkopen?", a: `Dat kan, voor €${PRIJS.afkoop} eenmalig. Eerlijk gezegd raad ik het de meesten af: je hebt dan het ontwerp, maar niemand die 'm live houdt, vult en vindbaar maakt. Een site die stilstaat levert niets op.` },
               { q: "Wat moet ik zelf doen?", a: "Je bedrijfsnaam en plaats invullen. De rest — het ontwerp, de teksten, de beelden — staat er al. Weet je niet hoe je het bestand zelf draaiend krijgt? Dan leg ik dat gratis uit." },
-              { q: "Hoe snel zie ik iets?", a: "Meteen. Je voorbeeld staat er zodra je op de knop drukt, met jouw naam erin." },
+              { q: "Hoe snel zie ik iets?", a: "Meteen. Je voorbeeld staat er zodra je op de knop drukt, met jouw naam erin. Binnen 48 uur maken we drie voorbeelden van jouw eigen website, met je eigen naam, diensten en foto's. Je kiest er één, en we zeggen erbij welke wij je aanraden." },
               { q: `Moet ik al een website hebben?`, a: `Nee. De meeste ${nicheLower} die dit invullen hebben nog niets, of iets van jaren geleden. Je hebt alleen je bedrijfsnaam en plaats nodig.` },
             ].map((f) => (
               <details key={f.q} className="group rounded-xl border border-foreground-accent/15 bg-white/5 p-5">
