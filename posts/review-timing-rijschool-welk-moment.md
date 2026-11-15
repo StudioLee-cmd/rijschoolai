@@ -83,6 +83,6 @@ Nog twee dingen die je hoe dan ook goed moet houden. Vraag nooit uitsluitend aan
 
 Begin niet met kiezen, begin met tellen. Zet deze maand alleen de noemer aan: hoeveel verzoeken gingen eruit, uit welk venster, en hoeveel reviews kwamen er binnen. Dat ene getal vertelt je al meer over je reviewstroom dan welke vuistregel ook, en zonder dat getal is elke keuze tussen dag één en dag vijf een gok.
 
-Bij RijschoolAI richten we die verzoeken volledig voor je in, met de vertraging en het label per venster, getraind op jouw rijschool en jouw manier van werken, met onze Groei-of-Geld-Terug Garantie. Benieuwd hoeveel reviews je nu laat liggen en waar je vensters lekken? Vraag de [gratis ai scan voor rijscholen](/gratis-scan) aan, dan weet je binnen een dag waar de winst zit. Geslaagd? Dan zorgen wij dat de review ook binnenkomt.
+Benieuwd hoeveel reviews je nu laat liggen en waar je vensters lekken? Vraag de [gratis ai scan voor rijscholen](/gratis-scan) aan, dan weet je binnen een dag waar de winst zit. Geslaagd? Dan zorgen wij dat de review ook binnenkomt.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/negatieve-review-rijschool-ai-antwoord" class="text-dark fw-semibold">Negatieve review rijschool: AI-antwoord zonder excuses</a> &rarr;</p></div></div></div>

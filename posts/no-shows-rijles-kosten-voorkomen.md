@@ -57,4 +57,4 @@ Netto besparing: **€3.500 tot €7.500 per jaar**. Terugverdiend in minder dan
 
 ## Vandaag nog beginnen
 
-Elke week zonder herinneringen kost je lessen en omzet. [Vraag een gratis scan aan](/gratis-scan) en ontdek hoeveel no-shows je kunt voorkomen. Groei-of-Geld-Terug Garantie.
+Elke week zonder herinneringen kost je lessen en omzet. [Vraag een gratis scan aan](/gratis-scan) en ontdek hoeveel no-shows je kunt voorkomen.

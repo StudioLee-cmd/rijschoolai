@@ -56,7 +56,7 @@ Door de routing weet je systeem meteen wélke oproep die snelheid verdient. Je v
 
 ## Aan de slag: van gemiste kans naar volle agenda
 
-Je hoeft de telefoon niet zelf uit handen te geven om dit te laten werken, je hoeft alleen te stoppen met alle bellers gelijk te behandelen. Wil je weten hoeveel serieuze aanvragen je nu misloopt tijdens lessen en in de avonduren? Vraag een [gratis ai scan voor rijscholen](/gratis-scan) aan. RijschoolAI laat zien waar je leads afhaken en wat een slimme routing je zou opleveren, inclusief onze Groei-of-Geld-Terug Garantie: levert het geen extra leerlingen op, dan krijg je je investering terug.
+Je hoeft de telefoon niet zelf uit handen te geven om dit te laten werken, je hoeft alleen te stoppen met alle bellers gelijk te behandelen. Wil je weten hoeveel serieuze aanvragen je nu misloopt tijdens lessen en in de avonduren? Vraag een [gratis ai scan voor rijscholen](/gratis-scan) aan.
 
 Jij geeft les, wij regelen de rest, ook de sortering aan de voordeur.
 

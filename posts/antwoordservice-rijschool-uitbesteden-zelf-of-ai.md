@@ -90,7 +90,7 @@ Reken daarna elke aanbieder door op dat exacte aantal: abonnement, prijs per ges
 
 Bepaal tot slot wat een gemiste aanvraag jou kost. Neem de waarde van een gemiddeld lespakket en het aandeel bellers dat je nu niet terugbelt. Dat bedrag is de bovengrens van wat elke route hierboven waard is, en meestal ligt het een stuk hoger dan het verschil tussen de abonnementen.
 
-Wil je die drie getallen niet zelf verzamelen, vraag dan een [gratis ai scan voor rijscholen](/gratis-scan) aan. We kijken mee naar je bereikbaarheid en je opvolging en zetten de cijfers voor je op een rij. Alles wat we bouwen valt onder onze Groei-of-Geld-Terug Garantie, dus je weet vooraf waar je aan toe bent.
+Wil je die drie getallen niet zelf verzamelen, vraag dan een [gratis ai scan voor rijscholen](/gratis-scan) aan. We kijken mee naar je bereikbaarheid en je opvolging en zetten de cijfers voor je op een rij.
 
 De vraag is niet welke route het goedkoopst adverteert. De vraag is welke route de leerling die om acht uur 's avonds belt, ook daadwerkelijk ingeschreven krijgt.
 

@@ -101,7 +101,7 @@ Wil je weten wat uitbesteden kost ten opzichte van je eigen uren? Bekijk de [tar
 
 TikTok is voor rijscholen geen hype maar een wervingskanaal, mits je op het juiste doel stuurt. Kies formats die lokale, examen-zoekende jongeren aantrekken, zet één duidelijke route naar de proefles en reageer snel op elke reactie. De vijf formats uit dit artikel zijn genoeg voor maanden content, gefilmd binnen je gewone lesdag.
 
-Liever lesgeven terwijl de content vanzelf doorloopt? Dat kan. Bij RijschoolAI regelen we [social media uitbesteden voor rijscholen](/social-media) van planning tot publicatie, met onze Groei-of-Geld-Terug Garantie. Jij geeft les, wij regelen de rest.
+Liever lesgeven terwijl de content vanzelf doorloopt? Dat kan. Jij geeft les, wij regelen de rest.
 
 Benieuwd waar jouw rijschool nu staat qua online zichtbaarheid? Vraag de [gratis ai scan voor rijscholen](/gratis-scan) aan en zie binnen een paar minuten waar je kansen liggen.
 
