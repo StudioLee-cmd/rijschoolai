@@ -1,3 +1,4 @@
+import EzidaPlanFrame from "@/components/EzidaPlanFrame";
 import type { Metadata } from "next";
 import { siteDetails } from "@/data/siteDetails";
 import GratisWebsiteContent from "./GratisWebsiteContent";
@@ -26,5 +27,10 @@ export const revalidate = 1800;
 
 export default async function GratisWebsitePage() {
   const looks = await fetchLooks(SITE_KEY);
-  return <GratisWebsiteContent looks={looks} />;
+  return (
+    <>
+      <GratisWebsiteContent looks={looks} />
+      <EzidaPlanFrame />
+    </>
+  );
 }
