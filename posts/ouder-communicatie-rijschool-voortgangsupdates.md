@@ -137,4 +137,4 @@ Bij RijschoolAI helpen we rijscholen de ouder-communicatie professioneel structu
 - Intake-formulier-template met expliciete ouder-toestemming-vraag
 - Een [seo voor rijscholen](/seo) traject voor ouder-zoektermen
 
-[Plan een gratis AI-scan voor rijscholen](/gratis-scan) of bekijk onze [tarieven RijschoolAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).
+[Plan een gratis AI-scan voor rijscholen](/gratis-scan) of bekijk onze [tarieven RijschoolAI](/tarieven). Vragen? [Plan een gesprek met Tim](/demo).
