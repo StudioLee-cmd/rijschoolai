@@ -79,7 +79,7 @@ Merk je dat het inplannen en publiceren er toch steeds bij inschiet, dan hoeft d
 
 Met [ai social media voor rijscholen](/social-media) van RijschoolAI gaat dat nog een stap verder. Het systeem zet je clips om in geplande posts, schrijft de begeleidende teksten in jouw toon en houdt je kalender gevuld, ook in de weken dat jij van examen naar examen rijdt.
 
-Zo wordt [content planning voor rijscholen](/social-media) iets wat naast je lesrooster past in plaats van ermee te concurreren, met onze Groei-of-Geld-Terug Garantie als zekerheid. Jij geeft les, wij regelen de rest.
+Jij geeft les, wij regelen de rest.
 
 ## Conclusie: film het moment dat je al meemaakt
 

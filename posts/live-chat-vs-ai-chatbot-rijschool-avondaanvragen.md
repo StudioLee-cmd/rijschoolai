@@ -76,7 +76,7 @@ De keuze samengevat:
 - **Solo of klein team?** Kies de AI chatbot. Een onbemande live chat kost je meer leerlingen dan geen chat.
 - **Twijfel je?** Start hybride: de bot vangt alles, jij pakt de persoonlijke gesprekken op.
 
-Die leerling van 21:47 rijdt volgende maand ergens les. De enige vraag is bij wie. Wij richten de [ai chatbot voor jouw rijschool](/chatbot) volledig in, getraind op jouw pakketten en prijzen, met onze Groei-of-Geld-Terug Garantie.
+Die leerling van 21:47 rijdt volgende maand ergens les. De enige vraag is bij wie.
 
 Benieuwd hoeveel aanvragen jouw website nu laat liggen? Vraag de [gratis ai scan voor rijscholen](/gratis-scan) aan en je weet het binnen een dag. Jij geeft les, wij regelen de rest.
 

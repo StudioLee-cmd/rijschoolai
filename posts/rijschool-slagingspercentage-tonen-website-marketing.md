@@ -126,6 +126,6 @@ Voor de [SEO-aanpak voor rijscholen](https://www.rijschoolai.nl/seo) waarbij sla
 
 Het slagingspercentage tonen kan letterlijk in 30 minuten uitgevoerd worden: open de homepage, voeg een hero-sectie toe met je cijfer + landelijk gemiddelde + aantal examens, publiceer. Binnen 7 dagen zie je het effect op aanvragen.
 
-Wil je weten hoe een [complete rijschool-marketingaanpak met slagingspercentage-blokken](https://www.rijschoolai.nl/seo) eruit kan zien? Plan een vrijblijvend gesprek of bekijk de uitwerkte aanpak online — Groei-of-Geld-Terug Garantie.
+Wil je weten hoe een [complete rijschool-marketingaanpak met slagingspercentage-blokken](https://www.rijschoolai.nl/seo) eruit kan zien?
 
 Lees ook onze [andere artikelen over rijschool-marketing en leerlingenwerving](https://www.rijschoolai.nl/blog) of de specifieke gids over [Google reviews voor rijscholen](https://www.rijschoolai.nl/blog/google-reviews-rijschool-meer-leerlingen).

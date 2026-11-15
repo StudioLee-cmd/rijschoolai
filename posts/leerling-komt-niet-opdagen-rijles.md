@@ -63,4 +63,4 @@ Leerlingen die extra oefentijd willen voor hun examen pakken dit soort kansen di
 
 No-shows bij rijlessen zijn grotendeels te voorkomen met herinneringen, een helder beleid en persoonlijk contact. Het kost je vijf minuten per dag en bespaart je duizenden per jaar.
 
-Wil je weten hoe je je hele lesplanning kunt optimaliseren? Vraag een [gratis scan](/gratis-scan) aan. Zonder kosten, zonder verplichtingen, en met Groei-of-Geld-Terug Garantie.
+Wil je weten hoe je je hele lesplanning kunt optimaliseren? Vraag een [gratis scan](/gratis-scan) aan.

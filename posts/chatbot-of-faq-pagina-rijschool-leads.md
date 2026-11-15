@@ -111,4 +111,4 @@ De vraag "chatbot of FAQ-pagina" gaat uit van een keuze die je niet hoeft te mak
 
 Wie alleen een pagina heeft, beantwoordt vragen voor mensen die daarna bij een concurrent inschrijven. Wie alleen een bot heeft, staat klaar voor bezoekers die nooit komen. Samen kosten ze je één week opschrijfwerk en leveren ze je de avondaanvragen op die je nu niet ziet.
 
-Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views. Begin met een [gratis website voor rijscholen](/gratis-website) waar de bot meteen goed op staat, en je hebt je avonden weer voor jezelf.
+Begin met een [gratis website voor rijscholen](/gratis-website) waar de bot meteen goed op staat, en je hebt je avonden weer voor jezelf.

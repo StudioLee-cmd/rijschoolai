@@ -93,6 +93,6 @@ Reken op een dagdeel om je belangrijkste vragen en antwoorden op een rij te zett
 
 Een rijschool-chatbot wordt geen succes door slimme techniek, maar door de juiste vragen. Zet de elf vragen uit dit artikel scherp, houd ze actueel en zorg dat elk gesprek netjes in je CRM landt. Dan verandert je website van een digitaal visitekaartje in een collega die dag en nacht aanvragen opvangt.
 
-Wil je weten welke vragen jouw bezoekers nu laten liggen? Vraag een [gratis ai scan voor rijscholen](/gratis-scan) aan, dan kijken we mee naar je site en je leadopvolging. Met RijschoolAI zetten we een [ai chatbot voor jouw rijschool](/chatbot) op met jouw prijzen, pakketten en antwoorden, inclusief onze Groei-of-Geld-Terug Garantie. Jij geeft les, wij regelen de rest.
+Wil je weten welke vragen jouw bezoekers nu laten liggen? Vraag een [gratis ai scan voor rijscholen](/gratis-scan) aan, dan kijken we mee naar je site en je leadopvolging. Jij geeft les, wij regelen de rest.
 
 <p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/whatsapp-chatbot-rijschool-avondaanvragen" class="text-dark fw-semibold">WhatsApp chatbot voor rijscholen: avondaanvragen opvangen</a> &rarr;</p>

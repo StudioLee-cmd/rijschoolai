@@ -64,6 +64,6 @@ Zo wordt reageren op reviews geen stressmoment maar een routine, en bouw je een 
 
 Je hoeft hier niet groot mee te beginnen. Stel één keer je toon in, spreek met je team af dat elke negatieve review binnen 24 uur een kalm antwoord krijgt, en laat de AI de eerste versie schrijven. Het grootste lek (een boze review die dagen onbeantwoord blijft staan) heb je dan meteen gedicht.
 
-Wij richten die review-opvolging volledig voor je in, getraind op jouw rijschool en jouw manier van werken, met onze Groei-of-Geld-Terug Garantie. Benieuwd hoe jouw online reputatie er nu voor staat en waar je reviews laat liggen? Vraag de [gratis ai scan voor rijscholen](/gratis-scan) aan en je weet binnen een dag waar de winst zit. Jij geeft les, wij regelen de rest.
+Benieuwd hoe jouw online reputatie er nu voor staat en waar je reviews laat liggen? Vraag de [gratis ai scan voor rijscholen](/gratis-scan) aan en je weet binnen een dag waar de winst zit. Jij geeft les, wij regelen de rest.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/nfc-reviewkaart-rijschool" class="text-dark fw-semibold">NFC-reviewkaart voor je rijschool: werkt het echt?</a> &rarr;</p></div></div></div>
