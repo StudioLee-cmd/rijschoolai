@@ -26,17 +26,17 @@ Van honderden rijschool-data-punten weten we dit: leerlingen volgen een voorspel
 
 | Fase | Lessen | Motivatie |
 |---|---|---|
-| Honeymoon | 1-4 | Hoog — alles is nieuw |
-| Reality-check | 5-9 | Zakt — rijden is moeilijker dan gedacht |
-| Dip | 10-20 | Laagst — "haal ik dit eigenlijk wel?" |
-| Herstel | 21-30 | Klim — basis zit er, examen in zicht |
+| Honeymoon | 1-4 | Hoog: alles is nieuw |
+| Reality-check | 5-9 | Zakt: rijden is moeilijker dan gedacht |
+| Dip | 10-20 | Laagst: "haal ik dit eigenlijk wel?" |
+| Herstel | 21-30 | Klim: basis zit er, examen in zicht |
 | Examen-spanning | Laatste 5 | Piek angst, alles staat op het spel |
 | Naar examen | Dag van | Nerveus, focus |
 | Na examen | Direct | Euforisch of verslagen |
 
 Op elk van deze 7 momenten is een andere soort bericht nuttig. Geen van deze is "verkoop"-gerelateerd. Het zijn pure motivatie- en praktische berichten die bij de fase passen.
 
-## Moment 1: Eerste proefles — welkom bericht
+## Moment 1 (eerste proefles): welkom bericht
 
 Na intake, voor de eerste les. WhatsApp 24 uur voor de proefles:
 
@@ -44,7 +44,7 @@ Na intake, voor de eerste les. WhatsApp 24 uur voor de proefles:
 
 Wat dit doet: praktische angst wegnemen (wat trek ik aan? moet ik eten?) en de instructeur-naam alvast in het geheugen planten.
 
-## Moment 2: Na les 4 — bevestiging op de juiste koers
+## Moment 2 (na les 4): bevestiging op de juiste koers
 
 Na de 4e les (einde honeymoon-fase) stuur je automatisch een korte check:
 
@@ -52,7 +52,7 @@ Na de 4e les (einde honeymoon-fase) stuur je automatisch een korte check:
 
 Dit is persoonlijk (specifieke feedback), professioneel (je volgt de leerling), en preventief (je grijpt voor de dip begint).
 
-## Moment 3: Tijdens de dip (les 10-15) — expliciete bemoediging
+## Moment 3 (tijdens de dip, les 10-15): expliciete bemoediging
 
 Dit is het belangrijkste moment. Na de 12e les, of eerder als de instructeur een lage motivatie signaleert:
 
@@ -60,7 +60,7 @@ Dit is het belangrijkste moment. Na de 12e les, of eerder als de instructeur een
 
 Deze specifieke bemoediging voorkomt 70 procent van de afhakers. Erken dat de dip bestaat, normaliseer hem, en bied steun.
 
-## Moment 4: Eerste tussentijdse toets — voorbereiding
+## Moment 4 (eerste tussentijdse toets): voorbereiding
 
 Week voor de TTT:
 
@@ -68,15 +68,15 @@ Week voor de TTT:
 
 Demystificeer een spannend moment met een heldere uitleg. Veel leerlingen zijn onnodig gestrest.
 
-## Moment 5: Na TTT — feedback verwerken
+## Moment 5 (na TTT): feedback verwerken
 
 De avond na de TTT:
 
 > "Hi [naam], hoe ging het vandaag? Afgezien van de feedback van [instructeur]: hoe voelde jij het zelf? Geen goed of fout antwoord, gewoon benieuwd."
 
-Deze check laat zien dat je investeert in meer dan alleen het examen-doel. Leerlingen die afhaken na een teleurstellende TTT — dit bericht vangt ze op.
+Deze check laat zien dat je investeert in meer dan alleen het examen-doel. Leerlingen die afhaken na een teleurstellende TTT: dit bericht vangt ze op.
 
-## Moment 6: Dag voor het examen — rust-bericht
+## Moment 6 (dag voor het examen): rust-bericht
 
 Avond voor het examen:
 
@@ -84,7 +84,7 @@ Avond voor het examen:
 
 Praktische checklist die ook rust geeft. De nuchtere toon werkt beter dan "veel succes!!!".
 
-## Moment 7: Direct na het examen — reactie op uitslag
+## Moment 7 (direct na het examen): reactie op uitslag
 
 Binnen 1 uur na het examen, afhankelijk van de uitslag:
 

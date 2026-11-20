@@ -29,7 +29,7 @@ Drie van deze vier problemen los je op met communicatie. De vierde los je op met
 
 ## De ideale bevestigingsketen voor rijlessen
 
-### Bij het inplannen — directe bevestiging
+### Bij het inplannen: directe bevestiging
 
 Zodra de les in je systeem zit, ontvangt de leerling binnen één minuut een SMS of WhatsApp:
 
@@ -37,7 +37,7 @@ Zodra de les in je systeem zit, ontvangt de leerling binnen één minuut een SMS
 
 Dit zet de afspraak op zijn telefoon en geeft hem een laagdrempelige optie om te verzetten.
 
-### 48 uur vooraf — eerste herinnering
+### 48 uur vooraf: eerste herinnering
 
 Twee dagen voor de les komt er een tweede bericht:
 
@@ -45,7 +45,7 @@ Twee dagen voor de les komt er een tweede bericht:
 
 Dit is het moment waarop leerlingen die hun planning hebben veranderd nog kunnen reageren. Vermeld duidelijk dat verzetten gratis is, dat haalt de drempel weg.
 
-### 24 uur vooraf — laatste herinnering
+### 24 uur vooraf: laatste herinnering
 
 Een dag van tevoren komt het laatste bericht:
 
@@ -71,7 +71,7 @@ Vermeld dit beleid op je website, in je inschrijfformulieren, en in je bevestigi
 
 ![Lesauto sleutels en theorie-boek op een houten bureau](/images/blog/rijschool-no-shows-rijlessen-voorkomen-2.jpg)
 
-## Strafkosten — werkt het?
+## Strafkosten: werkt het?
 
 Sommige rijscholen zijn streng: bij elke no-show wordt automatisch het volle lesgeld in rekening gebracht. Andere zijn coulant en geven leerlingen het voordeel van de twijfel.
 
@@ -109,9 +109,9 @@ Totaal: ongeveer 7.500 euro per jaar extra omzet, voor minder dan 50 euro per ma
 
 Een no-show overkomt iedereen, ook met goede automatisering. Wat doe je dan?
 
-1. **Direct bellen** — soms heeft de leerling zich verslapen of is even weg
+1. **Direct bellen**, want soms heeft de leerling zich verslapen of is even weg
 2. **Een berichtje sturen** met "Wij staan voor de deur, ben je er?"
-3. **Tien minuten wachten** — daarna doorrijden
+3. **Tien minuten wachten**, daarna doorrijden
 4. **Nog dezelfde dag een berichtje sturen** met "Geen probleem dit keer, maar we rekenen op je bij de volgende les. Wil je verzetten?"
 5. **Bij herhaling** een serieus gesprek aangaan
 

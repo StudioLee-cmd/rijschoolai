@@ -11,7 +11,7 @@ cluster: "automatisering"
 
 Een leerling die zoekt naar een rijschool stuurt vaak drie tot vijf aanvragen tegelijk. Dezelfde avond vergelijkt die de reacties en kiest de rijschool die het snelst en persoonlijkst reageert.
 
-Als jij pas de volgende dag terugbelt, heeft de leerling al een proefles geboekt bij de concurrent. 78 procent van de consumenten kiest het bedrijf dat als eerste reageert — en bij rijscholen is dat niet anders.
+Als jij pas de volgende dag terugbelt, heeft de leerling al een proefles geboekt bij de concurrent. 78 procent van de consumenten kiest het bedrijf dat als eerste reageert, en bij rijscholen is dat niet anders.
 
 De drempel om van rijschool te wisselen is laag: er zijn er tientallen in elke stad. Snelheid van opvolging is daarom je belangrijkste concurrentievoordeel.
 
@@ -19,9 +19,9 @@ De drempel om van rijschool te wisselen is laag: er zijn er tientallen in elke s
 
 In de rijschoolmarkt is de concurrentie hevig. Google toont tientallen opties, vergelijkingssites bieden overzichten, en sociale media staan vol met aanbevelingen.
 
-De leerling die jou een berichtje stuurt, stuurt er ook drie naar andere rijscholen. Het verschil zit niet in je prijs of je auto — het zit in hoe snel je reageert en hoe persoonlijk dat voelt.
+De leerling die jou een berichtje stuurt, stuurt er ook drie naar andere rijscholen. Het verschil zit niet in je prijs of je auto. Het zit in hoe snel je reageert en hoe persoonlijk dat voelt.
 
-Een automatisch "We hebben je bericht ontvangen" is beter dan stilte, maar het wint niet van een persoonlijk antwoord binnen 10 minuten. Die combinatie — automatische bevestiging plus snelle persoonlijke opvolging — is wat werkt.
+Een automatisch "We hebben je bericht ontvangen" is beter dan stilte, maar het wint niet van een persoonlijk antwoord binnen 10 minuten. Die combinatie (automatische bevestiging plus snelle persoonlijke opvolging) is wat werkt.
 
 ![Dashboard rijscholauto](/images/blog/lead-opvolging-rijschool-meer-leerlingen-2.jpg)
 
@@ -39,7 +39,7 @@ Het geheim zit in de automatische eerste reactie. Die laat de leerling weten dat
 
 ## WhatsApp: het kanaal waar leerlingen zitten
 
-De doelgroep van rijscholen — 17 tot 25 jaar — leeft op WhatsApp. E-mail is traag, bellen voelt ouderwets. WhatsApp is snel, persoonlijk en laagdrempelig.
+De doelgroep van rijscholen, 17 tot 25 jaar, leeft op WhatsApp. E-mail is traag, bellen voelt ouderwets. WhatsApp is snel, persoonlijk en laagdrempelig.
 
 Hoe je WhatsApp inzet:
 
@@ -52,7 +52,7 @@ WhatsApp voelt persoonlijk. Een leerling die via WhatsApp contact heeft met een 
 
 ## Van proefles-aanvraag naar inschrijving
 
-De proefles is het belangrijkste conversiemoment. Alles wat je doet — de snelle reactie, het WhatsApp-contact, de herinnering — leidt naar dit moment.
+De proefles is het belangrijkste conversiemoment. Alles wat je doet (de snelle reactie, het WhatsApp-contact, de herinnering) leidt naar dit moment.
 
 Tips voor een hogere conversie:
 
@@ -65,7 +65,7 @@ Hoe korter de tijd tussen proefles en inschrijving, hoe hoger de conversie. Wach
 
 ## Structureel meer leerlingen zonder extra advertentiekosten
 
-Betere [lead opvolging](/blog/proefles-conversie-rijschool) kost niets extra aan marketing. Je hebt de aanvragen al — je zet ze alleen efficiënter om.
+Betere [lead opvolging](/blog/proefles-conversie-rijschool) kost niets extra aan marketing. Je hebt de aanvragen al. Je zet ze alleen efficiënter om.
 
 Door je responstijd te halveren en WhatsApp als hoofdkanaal te gebruiken, kun je 30 tot 50 procent meer aanvragen omzetten in inschrijvingen. Dat zijn tientallen extra leerlingen per jaar, zonder een euro extra aan advertenties.
 

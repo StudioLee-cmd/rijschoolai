@@ -10,17 +10,17 @@ cluster: "reviews"
 ---
 Een rijschool kiezen is een grote beslissing voor leerlingen. Ze investeren honderden of duizenden euro's, besteden tientallen uren in de auto, en hun slagingskans hangt af van de kwaliteit van de instructie. Geen wonder dat ze uitgebreid online onderzoek doen voordat ze kiezen.
 
-Je online [reputatie](/reviews) — met name je reviews — bepaalt of ze bij jou inschrijven of bij de concurrent. In dit artikel leer je hoe je daar grip op krijgt.
+Je online [reputatie](/reviews), met name je reviews, bepaalt of ze bij jou inschrijven of bij de concurrent. In dit artikel leer je hoe je daar grip op krijgt.
 
 ## Waarom reviews alles bepalen
 
 Potentiele leerlingen kijken naar drie dingen:
 
-1. **Slagingspercentage** — wat zeggen anderen over hun resultaten?
-2. **Ervaring met de instructeur** — is de sfeer prettig?
-3. **Prijs-kwaliteitverhouding** — is het het geld waard?
+1. **Slagingspercentage**: wat zeggen anderen over hun resultaten?
+2. **Ervaring met de instructeur**: is de sfeer prettig?
+3. **Prijs-kwaliteitverhouding**: is het het geld waard?
 
-Al deze informatie halen ze uit reviews. Een rijschool met vijftig positieve reviews en een gemiddelde van 4,7 sterren wint het altijd van een rijschool zonder reviews — ongeacht hoe goed je les geeft.
+Al deze informatie halen ze uit reviews. Een rijschool met vijftig positieve reviews en een gemiddelde van 4,7 sterren wint het altijd van een rijschool zonder reviews, ongeacht hoe goed je les geeft.
 
 ## Waar leerlingen zoeken
 

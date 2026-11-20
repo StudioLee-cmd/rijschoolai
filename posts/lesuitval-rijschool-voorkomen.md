@@ -9,19 +9,19 @@ tags: ["Planning", "Lesuitval"]
 ---
 ## Wat lesuitval je rijschool kost
 
-Als rijinstructeur is je dag opgebouwd uit lesblokken van 60 tot 90 minuten. Elk blok dat uitvalt is directe omzetverlies — je kunt niet zomaar een andere leerling inplannen op 30 minuten notice. Bij een lesprijs van €45 tot €55 per uur kost een enkele no-show je al snel €50 tot €80.
+Als rijinstructeur is je dag opgebouwd uit lesblokken van 60 tot 90 minuten. Elk blok dat uitvalt is directe omzetverlies, want je kunt niet zomaar een andere leerling inplannen op 30 minuten notice. Bij een lesprijs van €45 tot €55 per uur kost een enkele no-show je al snel €50 tot €80.
 
-Reken dat door: twee uitvallers per week betekent €400 tot €640 per maand aan gemiste omzet. Op jaarbasis is dat €5.000 tot €7.500 — genoeg voor een maand vakantie die je nu misloopt.
+Reken dat door: twee uitvallers per week betekent €400 tot €640 per maand aan gemiste omzet. Op jaarbasis is dat €5.000 tot €7.500: genoeg voor een maand vakantie die je nu misloopt.
 
 ## Waarom leerlingen niet komen opdagen
 
 Rijschoolleerlingen zijn overwegend jong (17-25 jaar) en hebben andere prioriteiten dan een vaste agenda:
 
-- **Tentamens en schooldruk** — een proefwerk morgen wint het van de rijles
-- **Vergeten** — zonder herinnering vergeten jongeren afspraken sneller
-- **Motivatiedip** — na een moeilijke les of een gezakt examen zakt de motivatie
-- **Financieel** — de leerling heeft het geld deze maand niet maar durft niet af te bellen
-- **Social plans** — een spontane uitnodiging van vrienden wint van de rijles
+- **Tentamens en schooldruk**: een proefwerk morgen wint het van de rijles
+- **Vergeten**: zonder herinnering vergeten jongeren afspraken sneller
+- **Motivatiedip**: na een moeilijke les of een gezakt examen zakt de motivatie
+- **Financieel**: de leerling heeft het geld deze maand niet maar durft niet af te bellen
+- **Social plans**: een spontane uitnodiging van vrienden wint van de rijles
 
 ## Automatische herinneringen zijn onmisbaar
 
@@ -84,4 +84,4 @@ Zonder herinneringssysteem: 15 tot 25 procent. Met [automatische herinneringen](
 
 Lesuitval is beheersbaar met de juiste aanpak: automatische herinneringen, vooruitbetaling via pakketten, een duidelijk uitvalbeleid en actieve motivatie-ondersteuning. De combinatie maakt het verschil.
 
-Wil je weten hoe RijschoolAI je planning en leerlingcommunicatie automatiseert? Vraag een [gratis scan](/gratis-scan) aan. StudioLee regelt het voor je — jij geeft rijles.
+Wil je weten hoe RijschoolAI je planning en leerlingcommunicatie automatiseert? Vraag een [gratis scan](/gratis-scan) aan. StudioLee regelt het voor je. Jij geeft rijles.

@@ -33,13 +33,13 @@ const WEBHOOK_URL = "https://n8n.aireclamestudio.nl/webhook/freewebsite";
 const PRIJS = { start: 79, alles: 379, afkoop: 800 };
 
 /* ─────────────────────────────────────────────────────────────────────────────
-   DE VIER DINGEN — het propositie-contract (niche-sites-upgrade-programma.md
+   DE VIER DINGEN: het propositie-contract (niche-sites-upgrade-programma.md
    §PROPOSITIE-CONTRACT ①). Precies vier, nooit een vijfde, nooit een tool-naam.
    ───────────────────────────────────────────────────────────────────────────── */
 const VIER = [
-  { icon: BsChatDots, titel: "Een chatbot op je site", tekst: "Vangt de bezoeker op die liever typt dan belt — ook om 23:00." },
+  { icon: BsChatDots, titel: "Een chatbot op je site", tekst: "Vangt de bezoeker op die liever typt dan belt, ook om 23:00." },
   { icon: BsTelephone, titel: "Een telefoon die opneemt", tekst: `Neemt op als jij aan het werk bent, en plant de afspraak meteen in.` },
-  { icon: BsGraphUpArrow, titel: "Marketing die doorloopt", tekst: "Je wordt gevonden, je klanten horen van je en je krijgt betaald — zonder dat jij eraan denkt." },
+  { icon: BsGraphUpArrow, titel: "Marketing die doorloopt", tekst: "Je wordt gevonden, je klanten horen van je en je krijgt betaald, zonder dat jij eraan denkt." },
   { icon: BsWindowDesktop, titel: "Een site die zichzelf bijhoudt", tekst: "Nieuwe teksten en beelden komen er vanzelf bij. Over een jaar staat 'ie er nóg goed bij." },
 ];
 
@@ -65,7 +65,7 @@ export default function GratisWebsiteContent({ looks }: { looks: FunnelLook[] })
     setError("");
     if (!look) return;
     if (!form.bedrijf || !form.plaats || !form.contact || !form.email) {
-      setError("Vul je bedrijfsnaam, plaats, naam en e-mailadres in — dan kan ik je voorbeeld maken.");
+      setError("Vul je bedrijfsnaam, plaats, naam en e-mailadres in, dan kan ik je voorbeeld maken.");
       return;
     }
     setBusy(true);
@@ -116,7 +116,7 @@ export default function GratisWebsiteContent({ looks }: { looks: FunnelLook[] })
           <motion.span
             className="inline-flex items-center gap-2 bg-primary/15 text-primary text-sm font-bold px-4 py-1.5 rounded-full mb-5 sl-reveal"
           >
-            <BsStars /> Het ontwerp is gratis — het bestand is van jou
+            <BsStars /> Het ontwerp is gratis en het bestand is van jou
           </motion.span>
           <motion.h1
             className="text-3xl md:text-4xl lg:text-5xl font-bold mb-5 !leading-tight sl-reveal sl-reveal-1"
@@ -165,7 +165,7 @@ export default function GratisWebsiteContent({ looks }: { looks: FunnelLook[] })
                   </h2>
                   <p className="text-foreground-accent">
                     {geenLooks
-                      ? "De ontwerpen voor deze branche staan klaar bij ons — vraag ze even op, dan stuur ik ze je door."
+                      ? "De ontwerpen voor deze branche staan klaar bij ons. Vraag ze even op, dan stuur ik ze je door."
                       : "Dit zijn echte websites, geen schetsen. Klik erop om 'm helemaal te bekijken."}
                   </p>
                 </div>
@@ -318,7 +318,7 @@ export default function GratisWebsiteContent({ looks }: { looks: FunnelLook[] })
               <h3 className="text-xl font-bold mb-3">Het draaiend krijgen. En houden.</h3>
               <p className="text-foreground-accent mb-4">
                 Een website die stilstaat levert niets op. Live zetten, gevonden worden, teksten die blijven
-                komen, iemand die opneemt — dát is het werk, en dat zit in het abonnement.
+                komen, iemand die opneemt: dát is het werk, en dat zit in het abonnement.
               </p>
               <ul className="space-y-2 text-sm">
                 {[
@@ -369,10 +369,10 @@ export default function GratisWebsiteContent({ looks }: { looks: FunnelLook[] })
           <div className="space-y-3">
             {[
               { q: "Is het echt gratis?", a: "Ja. Je kiest een ontwerp, vult je gegevens in en ziet 'm meteen op je eigen naam. Het ontwerpbestand krijg je van me, zonder voorwaarden." },
-              { q: "Wat kost het dan wél?", a: `Het draaiend krijgen. Live zetten, gevonden worden, de teksten die blijven komen — dat is het abonnement, vanaf €${PRIJS.start} per maand. Wil je er helemaal niet naar omkijken, dan is dat vanaf €${PRIJS.alles} per maand.` },
+              { q: "Wat kost het dan wél?", a: `Het draaiend krijgen. Live zetten, gevonden worden, de teksten die blijven komen: dat is het abonnement, vanaf €${PRIJS.start} per maand. Wil je er helemaal niet naar omkijken, dan is dat vanaf €${PRIJS.alles} per maand.` },
               { q: "Wat kost het als ik het los zou regelen?", a: `Meer. Iemand voor je telefoon en je planning, iemand voor je marketing, iemand voor je vindbaarheid, plus de losse abonnementen: bij elkaar loopt dat flink op. Bij mij zit het in één rekening, en die is lager dan die onderdelen los bij elkaar. Vergelijk dus de rekening, niet de onderdelen.` },
               { q: "Kan ik de website ook gewoon afkopen?", a: `Dat kan, voor €${PRIJS.afkoop} eenmalig. Eerlijk gezegd raad ik het de meesten af: je hebt dan het ontwerp, maar niemand die 'm live houdt, vult en vindbaar maakt. Een site die stilstaat levert niets op.` },
-              { q: "Wat moet ik zelf doen?", a: "Je bedrijfsnaam en plaats invullen. De rest — het ontwerp, de teksten, de beelden — staat er al. Weet je niet hoe je het bestand zelf draaiend krijgt? Dan leg ik dat gratis uit." },
+              { q: "Wat moet ik zelf doen?", a: "Je bedrijfsnaam en plaats invullen. De rest (het ontwerp, de teksten, de beelden) staat er al. Weet je niet hoe je het bestand zelf draaiend krijgt? Dan leg ik dat gratis uit." },
               { q: "Hoe snel zie ik iets?", a: "Meteen. Je voorbeeld staat er zodra je op de knop drukt, met jouw naam erin." },
               { q: `Moet ik al een website hebben?`, a: `Nee. De meeste ${nicheLower} die dit invullen hebben nog niets, of iets van jaren geleden. Je hebt alleen je bedrijfsnaam en plaats nodig.` },
             ].map((f) => (

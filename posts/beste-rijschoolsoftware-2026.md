@@ -11,23 +11,23 @@ Als rijschoolhouder of rijinstructeur draai je lange dagen achter het stuur. Tus
 
 ## Wat zoekt een rijschool in software?
 
-- **Lesplanning** — lessen inplannen per instructeur, leerling en voertuig
-- **Leerlingbeheer** — voortgang, examendatum, contactgegevens
-- **Facturatie** — lespakketten factureren, betalingen bijhouden
-- **Nieuwe leerlingen** — gevonden worden bij "rijschool [stad]"
-- **Reviews** — vertrouwen opbouwen bij potentiële leerlingen
+- **Lesplanning**: lessen inplannen per instructeur, leerling en voertuig
+- **Leerlingbeheer**: voortgang, examendatum, contactgegevens
+- **Facturatie**: lespakketten factureren, betalingen bijhouden
+- **Nieuwe leerlingen**: gevonden worden bij "rijschool [stad]"
+- **Reviews**: vertrouwen opbouwen bij potentiële leerlingen
 
-## iTheorie — de bekendste rijschoolapp
+## iTheorie, de bekendste rijschoolapp
 
 <a href="https://www.itheorie.nl" rel="nofollow">iTheorie</a> is de meestgebruikte theorie-app voor rijlessen in Nederland. Leerlingen oefenen theorie-examens op hun telefoon.
 
 **Sterkste punt:** De standaard voor theorie-oefening. Bijna elke leerling kent het.
 
-**Nadeel:** Alleen theorie — geen lesplanning, facturatie of marketing voor de rijschool zelf.
+**Nadeel:** Alleen theorie: geen lesplanning, facturatie of marketing voor de rijschool zelf.
 
-**Geschikt voor:** Elke rijschool als aanvulling — leerlingen gebruiken het sowieso.
+**Geschikt voor:** Elke rijschool als aanvulling, want leerlingen gebruiken het sowieso.
 
-## Plandriving — lesplanning voor rijscholen
+## Plandriving: lesplanning voor rijscholen
 
 <a href="https://www.plandriving.com" rel="nofollow">Plandriving</a> is specifiek gebouwd voor rijscholen: lesplanning, leerlingbeheer en een boekingsportaal waar leerlingen zelf lessen inplannen.
 
@@ -37,13 +37,13 @@ Als rijschoolhouder of rijinstructeur draai je lange dagen achter het stuur. Tus
 
 **Geschikt voor:** Rijscholen die hun lesplanning professioneel willen regelen.
 
-## RijschoolAI — compleet AI-systeem voor rijscholen
+## RijschoolAI: compleet AI-systeem voor rijscholen
 
 [RijschoolAI](/) is een compleet AI-systeem voor rijscholen: lesplanning, facturatie, automatische reviews via WhatsApp, AI-chatbot, Voice AI-telefonist en optimalisatie voor Google én AI-zoekmachines.
 
 **Sterkste punt:** Alles in één met AI: lesplanning, leerlingbeheer, facturatie, review-automatisering, AI-chatbot die aanmeldingen opvangt, Voice AI die de telefoon opneemt, en [betere vindbaarheid op Google](/blog/seo-rijschool-meer-leerlingen). Custom booking app zonder commissie.
 
-**Nadeel:** Geen theorie-oefenplatform — daarvoor blijven leerlingen iTheorie of vergelijkbare apps gebruiken.
+**Nadeel:** Geen theorie-oefenplatform. Daarvoor blijven leerlingen iTheorie of vergelijkbare apps gebruiken.
 
 **Geschikt voor:** Rijscholen die willen groeien met AI: meer aanmeldingen, betere reviews en minder administratie.
 
@@ -64,7 +64,7 @@ Als rijschoolhouder of rijinstructeur draai je lange dagen achter het stuur. Tus
 
 ## Conclusie
 
-- **Theorie?** iTheorie is de standaard — leerlingen gebruiken het sowieso.
+- **Theorie?** iTheorie is de standaard, want leerlingen gebruiken het sowieso.
 - **Lesplanning?** Plandriving regelt lessen en leerlingbeheer professioneel.
 - **Compleet systeem met AI?** [RijschoolAI](/) combineert planning, reviews, chatbot, Voice AI en vindbaarheid in één.
 
