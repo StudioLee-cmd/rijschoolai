@@ -11,7 +11,7 @@ cluster: "website"
 
 ## Waarom je website je beste werving is
 
-Als rijschool investeer je in advertenties, social media en misschien zelfs flyers. Maar je website is je belangrijkste wervingskanaal — áls je het goed inricht. Een potentiële leerling Googlet "rijschool [plaatsnaam]", bekijkt drie websites en schrijft zich in bij de rijschool die het meest vertrouwenwekkend overkomt.
+Als rijschool investeer je in advertenties, social media en misschien zelfs flyers. Maar je website is je belangrijkste wervingskanaal, áls je het goed inricht. Een potentiële leerling Googlet "rijschool [plaatsnaam]", bekijkt drie websites en schrijft zich in bij de rijschool die het meest vertrouwenwekkend overkomt.
 
 De vraag is niet óf je een website hebt, maar of die website converteert. Lees ook hoe je als rijschool [beter vindbaar wordt op Google](/blog/seo-rijschool-meer-leerlingen) zodat meer mensen je website überhaupt vinden.
 
@@ -20,11 +20,11 @@ De vraag is niet óf je een website hebt, maar of die website converteert. Lees 
 Je inschrijfformulier is het scharnierpunt. Maak het zo makkelijk mogelijk:
 
 - **Naam en telefoonnummer**: het minimum
-- **Rijbewijs type**: B, A, BE — dropdown
+- **Rijbewijs type**: B, A, BE (dropdown)
 - **Voorkeur voor automaat of schakel**: steeds meer leerlingen kiezen automaat
 - **Beschikbaarheid**: doordeweeks, weekend, 's avonds
 
-Maximaal 5-6 velden. Stuur direct een bevestigingsmail: "Bedankt voor je inschrijving! We nemen binnen 24 uur contact op voor je eerste lesafspraak." Die snelle reactie maakt het verschil — de rijschool die het eerst belt, wint de leerling.
+Maximaal 5-6 velden. Stuur direct een bevestigingsmail: "Bedankt voor je inschrijving! We nemen binnen 24 uur contact op voor je eerste lesafspraak." Die snelle reactie maakt het verschil: de rijschool die het eerst belt, wint de leerling.
 
 ## Prijzen en pakketten presenteren
 
@@ -48,14 +48,14 @@ Lees hoe je systematisch [meer Google reviews krijgt als rijschool](/blog/meer-g
 
 ## Mobiel en snelheid
 
-Jouw doelgroep — 17-25 jarigen — leeft op hun telefoon. Je website moet op mobiel perfect werken:
+Jouw doelgroep (17-25 jarigen) leeft op hun telefoon. Je website moet op mobiel perfect werken:
 
 - **Snel laden**: onder 3 seconden, geen zware afbeeldingen
 - **Click-to-call**: één tik om te bellen
 - **Inschrijfformulier**: grote knoppen, weinig typen, autocomplete aan
 
-Test je website op de nieuwste iPhones en populaire Android-telefoons. Wat er op jouw laptop goed uitziet, kan op een iPhone SE onbruikbaar zijn. Versterk je mobiele aanwezigheid met [social media](/blog/social-media-rijscholen-leerlingen) — daar zit je doelgroep.
+Test je website op de nieuwste iPhones en populaire Android-telefoons. Wat er op jouw laptop goed uitziet, kan op een iPhone SE onbruikbaar zijn. Versterk je mobiele aanwezigheid met [social media](/blog/social-media-rijscholen-leerlingen), want daar zit je doelgroep.
 
 ## Conclusie
 
-Je rijschoolwebsite kan je beste wervingstool zijn. Met een kort inschrijfformulier, transparante prijzen, overtuigende reviews en een mobielvriendelijk design converteer je meer bezoekers naar leerlingen. Begin met het optimaliseren van je inschrijfformulier — dat levert de snelste winst op. Wil je weten hoe je rijschool er online voor staat? Vraag een [gratis scan](/gratis-scan) aan.
+Je rijschoolwebsite kan je beste wervingstool zijn. Met een kort inschrijfformulier, transparante prijzen, overtuigende reviews en een mobielvriendelijk design converteer je meer bezoekers naar leerlingen. Begin met het optimaliseren van je inschrijfformulier, want dat levert de snelste winst op. Wil je weten hoe je rijschool er online voor staat? Vraag een [gratis scan](/gratis-scan) aan.

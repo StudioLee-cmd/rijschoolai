@@ -19,7 +19,7 @@ De reden is simpel: bij een investering van 2.000 tot 3.000 euro willen leerling
 
 Bij rijscholen heb je een uniek voordeel: je ziet je klant regelmatig, wekelijks zelfs. Dat geeft je meerdere natuurlijke momenten om een review te vragen.
 
-**Na het behalen van het rijbewijs.** Dit is het allerbeste moment. De leerling is euforisch, dankbaar en trots. Die emotie vertaalt zich in de meest enthousiaste reviews die je kunt krijgen. "Ik ben in een keer geslaagd dankzij [instructeur]!" — dat soort reviews schrijven leerlingen alleen op het moment zelf. Wacht je een week, dan is het moment voorbij.
+**Na het behalen van het rijbewijs.** Dit is het allerbeste moment. De leerling is euforisch, dankbaar en trots. Die emotie vertaalt zich in de meest enthousiaste reviews die je kunt krijgen. "Ik ben in een keer geslaagd dankzij [instructeur]!" Dat soort reviews schrijven leerlingen alleen op het moment zelf. Wacht je een week, dan is het moment voorbij.
 
 **Na de eerste vijf lessen.** Vraag ook tussentijds aan leerlingen die duidelijk tevreden zijn: "Je maakt goede vorderingen. Zou je alvast een review willen plaatsen over je ervaring tot nu toe?" Dit levert een constante stroom aan nieuwe beoordelingen op, niet alleen op examendagen.
 

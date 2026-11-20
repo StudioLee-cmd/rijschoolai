@@ -13,7 +13,7 @@ cluster: "automatisering"
 
 ## Waarom seizoenen je leerlingenaanwas bepalen
 
-Rijscholen hebben een duidelijk seizoenspatroon. Het voorjaar is piek — 18-jarigen die in de zomer willen rijden. De zomer brengt intensieve cursussen. Het najaar heeft een tweede golf en de winter is traditioneel rustiger.
+Rijscholen hebben een duidelijk seizoenspatroon. Het voorjaar is piek: 18-jarigen die in de zomer willen rijden. De zomer brengt intensieve cursussen. Het najaar heeft een tweede golf en de winter is traditioneel rustiger.
 
 De rijscholen die hun planning het hele jaar door vol hebben, zijn degenen die hun marketing afstemmen op deze patronen. Ze promoten het juiste aanbod op het juiste moment.
 
@@ -21,15 +21,15 @@ De rijscholen die hun planning het hele jaar door vol hebben, zijn degenen die h
 
 Maart tot juni is het drukste seizoen. Jongeren die in de zomer hun rijbewijs willen hebben, beginnen nu.
 
-**Start je campagne in februari**. Niet wachten tot maart. Stuur een bericht via [social media](/blog/social-media-rijscholen-leerlingen): "Wil je deze zomer je rijbewijs hebben? Start nu — begin met een gratis proefles."
+**Start je campagne in februari**. Niet wachten tot maart. Stuur een bericht via [social media](/blog/social-media-rijscholen-leerlingen): "Wil je deze zomer je rijbewijs hebben? Start nu en begin met een gratis proefles."
 
 **Proefles als instapdrempel**. Een gratis of goedkope proefles is de meest effectieve lead generator voor rijscholen. Het verlaagt de drempel en geeft de leerling vertrouwen.
 
-**[Email](/blog/email-marketing-rijschool-leerlingen) naar wachtlijst**. Heb je een wachtlijst of lijst van geinteresseerden? Stuur in februari een mail: "Nog plek voor het voorjaar — schrijf je nu in."
+**[Email](/blog/email-marketing-rijschool-leerlingen) naar wachtlijst**. Heb je een wachtlijst of lijst van geinteresseerden? Stuur in februari een mail: "Nog plek voor het voorjaar, schrijf je nu in."
 
 ## Zomer: vakantie-intensieven
 
-De zomer is ideaal voor intensieve cursussen — leerlingen hebben vakantie en tijd.
+De zomer is ideaal voor intensieve cursussen, want leerlingen hebben vakantie en tijd.
 
 **Zomercursus promoten in mei**. "Vakantierijcursus: haal je rijbewijs in de zomervakantie." Intensieve cursussen van twee tot vier weken trekken leerlingen die snel resultaat willen.
 

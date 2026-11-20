@@ -9,7 +9,7 @@ tags: ["Reviews", "Review strategie"]
 ---
 ## Waarom reviews een rijschool maken of breken
 
-Rijlessen zijn een grote investering — €2.000 tot €3.500 voor een compleet traject. Leerlingen (en hun ouders) willen zeker weten dat ze de juiste rijschool kiezen. Reviews van geslaagde leerlingen zijn het sterkste bewijs dat jij de juiste keuze bent.
+Rijlessen zijn een grote investering: €2.000 tot €3.500 voor een compleet traject. Leerlingen (en hun ouders) willen zeker weten dat ze de juiste rijschool kiezen. Reviews van geslaagde leerlingen zijn het sterkste bewijs dat jij de juiste keuze bent.
 
 Een rijschool met 50+ reviews en een 4,7 score trekt aantoonbaar meer leerlingen dan een rijschool met 5 reviews, ongeacht de prijs. Reviews overbruggen het vertrouwensgat.
 
@@ -37,7 +37,7 @@ Koppel je reviewverzoeken aan je leerlingenadministratie:
 - Examen geslaagd? Automatisch [reviewverzoek](/reviews) binnen 1 uur.
 - Examen niet geslaagd? Review uitgesteld tot na het herexamen.
 
-Systemen zoals die van [RijschoolAI](/) automatiseren deze flow. De leerling krijgt het bericht op het perfecte moment — jij bent ondertussen al bezig met de volgende les.
+Systemen zoals die van [RijschoolAI](/) automatiseren deze flow. De leerling krijgt het bericht op het perfecte moment, terwijl jij al bezig bent met de volgende les.
 
 ## Ouders als reviewbron
 
@@ -47,7 +47,7 @@ Ouders schrijven vaak gedetailleerdere reviews: "Mijn zoon was eerst zenuwachtig
 
 ## Deel geslaagde leerlingen op social media
 
-Maak een foto van de geslaagde leerling (met toestemming) bij de auto met het certificaat. Deel het op Instagram en tag de leerling. Dit genereert organisch reviews — leerlingen reageren vaak met een review nadat ze getagd zijn.
+Maak een foto van de geslaagde leerling (met toestemming) bij de auto met het certificaat. Deel het op Instagram en tag de leerling. Dit genereert organisch reviews, want leerlingen reageren vaak met een review nadat ze getagd zijn.
 
 ## Veelgestelde vragen
 
@@ -65,4 +65,4 @@ Reageer empathisch. Erken de teleurstelling en benadruk dat je samen werkt aan h
 
 Geslaagde leerlingen zijn je krachtigste marketingtool. Automatiseer het reviewproces rond examendata, betrek ouders en deel successen op social media. Het kost je niets en levert direct meer inschrijvingen op.
 
-Wil je weten hoe RijschoolAI je reviewverzameling automatiseert? Vraag een [gratis scan](/gratis-scan) aan. StudioLee regelt het — jij geeft rijles.
+Wil je weten hoe RijschoolAI je reviewverzameling automatiseert? Vraag een [gratis scan](/gratis-scan) aan. StudioLee regelt het. Jij geeft rijles.

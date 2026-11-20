@@ -87,7 +87,7 @@ Print dit en hang het naast je telefoon:
 Ik zag dat je net een aanvraag hebt ingestuurd voor een proefles.
 Heb je nu twee minuten? Dan neem ik even de basis door."
 
-[KWALIFICATIE — noteer]
+[KWALIFICATIE: noteer]
 1. Leeftijd + wanneer rijbewijs willen?
 2. Voorkeur lesfrequentie of spoedcursus?
 3. Eerdere ervaring met rijles?
@@ -97,7 +97,7 @@ Heb je nu twee minuten? Dan neem ik even de basis door."
 "Op basis daarvan raad ik [type proefles] aan van [duur].
 Ik heb [datum 1] om [tijd] of [datum 2] om [tijd]. Welke werkt?"
 
-[BEZWAREN — gebruik scripts hierboven]
+[BEZWAREN: gebruik scripts hierboven]
 - Overleg met ouders → bied actie aan
 - Prijs vergelijken → benadruk efficiëntie + proefles
 - Wachttijd CBR → algemene info + onze planning

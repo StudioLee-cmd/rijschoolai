@@ -36,14 +36,14 @@ De beste keuze hangt af van je markt, je passie en wat je concurrenten doen.
 
 ## Hoe communiceer je je specialisatie?
 
-- **Website** — een specifieke landingspagina per specialisatie
-- **Google** — optimaliseer je [bedrijfsprofiel](/blog/google-bedrijfsprofiel-rijschool) met de juiste categorieen
-- **Reviews** — vraag leerlingen specifiek over hun ervaring met jouw niche-aanbod via [Google reviews](/blog/meer-google-reviews-voor-je-rijschool)
-- **Social media** — deel succesverhalen van leerlingen
+- **Website**: een specifieke landingspagina per specialisatie
+- **Google**: optimaliseer je [bedrijfsprofiel](/blog/google-bedrijfsprofiel-rijschool) met de juiste categorieen
+- **Reviews**: vraag leerlingen specifiek over hun ervaring met jouw niche-aanbod via [Google reviews](/blog/meer-google-reviews-voor-je-rijschool)
+- **Social media**: deel succesverhalen van leerlingen
 
 ## De valkuil van te breed blijven
 
-Door alles aan te bieden, val je nergens op. Specialisatie betekent niet dat je stopt met reguliere lessen — het betekent dat je ergens extra goed in bent en dat actief communiceert.
+Door alles aan te bieden, val je nergens op. Specialisatie betekent niet dat je stopt met reguliere lessen. Het betekent dat je ergens extra goed in bent en dat actief communiceert.
 
 ## Specialisatie en je slagingspercentage
 
