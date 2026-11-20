@@ -1,6 +1,6 @@
 ---
 title: "Hoe rijscholen AI inzetten om meer leerlingen te werven"
-excerpt: "AI helpt rijscholen bij lesplanning, leerlingcommunicatie en marketing — voor meer inschrijvingen zonder extra administratie."
+excerpt: "AI helpt rijscholen bij lesplanning, leerlingcommunicatie en marketing, voor meer inschrijvingen zonder extra administratie."
 date: "2026-03-06"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoe-rijscholen-ai-inzetten-meer-leerlingen-werven.png"
@@ -14,11 +14,11 @@ De rijschoolmarkt is competitief. Leerlingen oriënteren zich online, vergelijke
 - **Lesplanning**: AI optimaliseert het lesrooster op basis van instructeursbeschikbaarheid, voertuigbezetting en leerlingvraag.
 - **Automatische herinneringen**: Leerlingen ontvangen automatisch een herinnering voor elke les. No-shows dalen aanzienlijk.
 - **Voortgangscommunicatie**: AI stuurt ouders en leerlingen automatisch updates over voortgang en theorieplanning.
-- **Inschrijfproces**: Geïnteresseerde leerlingen vullen een online formulier in — AI verwerkt de aanvraag en plant een proefles in.
+- **Inschrijfproces**: Geïnteresseerde leerlingen vullen een online formulier in. AI verwerkt de aanvraag en plant een proefles in.
 
 ## Meer leerlingen via snellere opvolging
 
-Leerlingen die een rijschool zoeken, oriënteren zich bij meerdere aanbieders tegelijk. De rijschool die binnen het uur reageert op een aanvraag, scoort significant beter. Met AI-gestuurde aanvraagverwerking reageert jouw rijschool automatisch — 24/7.
+Leerlingen die een rijschool zoeken, oriënteren zich bij meerdere aanbieders tegelijk. De rijschool die binnen het uur reageert op een aanvraag, scoort significant beter. Met AI-gestuurde aanvraagverwerking reageert jouw rijschool automatisch, 24/7.
 
 ## Reviews als wervingstool
 

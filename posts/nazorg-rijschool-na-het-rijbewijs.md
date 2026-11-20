@@ -12,7 +12,7 @@ cluster: "automatisering"
 
 Het moment dat een leerling het rijbewijs haalt, is het hoogtepunt van jullie samenwerking. Maar voor veel rijscholen is het ook het einde van het contact. En dat is een gemiste kans.
 
-Een geslaagde leerling is je beste ambassadeur. Ze zijn blij, trots en dankbaar — precies het moment waarop ze je het liefst aanbevelen bij vrienden, familie en collega's. Maar als je na het rijbewijs niets meer laat horen, vergeten ze je sneller dan je denkt.
+Een geslaagde leerling is je beste ambassadeur. Ze zijn blij, trots en dankbaar: precies het moment waarop ze je het liefst aanbevelen bij vrienden, familie en collega's. Maar als je na het rijbewijs niets meer laat horen, vergeten ze je sneller dan je denkt.
 
 Nazorg is de brug tussen een tevreden leerling en een actieve doorverwijzer. Het kost weinig tijd, maar levert veel op.
 
@@ -21,7 +21,7 @@ Nazorg is de brug tussen een tevreden leerling en een actieve doorverwijzer. Het
 Het eerste contact na het rijbewijs is het belangrijkst. Een simpel bericht maakt een groot verschil:
 
 - **Felicitatieberichtje**: stuur dezelfde dag een persoonlijk WhatsApp-bericht of e-mail
-- **Foto delen**: als je een foto hebt gemaakt bij het slagen, stuur die mee — leerlingen delen dit graag op social media
+- **Foto delen**: als je een foto hebt gemaakt bij het slagen, stuur die mee, want leerlingen delen dit graag op social media
 - **Na een week**: vraag hoe de eerste ritten alleen gaan
 - **Na een maand**: check in of alles goed gaat en of ze vragen hebben
 
@@ -56,10 +56,10 @@ Social media is perfect voor nazorg op schaal:
 
 - **Deel slagingsfoto's**: met toestemming, plaats foto's van geslaagde leerlingen
 - **Tag leerlingen**: ze delen het in hun eigen netwerk
-- **Post tips voor beginners**: "5 tips voor je eerste snelwegrit" — content die je oud-leerlingen relevant vinden
+- **Post tips voor beginners**: "5 tips voor je eerste snelwegrit", content die je oud-leerlingen relevant vinden
 - **Reageer op berichten**: houd het contact warm
 
-Instagram en TikTok zijn ideale kanalen voor rijscholen. Je doelgroep — jongeren — is daar actief en deelt graag hun succes.
+Instagram en TikTok zijn ideale kanalen voor rijscholen. Je doelgroep (jongeren) is daar actief en deelt graag hun succes.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/rijschoolai-vs-personeel" class="text-dark fw-semibold">Personeel op Kantoor vs. AI: Waarom meer betalen?</a> →</p></div></div></div>
 
@@ -73,7 +73,7 @@ Maak nazorg structureel met een eenvoudig plan:
 4. **Maand 3**: opfrisles-aanbod
 5. **Maand 6**: doorverwijsactie
 
-Dit kun je grotendeels automatiseren met simpele herinneringen in je telefoon of agenda. Vijf berichten per leerling, verspreid over een half jaar — dat is alles wat nodig is.
+Dit kun je grotendeels automatiseren met simpele herinneringen in je telefoon of agenda. Vijf berichten per leerling, verspreid over een half jaar: dat is alles wat nodig is.
 
 De rijscholen die nazorg serieus nemen, merken het in hun aanmeldingen. Want elke tevreden leerling die je aanbeveelt, is een nieuwe leerling die je niet via advertenties hoeft te vinden.
 

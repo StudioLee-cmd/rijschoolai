@@ -13,11 +13,11 @@ cluster: "automatisering"
 
 ## Waarom email marketing werkt voor rijscholen
 
-De meeste rijscholen stoppen met communiceren zodra een leerling is geslaagd. Begrijpelijk — de klant heeft zijn rijbewijs en heeft je niet meer nodig. Maar die geslaagde leerling kent tientallen mensen die ook nog moeten leren rijden. Vrienden, broers en zussen, collega's.
+De meeste rijscholen stoppen met communiceren zodra een leerling is geslaagd. Begrijpelijk: de klant heeft zijn rijbewijs en heeft je niet meer nodig. Maar die geslaagde leerling kent tientallen mensen die ook nog moeten leren rijden. Vrienden, broers en zussen, collega's.
 
 Als jij top-of-mind bent bij je geslaagde leerlingen, word je aanbevolen. Zonder advertenties. Email marketing is het goedkoopste en meest effectieve kanaal om dat te bereiken.
 
-Bovendien heb je een uniek voordeel: je hebt weken of maanden intensief contact gehad met je leerlingen. Die persoonlijke band is goud waard — benut hem.
+Bovendien heb je een uniek voordeel: je hebt weken of maanden intensief contact gehad met je leerlingen. Die persoonlijke band is goud waard, dus benut hem.
 
 ## De post-examen follow-up
 

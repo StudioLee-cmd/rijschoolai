@@ -14,13 +14,13 @@ Een goed onderhouden profiel met sterke reviews is voor rijscholen de meest effe
 
 ## Waarom Google Bedrijfsprofiel voor rijscholen
 
-Rijlessen zijn een grote investering — zowel financieel als qua tijd. Leerlingen (en hun ouders) willen zeker weten dat ze de juiste keuze maken. [Google reviews](/reviews) en een professioneel profiel bieden die zekerheid.
+Rijlessen zijn een grote investering, zowel financieel als qua tijd. Leerlingen (en hun ouders) willen zeker weten dat ze de juiste keuze maken. [Google reviews](/reviews) en een professioneel profiel bieden die zekerheid.
 
-Rijscholen die [goed vindbaar zijn op Google](/blog/seo-rijschool-meer-leerlingen) ontvangen meer aanvragen dan concurrenten die alleen op mond-tot-mondreclame vertrouwen. Je profiel is je digitale visitekaartje — zorg dat het indruk maakt.
+Rijscholen die [goed vindbaar zijn op Google](/blog/seo-rijschool-meer-leerlingen) ontvangen meer aanvragen dan concurrenten die alleen op mond-tot-mondreclame vertrouwen. Je profiel is je digitale visitekaartje, dus zorg dat het indruk maakt.
 
 ## Je rijschoolprofiel opzetten
 
-Claim je profiel op business.google.com en vul elk veld in. Kies "Rijschool" als primaire categorie. Voeg je lesgebied toe — Google laat je een servicegebied instellen zodat leerlingen in je regio je vinden.
+Claim je profiel op business.google.com en vul elk veld in. Kies "Rijschool" als primaire categorie. Voeg je lesgebied toe: Google laat je een servicegebied instellen zodat leerlingen in je regio je vinden.
 
 Schrijf een heldere beschrijving: welke pakketten je aanbiedt (lespakket, spoedcursus, herexamen), je slagingspercentage als dat goed is, en je aanpak. "Persoonlijke begeleiding met maximaal 2 lessen per dag voor optimaal leereffect" is specifieker dan "Wij zijn een gezellige rijschool."
 
@@ -28,7 +28,7 @@ Voeg je website, telefoonnummer en WhatsApp-link toe. Veel leerlingen nemen liev
 
 ## Reviews van geslaagde leerlingen
 
-Reviews zijn de belangrijkste factor bij de keuze van een rijschool. Leerlingen die net geslaagd zijn, zijn in een euforische stemming — het perfecte moment om een review te vragen. Stuur direct na het slagen een felicitatieberichtje met een link naar je Google-profiel.
+Reviews zijn de belangrijkste factor bij de keuze van een rijschool. Leerlingen die net geslaagd zijn, zijn in een euforische stemming: het perfecte moment om een review te vragen. Stuur direct na het slagen een felicitatieberichtje met een link naar je Google-profiel.
 
 "Gefeliciteerd met je rijbewijs! Zou je je ervaring willen delen op Google? Dat helpt andere leerlingen bij hun keuze." De meeste geslaagden helpen je graag. Meer strategieen vind je in ons artikel over [Google reviews voor rijscholen](/blog/meer-google-reviews-voor-je-rijschool).
 
@@ -40,7 +40,7 @@ Upload foto's van je lesauto (schoon, modern), je lesmateriaal en eventueel je l
 
 Voeg foto's toe van geslaagde leerlingen (met toestemming) met hun rijbewijs. Dit creëert social proof en maakt je profiel persoonlijk. Een collage van blije gezichten is de sterkste reclame.
 
-Het werkt ook goed om op social media en via [mond-tot-mondreclame](/blog/mond-tot-mondreclame-rijschool-stimuleren) geslaagde leerlingen te vieren — en ze van daaruit naar je Google-profiel te sturen.
+Het werkt ook goed om op social media en via [mond-tot-mondreclame](/blog/mond-tot-mondreclame-rijschool-stimuleren) geslaagde leerlingen te vieren, en ze van daaruit naar je Google-profiel te sturen.
 
 ## Tips voor lokale zoekresultaten
 

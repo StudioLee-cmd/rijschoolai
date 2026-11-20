@@ -17,10 +17,10 @@ Dit is het moment waarop jouw rijschool viral kan gaan in de vriendengroep van e
 ## Waarom mond-tot-mond zo sterk werkt bij rijscholen
 
 Rijscholen hebben een unieke dynamiek:
-- **Doelgroep is social** — 17-25-jarigen leven op Instagram, TikTok en WhatsApp
-- **Iedereen kent iemand die wil leren rijden** — broertjes, zusjes, vrienden, collega's
-- **Vertrouwen is cruciaal** — je vertrouwt je rijinstructeur met je veiligheid
-- **De investering is groot** — €2.000-3.500 voor een rijbewijs, dus mensen vragen om aanbevelingen
+- **Doelgroep is social**: 17-25-jarigen leven op Instagram, TikTok en WhatsApp
+- **Iedereen kent iemand die wil leren rijden**: broertjes, zusjes, vrienden, collega's
+- **Vertrouwen is cruciaal**: je vertrouwt je rijinstructeur met je veiligheid
+- **De investering is groot**: €2.000-3.500 voor een rijbewijs, dus mensen vragen om aanbevelingen
 
 ## Het slaag-systeem: 5 stappen
 
@@ -74,7 +74,7 @@ Moedig leerlingen aan om hun rijles-ervaring te delen. Een foto vanuit de lesaut
 
 ### Google reviews als standaard
 
-Niet alleen bij slagen — ook tijdens het traject. Na les 10: "Hoe bevalt het tot nu toe? Een tussentijdse review helpt ons en andere leerlingen!"
+Niet alleen bij slagen, ook tijdens het traject. Na les 10: "Hoe bevalt het tot nu toe? Een tussentijdse review helpt ons en andere leerlingen!"
 
 ### Ouders betrekken
 
@@ -92,7 +92,7 @@ Ouders betalen vaak de rijlessen en hebben het grootste netwerk van andere ouder
 
 ## Conclusie
 
-Het slaagmoment is het krachtigste marketingmoment dat je als rijschool hebt. Door het systematisch in te zetten — met foto's, reviews, doorverwijzingen en social media — bouw je een zelfversterkende aanmeldingsstroom.
+Het slaagmoment is het krachtigste marketingmoment dat je als rijschool hebt. Door het systematisch in te zetten, met foto's, reviews, doorverwijzingen en social media, bouw je een zelfversterkende aanmeldingsstroom.
 
 Met [RijschoolAI](/) automatiseren we je slaag-flow, reviewverzoeken en doorverwijzingen. Onze managed service kost slechts 15 minuten van je tijd per maand.
 

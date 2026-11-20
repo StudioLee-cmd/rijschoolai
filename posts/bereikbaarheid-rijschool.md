@@ -1,14 +1,14 @@
 ---
 title: "Bereikbaarheid als rijschool: altijd beschikbaar voor potentiele leerlingen"
 seoTitle: "Bereikbaarheid als rijschool"
-excerpt: "Leerlingen kiezen de rijschool die het snelst reageert. Leer hoe je als rijschool altijd bereikbaar bent — zonder je agenda te laten exploderen."
+excerpt: "Leerlingen kiezen de rijschool die het snelst reageert. Leer hoe je als rijschool altijd bereikbaar bent, zonder je agenda te laten exploderen."
 date: "2026-03-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/bereikbaarheid-rijschool.png"
 tags: ["Klantenservice"]
 cluster: "voice-ai"
 ---
-Een leerling die besluit om te gaan rijden, belt of appt de eerste drie rijscholen die ze vinden. De rijschool die het snelst reageert, wint de leerling. Bereikbaarheid is geen bijzaak — het is je eerste kans om indruk te maken.
+Een leerling die besluit om te gaan rijden, belt of appt de eerste drie rijscholen die ze vinden. De rijschool die het snelst reageert, wint de leerling. Bereikbaarheid is geen bijzaak. Het is je eerste kans om indruk te maken.
 
 ## Waarom snelheid telt
 
@@ -48,7 +48,7 @@ Combineer goede bereikbaarheid met een sterk [Google Bedrijfsprofiel](/blog/goog
 
 ## Het resultaat
 
-Rijscholen die hun bereikbaarheid verbeteren, zien binnen weken meer inschrijvingen. De investering is minimaal — een online inschrijfformulier en een automatisch antwoord kosten niets. Het rendement is direct meetbaar in het aantal nieuwe leerlingen dat zich aanmeldt. Meet het verschil: tel het aantal gemiste oproepen deze week en vergelijk dat met het aantal na het implementeren van bovenstaande oplossingen.
+Rijscholen die hun bereikbaarheid verbeteren, zien binnen weken meer inschrijvingen. De investering is minimaal: een online inschrijfformulier en een automatisch antwoord kosten niets. Het rendement is direct meetbaar in het aantal nieuwe leerlingen dat zich aanmeldt. Meet het verschil: tel het aantal gemiste oproepen deze week en vergelijk dat met het aantal na het implementeren van bovenstaande oplossingen.
 
 ## Hulp nodig?
 

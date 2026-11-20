@@ -48,11 +48,11 @@ Veel beroepen vereisen een rijbewijs. Uitzendbureaus en werkgevers zoeken actief
 
 ## Events als netwerkkansen
 
-Organiseer samen met je partners een "Rijbewijs-infodag" — een event waar scholieren en hun ouders informatie krijgen over rijlessen, verzekeringe, eerste-auto-financiering en verkeersveiligheid. Nodig je partners uit met een stand. Zo bereik je in een middag meer potentiele leerlingen dan in een maand online adverteren.
+Organiseer samen met je partners een "Rijbewijs-infodag": een event waar scholieren en hun ouders informatie krijgen over rijlessen, verzekeringe, eerste-auto-financiering en verkeersveiligheid. Nodig je partners uit met een stand. Zo bereik je in een middag meer potentiele leerlingen dan in een maand online adverteren.
 
 ## Online zichtbaarheid
 
-Vermeld je samenwerkingspartners op je [website](/blog/rijschoolwebsite-conversie-inschrijving). Deel [succesverhalen](/blog/mond-tot-mondreclame-rijschool-stimuleren) van leerlingen die via partners bij je terechtkwamen. Link naar elkaars websites — dit versterkt je [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-rijschool) en je lokale vindbaarheid.
+Vermeld je samenwerkingspartners op je [website](/blog/rijschoolwebsite-conversie-inschrijving). Deel [succesverhalen](/blog/mond-tot-mondreclame-rijschool-stimuleren) van leerlingen die via partners bij je terechtkwamen. Link naar elkaars websites, want dit versterkt je [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-rijschool) en je lokale vindbaarheid.
 
 ## Resultaten meten
 
@@ -60,7 +60,7 @@ Vraag elke nieuwe leerling hoe ze je gevonden hebben. Registreer doorverwijzinge
 
 ## Het netwerk als concurrentievoordeel
 
-Rijscholen die investeren in partnerschappen hebben een voorsprong die concurrenten niet zomaar kunnen kopiëren. Een relatie met de lokale scholengemeenschap, een samenwerking met het uitzendbureau, een deal met de garage — dat zijn kanalen die maanden kosten om op te bouwen maar jarenlang leerlingen opleveren. Je concurrenten die alleen op Google Ads vertrouwen betalen per klik. Jij krijgt doorverwijzingen zonder advertentiekosten.
+Rijscholen die investeren in partnerschappen hebben een voorsprong die concurrenten niet zomaar kunnen kopiëren. Een relatie met de lokale scholengemeenschap, een samenwerking met het uitzendbureau, een deal met de garage: dat zijn kanalen die maanden kosten om op te bouwen maar jarenlang leerlingen opleveren. Je concurrenten die alleen op Google Ads vertrouwen betalen per klik. Jij krijgt doorverwijzingen zonder advertentiekosten.
 
 ## Hulp nodig?
 

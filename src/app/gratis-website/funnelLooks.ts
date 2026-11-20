@@ -45,7 +45,7 @@ export type Prospect = {
   telefoon?: string;
   domein?: string;
   email?: string;
-  b?: string; // de site die 'm stuurde — de balk in het voorbeeld linkt terug
+  b?: string; // de site die 'm stuurde; de balk in het voorbeeld linkt terug
 };
 
 export function previewUrl(look: FunnelLook, p: Prospect): string {

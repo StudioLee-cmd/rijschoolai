@@ -17,7 +17,7 @@ const pillars = [
     {
         title: "Je lesrooster blijft vol",
         subtitle: "Meer afspraken",
-        description: "Elke beller wordt te woord gestaan en elke aanvraag komt in je agenda — ook als jij in de lesauto naast een leerling zit.",
+        description: "Elke beller wordt te woord gestaan en elke aanvraag komt in je agenda, ook als jij in de lesauto naast een leerling zit.",
         icon: <FiTrendingUp size={32} />,
         pillarLinks: [{ href: "/voice-ai", anchor: "ai telefonist voor rijscholen" }, { href: "/chatbot", anchor: "ai chatbot voor rijscholen" }],
     },

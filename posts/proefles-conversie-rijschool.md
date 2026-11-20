@@ -17,7 +17,7 @@ Een proefles is voor bijna elke Nederlandse rijschool de kern van het inschrijvi
 
 Een leerling vraagt op woensdagavond om 21:15 een proefles aan via je website-formulier. Jij bent op dat moment aan het lesgeven of al klaar met werken. De aanvraag komt bij je mailbox binnen die je 's ochtends rond 9:00 pas opent. Je reageert tussen klussen door om 13:30. De leerling heeft intussen drie andere rijscholen aangeschreven, en twee ervan hebben al teruggebeld of ge-WhatsApped.
 
-Je bent nu in een vergelijking beland waar snelheid de doorslag geeft. Dit is het grootste lek — 30 tot 45 procent van aanvragen gaat hier verloren. De oplossing is een directe respons-kanaal dat werkt buiten je eigen kantooruren: een AI telefonist of chatbot die de eerste bevestiging en intake doet binnen 5 minuten, zelfs als jij achter het stuur zit.
+Je bent nu in een vergelijking beland waar snelheid de doorslag geeft. Dit is het grootste lek: 30 tot 45 procent van aanvragen gaat hier verloren. De oplossing is een directe respons-kanaal dat werkt buiten je eigen kantooruren: een AI telefonist of chatbot die de eerste bevestiging en intake doet binnen 5 minuten, zelfs als jij achter het stuur zit.
 
 Met onze aanpak voor een [AI telefonist voor rijscholen](/voice-ai) handelt de eerste respons zichzelf af, en krijg jij pas een terugbel-taak als er menselijk werk nodig is.
 

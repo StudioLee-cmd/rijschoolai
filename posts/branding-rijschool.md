@@ -9,17 +9,17 @@ tags: ["Branding", "Merkopbouw"]
 cluster: "branding"
 ---
 
-Er zijn honderden rijscholen in Nederland. De meeste concurreren op prijs — wie biedt het goedkoopste lespakket? Maar de rijscholen die het best draaien, concurreren op merk. Ze zijn herkenbaar, betrouwbaar en de eerste keuze wanneer iemand wil leren rijden.
+Er zijn honderden rijscholen in Nederland. De meeste concurreren op prijs: wie biedt het goedkoopste lespakket? Maar de rijscholen die het best draaien, concurreren op merk. Ze zijn herkenbaar, betrouwbaar en de eerste keuze wanneer iemand wil leren rijden.
 
 ## Waarom branding werkt voor rijscholen
 
 Leerlingen kiezen een rijschool op basis van drie factoren:
 
-1. **Vertrouwen** — "Is deze rijschool betrouwbaar?"
-2. **Herkenning** — "Ik heb die auto wel eens zien rijden"
-3. **Aanbeveling** — "Mijn vriend heeft daar zijn rijbewijs gehaald"
+1. **Vertrouwen**: "Is deze rijschool betrouwbaar?"
+2. **Herkenning**: "Ik heb die auto wel eens zien rijden"
+3. **Aanbeveling**: "Mijn vriend heeft daar zijn rijbewijs gehaald"
 
-Branding versterkt alle drie. Een herkenbare auto op straat, een consistent online profiel en tevreden leerlingen die je aanbevelen — dat is de kracht van een merk.
+Branding versterkt alle drie. Een herkenbare auto op straat, een consistent online profiel en tevreden leerlingen die je aanbevelen: dat is de kracht van een merk.
 
 ## De bouwstenen van een rijschoolmerk
 
@@ -29,7 +29,7 @@ Je auto's zijn rijdende billboards. Zorg dat ze opvallen:
 
 - Kies een opvallende kleur of wrap
 - Zorg dat de auto's altijd schoon zijn
-- Rijd in je lesgebied — zichtbaarheid is alles
+- Rijd in je lesgebied, want zichtbaarheid is alles
 
 ### Consistente online aanwezigheid
 
@@ -61,17 +61,17 @@ Je [slagingspercentage](/blog/slagingspercentage-rijschool-verhogen) is je sterk
 
 De krachtigste branding komt van je leerlingen zelf:
 
-- **Geslaagd-foto's** — maak een herkenbare foto bij elk geslaagd examen
-- **Deel op social media** — leerlingen taggen je rijschool
-- **[Mond-tot-mondreclame](/blog/mond-tot-mondreclame-rijschool-stimuleren)** — geslaagde leerlingen vertellen het door
-- **Reviews** — vraag om een [Google review](/blog/meer-google-reviews-voor-je-rijschool) na het behalen van het rijbewijs
+- **Geslaagd-foto's**: maak een herkenbare foto bij elk geslaagd examen
+- **Deel op social media**: leerlingen taggen je rijschool
+- **[Mond-tot-mondreclame](/blog/mond-tot-mondreclame-rijschool-stimuleren)**: geslaagde leerlingen vertellen het door
+- **Reviews**: vraag om een [Google review](/blog/meer-google-reviews-voor-je-rijschool) na het behalen van het rijbewijs
 
 ## Branding-fouten die rijscholen maken
 
-1. **Alleen op prijs concurreren** — race to the bottom, laagste marge
-2. **Geen herkenbare auto** — gemiste zichtbaarheid
-3. **Inconsistente communicatie** — website zegt iets anders dan social media
-4. **Geen slagingspercentage tonen** — je sterkste argument onbenut laten
+1. **Alleen op prijs concurreren**: race to the bottom, laagste marge
+2. **Geen herkenbare auto**: gemiste zichtbaarheid
+3. **Inconsistente communicatie**: website zegt iets anders dan social media
+4. **Geen slagingspercentage tonen**: je sterkste argument onbenut laten
 
 ## Branding zonder groot budget
 
@@ -91,4 +91,4 @@ Bij StudioLee bouwen we merken voor rijscholen. Van [klantcommunicatie](/blog/kl
 
 ## Conclusie
 
-Branding als rijschool draait om herkenning en vertrouwen. Een opvallende auto, een consistent online profiel en een hoog slagingspercentage — dat is wat leerlingen overtuigt. Stop met concurreren op prijs en begin met bouwen aan een merk dat voor zich spreekt.
+Branding als rijschool draait om herkenning en vertrouwen. Een opvallende auto, een consistent online profiel en een hoog slagingspercentage: dat is wat leerlingen overtuigt. Stop met concurreren op prijs en begin met bouwen aan een merk dat voor zich spreekt.

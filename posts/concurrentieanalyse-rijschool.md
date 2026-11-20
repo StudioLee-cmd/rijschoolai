@@ -10,7 +10,7 @@ tags: ["Concurrentie"]
 ---
 ## Ken je concurrent beter dan jezelf
 
-In een stad met 30+ rijscholen is het verleidelijk om alleen naar je eigen bedrijf te kijken. Maar je potentiële leerlingen vergelijken je wél — ze openen 3-4 websites, checken Google-reviews en kiezen op basis van prijs, reviews en gevoel.
+In een stad met 30+ rijscholen is het verleidelijk om alleen naar je eigen bedrijf te kijken. Maar je potentiële leerlingen vergelijken je wél: ze openen 3-4 websites, checken Google-reviews en kiezen op basis van prijs, reviews en gevoel.
 
 Als je niet weet wat je concurrenten doen, kun je niet weten waarom leerlingen voor hen kiezen in plaats van voor jou.
 
@@ -49,9 +49,9 @@ Zijn ze actief op Instagram/TikTok? Posten ze geslaagde leerlingen? Hebben ze ee
 
 Concurrentieanalyse is geen kopieerwerk. Het doel is:
 
-1. **Kansen ontdekken** — wat biedt niemand in jouw markt? (bijv. avondlessen, spoedpakketten, lessen in het Engels)
-2. **Zwaktes vinden** — waar schieten zij tekort? (slechte reviews over communicatie? Geen online boeking?)
-3. **Je USP aanscherpen** — wat maakt jou anders? Leg dat helder uit op je website.
+1. **Kansen ontdekken**: wat biedt niemand in jouw markt? (bijv. avondlessen, spoedpakketten, lessen in het Engels)
+2. **Zwaktes vinden**: waar schieten zij tekort? (slechte reviews over communicatie? Geen online boeking?)
+3. **Je USP aanscherpen**: wat maakt jou anders? Leg dat helder uit op je website.
 
 
 
@@ -59,9 +59,9 @@ Concurrentieanalyse is geen kopieerwerk. Het doel is:
 
 Je hoeft dit niet allemaal handmatig te doen. Met de juiste tools draait het op de achtergrond terwijl jij gewoon je werk doet als rijschool.
 
-Een [SEO](/seo) vangt automatisch vragen op en plant afspraken in — ook buiten werktijd. Een [social media](/social-media) zorgt ervoor dat je bereikbaar bent zonder zelf de telefoon op te pakken. En met [automatische review-verzoeken](/reviews) bouw je ondertussen je online reputatie op.
+Een [SEO](/seo) vangt automatisch vragen op en plant afspraken in, ook buiten werktijd. Een [social media](/social-media) zorgt ervoor dat je bereikbaar bent zonder zelf de telefoon op te pakken. En met [automatische review-verzoeken](/reviews) bouw je ondertussen je online reputatie op.
 
-Het resultaat? Meer klanten, minder administratie, en een systeem dat draait zonder dat je eraan hoeft te denken. Alles begint met een [gratis scan](/gratis-scan) — we analyseren je huidige situatie en laten zien wat er mogelijk is.
+Het resultaat? Meer klanten, minder administratie, en een systeem dat draait zonder dat je eraan hoeft te denken. Alles begint met een [gratis scan](/gratis-scan): we analyseren je huidige situatie en laten zien wat er mogelijk is.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/samenwerken-als-rijschool-partners" class="text-dark fw-semibold">Samenwerken als rijschool: partners die leerlingen opleveren</a> →</p></div></div></div>
 
