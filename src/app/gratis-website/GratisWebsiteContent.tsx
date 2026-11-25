@@ -26,7 +26,7 @@ const ENKELVOUD: Record<string, string> = {
 };
 const nicheSingular = ENKELVOUD[nicheLower] || "zaak";
 
-const WEBHOOK_URL = "https://n8n.aireclamestudio.nl/webhook/freewebsite";
+const WEBHOOK_URL = "https://n8n.studiolee.nl/webhook/freewebsite";
 
 // De prijsladder — SSOT: alpha1/data/platform/prices.json (self/managed/websiteBuyout).
 // Wijzigen doe je dáár; deze regel volgt bij de copy-rollout mee.
